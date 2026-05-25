@@ -1,0 +1,20 @@
+{
+  "hpti_structured_devstral-24b": {
+    "n_evaluated": 500,
+    "NEM": 0.344,
+    "NF1": 0.17238405483405497,
+    "FP": 0.49146147790118366,
+    "latency_mean_ms": 2828.3098645210266,
+    "latency_p95_ms": 4746.735334396362,
+    "tokens_mean": 312.25
+  },
+  "hpti_prose_devstral-24b": {
+    "n_evaluated": 500,
+    "NEM": 0.312,
+    "NF1": 0.1911392496392496,
+    "FP": 0.5337677378177379,
+    "latency_mean_ms": 3503.343535423279,
+    "latency_p95_ms": 6580.696582794189,
+    "tokens_mean": 291.214
+  }
+}

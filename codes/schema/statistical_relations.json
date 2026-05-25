@@ -1,0 +1,211 @@
+{
+  "schema_version": "2.0",
+  "description": "29 statistical relations for quantitative claim grounding in Knowledge Graphs (pruned from original 46 based on empirical coverage analysis)",
+  "domain": "Environmental Sustainability",
+  "pruning_note": "17 relations dropped: 6 had zero triples in preliminary extraction (925 topics, 18K triples), 11 had <15 triples or were redundant with higher-coverage relations. See paper_journey.md for full rationale.",
+  "relations": [
+    {
+      "name": "HasNumericValue",
+      "description": "A specific numeric measurement or quantity",
+      "example": ["Global electricity generation", "HasNumericValue", "90%"],
+      "preliminary_count": 5786,
+      "tier": "high"
+    },
+    {
+      "name": "HasPercentileValue",
+      "description": "A percentage-based measurement or proportion",
+      "example": ["Renewable Energy", "HasPercentileValue", "28% of Electricity Generation"],
+      "preliminary_count": 4770,
+      "tier": "high"
+    },
+    {
+      "name": "HasContext",
+      "description": "The situational/temporal context of a statistic",
+      "example": ["Climate Change", "HasContext", "global temperatures rising since 1880"],
+      "preliminary_count": 1761,
+      "tier": "high"
+    },
+    {
+      "name": "HasStatistic",
+      "description": "A general statistical value associated with the entity",
+      "example": ["Carbon Emissions", "HasStatistic", "4.3 metric tons per capita"],
+      "preliminary_count": 1150,
+      "tier": "high"
+    },
+    {
+      "name": "PercentageOf",
+      "description": "A proportion or share of a total",
+      "example": ["Water Management Facilities", "PercentageOf", "Over 15% Total Electricity Consumption"],
+      "preliminary_count": 604,
+      "tier": "high"
+    },
+    {
+      "name": "HasMaxValue",
+      "description": "A maximum threshold or upper bound",
+      "example": ["Green Building Standards", "HasMaxValue", "LEED Platinum certification"],
+      "preliminary_count": 541,
+      "tier": "high"
+    },
+    {
+      "name": "HasMinValue",
+      "description": "A minimum threshold or lower bound",
+      "example": ["Waste Reduction Campaign", "HasMinValue", "30% reduction in waste production"],
+      "preliminary_count": 373,
+      "tier": "high"
+    },
+    {
+      "name": "HasCapacity",
+      "description": "An installed or planned capacity",
+      "example": ["Wind Energy", "HasCapacity", "63 GW installed globally"],
+      "preliminary_count": 347,
+      "tier": "high"
+    },
+    {
+      "name": "HasImpact",
+      "description": "A quantified or described impact/effect (absorbs former ImpactOf relation)",
+      "example": ["Renewable Energy Project", "HasImpact", "reducing carbon footprint by 40%"],
+      "preliminary_count": 239,
+      "tier": "high"
+    },
+    {
+      "name": "HasComparison",
+      "description": "A comparative quantitative relationship",
+      "example": ["Renewable Energy Adoption", "HasComparison", "surpassing fossil fuel usage in 2025"],
+      "preliminary_count": 233,
+      "tier": "high"
+    },
+    {
+      "name": "HasGrowthRate",
+      "description": "A growth or change rate over time",
+      "example": ["Solar PV Installation", "HasGrowthRate", "26% year-over-year growth in 2023"],
+      "preliminary_count": 230,
+      "tier": "high"
+    },
+    {
+      "name": "Reduces",
+      "description": "A quantified reduction effect",
+      "example": ["Sustainable Transportation", "Reduces", "carbon emissions by 30%"],
+      "preliminary_count": 219,
+      "tier": "high"
+    },
+    {
+      "name": "HasPolicyTarget",
+      "description": "A specific policy goal with deadline",
+      "example": ["European Union", "HasPolicyTarget", "40% renewable electricity by 2030"],
+      "preliminary_count": 218,
+      "tier": "high"
+    },
+    {
+      "name": "Increases",
+      "description": "A quantified increase",
+      "example": ["Renewable Energy Incentives", "Increases", "adoption rates by 12%"],
+      "preliminary_count": 218,
+      "tier": "high"
+    },
+    {
+      "name": "HasAverageValue",
+      "description": "A mean or average measurement",
+      "example": ["Vehicle Emissions Regulations", "HasAverageValue", "100 grams per kilometer"],
+      "preliminary_count": 202,
+      "tier": "high"
+    },
+    {
+      "name": "HasTrend",
+      "description": "A directional change over time (growth, decline, etc.)",
+      "example": ["Climate Action Plan", "HasTrend", "increasing adoption rates by 5% annually"],
+      "preliminary_count": 202,
+      "tier": "high"
+    },
+    {
+      "name": "Decreases",
+      "description": "A quantified decrease",
+      "example": ["Plastic Ban Policy", "Decreases", "plastic pollution by 40%"],
+      "preliminary_count": 176,
+      "tier": "medium"
+    },
+    {
+      "name": "Saves",
+      "description": "A quantified saving (resources, cost, time)",
+      "example": ["Water Conservation Measures", "Saves", "1825 gallons per household per year"],
+      "preliminary_count": 102,
+      "tier": "medium"
+    },
+    {
+      "name": "VolumeOf",
+      "description": "A volumetric or quantity measurement",
+      "example": ["Volume of Water Used in Agriculture", "VolumeOf", "70% of freshwater withdrawals"],
+      "preliminary_count": 98,
+      "tier": "medium"
+    },
+    {
+      "name": "EmissionOf",
+      "description": "An emission quantity associated with a source",
+      "example": ["CO2 Emissions", "EmissionOf", "transportation sector: 7.3 Gt annually"],
+      "preliminary_count": 92,
+      "tier": "medium"
+    },
+    {
+      "name": "HasAction",
+      "description": "An action/policy with quantitative implications",
+      "example": ["Climate Change Mitigation Strategies", "HasAction", "Implementing Carbon Pricing"],
+      "preliminary_count": 71,
+      "tier": "medium"
+    },
+    {
+      "name": "ConsumptionOf",
+      "description": "A consumption quantity",
+      "example": ["Energy Consumption", "ConsumptionOf", "residential buildings: 40% of total"],
+      "preliminary_count": 71,
+      "tier": "medium"
+    },
+    {
+      "name": "HasUnitOfMeasurement",
+      "description": "The measurement unit for a quantitative property",
+      "example": ["Water Conservation", "HasUnitOfMeasurement", "gallons per household per month"],
+      "preliminary_count": 71,
+      "tier": "medium"
+    },
+    {
+      "name": "EfficiencyOf",
+      "description": "An efficiency metric or rating",
+      "example": ["Solar PV Systems", "EfficiencyOf", "22% conversion rate"],
+      "preliminary_count": 64,
+      "tier": "medium"
+    },
+    {
+      "name": "RateOf",
+      "description": "A rate measurement (per unit time, per capita, etc.)",
+      "example": ["Fashion industry", "RateOf", "10% of Carbon Emissions annually"],
+      "preliminary_count": 48,
+      "tier": "low-valid"
+    },
+    {
+      "name": "PolicyOf",
+      "description": "A policy target or mandate with numbers",
+      "example": ["Climate Change Policy", "PolicyOf", "net zero emissions by 2050"],
+      "preliminary_count": 42,
+      "tier": "low-valid"
+    },
+    {
+      "name": "HasSource",
+      "description": "The authoritative source of the statistical claim",
+      "example": ["Environmental Report", "HasSource", "IPCC"],
+      "preliminary_count": 19,
+      "tier": "low-valid"
+    },
+    {
+      "name": "MitigationOf",
+      "description": "A mitigation target or achievement",
+      "example": ["Climate Mitigation Measures", "MitigationOf", "45% reduction in greenhouse gases by 2030"],
+      "preliminary_count": 9,
+      "tier": "low-valid"
+    },
+    {
+      "name": "RiskOf",
+      "description": "A quantified risk or probability",
+      "example": ["Climate Change", "RiskOf", "2x increase in extreme weather events by 2050"],
+      "preliminary_count": 5,
+      "tier": "low-valid"
+    }
+  ]
+}

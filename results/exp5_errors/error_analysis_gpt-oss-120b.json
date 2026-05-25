@@ -1,0 +1,111 @@
+{
+  "correct": {
+    "count": 155,
+    "fraction": 0.31,
+    "examples": [
+      {
+        "query": "By what percentage has the global number of trees decreased since the beginning of human agriculture?",
+        "answer": "The global number of trees has decreased by **46\u202f%** since the onset of human agriculture."
+      },
+      {
+        "query": "What was the estimated percentage reduction in the global abundance of tropical birds between 1950 and 2020 attributed to human-caused heat extremes?",
+        "answer": "The provided context does not contain a specific figure for the estimated percentage reduction in the global abundance of tropical birds between 1950 and 2020 that is attributed to human\u2011caused heat e"
+      },
+      {
+        "query": "What was the percentage reduction in Belu's carbon emissions in 2010?",
+        "answer": "The provided context does not contain any information about Belu\u2019s carbon emissions or a percentage reduction for the year 2010. Therefore, I cannot determine the percentage reduction in Belu\u2019s carbon"
+      },
+      {
+        "query": "What is the maximum percentage value for the partial rebound effect?",
+        "answer": "The context indicates that the rebound effect (i.e., the partial rebound effect) is **less than\u202f100\u202f%**. Therefore, the maximum percentage value for the partial rebound effect is any value up to, but "
+      },
+      {
+        "query": "What is the maximum flow rate for showerheads mandated by the Energy Policy Act of 1992?",
+        "answer": "The provided context does not include information about the maximum flow rate for showerheads mandated by the Energy Policy Act of 1992. Therefore, I cannot supply that specific figure based on the gi"
+      }
+    ]
+  },
+  "retrieval_failure": {
+    "count": 299,
+    "fraction": 0.598,
+    "examples": [
+      {
+        "query": "What is the specific consumption rate of Noor I CSP in liters per kWh?",
+        "answer": "The provided context does not include any information about the specific consumption rate of the Noor\u202fI CSP plant. It only gives a consumption figure for the Andasol unit (1.3\u202fUS\u202fgal/kWh) and other un"
+      },
+      {
+        "query": "What is the minimum petiole length of Paulownia tomentosa in inches?",
+        "answer": "The provided context contains minimum and maximum petiole length values only for **Pandorea nervosa**, not for **Paulownia tomentosa**. Therefore, there is no information available here to determine t"
+      },
+      {
+        "query": "How many tons of fishing gear were sent to Aquafil Group for recycling?",
+        "answer": "The provided context does not contain any information about the amount of fishing gear sent to Aquafil Group for recycling. Therefore, I cannot determine that figure from the given data."
+      },
+      {
+        "query": "What is the annual probability of a supervolcanic eruption?",
+        "answer": "The provided context does not contain any information about the annual probability of a supervolcanic eruption, so I cannot give a numerical answer based on the given data."
+      },
+      {
+        "query": "What is the estimated annual economic value of coral reef services?",
+        "answer": "The annual economic value of coral\u2011reef services is reported with a wide range of estimates:\n\n- A **2020 estimate** places the value at **US\u202f$9.9\u202ftrillion** per year.  \n- A **2014 estimate** gives a r"
+      }
+    ]
+  },
+  "injection_failure": {
+    "count": 26,
+    "fraction": 0.052,
+    "examples": [
+      {
+        "query": "What is the maximum pressure, in atmospheres, for the hydrothermal liquefaction process?",
+        "answer": "The provided information does not include any data about the maximum pressure for the hydrothermal liquefaction process. Therefore, I cannot give a value for that parameter."
+      },
+      {
+        "query": "What is the effectiveness rating of the Shark repellent composition?",
+        "answer": "The provided context does not include any information about the effectiveness rating of a shark\u2011repellent composition. Therefore, I cannot supply a rating based on the given data."
+      },
+      {
+        "query": "How many Euros are saved annually in Graz?",
+        "answer": "The provided context does not contain any information about annual savings in Graz, so I cannot determine how many Euros are saved there."
+      },
+      {
+        "query": "What is the maximum prison sentence for ecocide under European Parliament law?",
+        "answer": "The provided context does not include information about the maximum prison sentence for ecocide under European Parliament law."
+      },
+      {
+        "query": "What percentage of current anthropogenic CO2 emissions is offset by the HasImpact of Iron Fertilisation?",
+        "answer": "The provided context does not include any information about the impact of iron fertilisation, so I cannot determine what percentage of current anthropogenic CO\u2082 emissions it offsets."
+      }
+    ]
+  },
+  "hallucination_despite_injection": {
+    "count": 20,
+    "fraction": 0.04,
+    "examples": [
+      {
+        "query": "What percentage of annual global CO2 emissions is removed by land-surface carbon sink processes?",
+        "answer": "Based on the information provided, forests\u2014one of the main land\u2011surface carbon sinks\u2014absorb **about\u202f15\u202f% of worldwide carbon\u2011dioxide emissions**. This figure represents the share of annual global CO\u2082 "
+      },
+      {
+        "query": "What was the estimated risk of AI causing an extremely bad outcome in 2019?",
+        "answer": "The provided context does not include any information about the estimated risk of AI causing an extremely bad outcome in 2019. Therefore, I cannot give a specific figure for that risk based on the giv"
+      },
+      {
+        "query": "What is the maximum temperature of a combustion chamber in degrees Celsius?",
+        "answer": "The maximum temperature specified for a high\u2011pressure combustion chamber is **1,500\u202f\u00b0C**\u30101\u3011."
+      },
+      {
+        "query": "What is the average area burned by forest fires in Canada per year?",
+        "answer": "The provided information gives an average of **54,500\u202fsquare\u202fkilometers per year** (about 13\u202fmillion acres) for wildfires in **Canada and the United States combined**. It does not include a separate f"
+      },
+      {
+        "query": "What is the maximum vegetation load capacity for extensive green roofs?",
+        "answer": "The only figure given for a vegetation\u2011load limit is the \u201cvegetation limit for effective mulching,\u201d which is stated as **25\u202ftons per acre**. That is the maximum vegetation load capacity indicated in t"
+      }
+    ]
+  },
+  "other": {
+    "count": 0,
+    "fraction": 0.0,
+    "examples": []
+  }
+}

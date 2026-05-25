@@ -1,0 +1,110 @@
+{
+  "hpti_t0.0_devstral-24b": {
+    "n_evaluated": 500,
+    "NEM": 0.344,
+    "NF1": 0.17418210678210697,
+    "FP": 0.4868439632405105,
+    "latency_mean_ms": 3009.0427675247192,
+    "latency_p95_ms": 4858.937740325928,
+    "tokens_mean": 312.672
+  },
+  "zero_shot_t0.0_devstral-24b": {
+    "n_evaluated": 500,
+    "NEM": 0.484,
+    "NF1": 0.12019660735066169,
+    "FP": 0.12264366157591398,
+    "latency_mean_ms": 7069.8381934165955,
+    "latency_p95_ms": 10005.53846359253,
+    "tokens_mean": 446.526
+  },
+  "hpti_t0.1_devstral-24b": {
+    "n_evaluated": 500,
+    "NEM": 0.34,
+    "NF1": 0.17691688311688333,
+    "FP": 0.4906487836724678,
+    "latency_mean_ms": 3031.171736240387,
+    "latency_p95_ms": 5272.151708602905,
+    "tokens_mean": 312.146
+  },
+  "zero_shot_t0.1_devstral-24b": {
+    "n_evaluated": 500,
+    "NEM": 0.508,
+    "NF1": 0.12228500062552417,
+    "FP": 0.12174098318955452,
+    "latency_mean_ms": 7261.233083248138,
+    "latency_p95_ms": 10266.213178634644,
+    "tokens_mean": 443.77
+  },
+  "hpti_t0.3_devstral-24b": {
+    "n_evaluated": 500,
+    "NEM": 0.342,
+    "NF1": 0.1781877192982457,
+    "FP": 0.49189426130492636,
+    "latency_mean_ms": 2930.316026210785,
+    "latency_p95_ms": 4669.296026229858,
+    "tokens_mean": 312.382
+  },
+  "zero_shot_t0.3_devstral-24b": {
+    "n_evaluated": 500,
+    "NEM": 0.498,
+    "NF1": 0.12023150795391471,
+    "FP": 0.11681325344404173,
+    "latency_mean_ms": 6956.0211391448975,
+    "latency_p95_ms": 10083.701133728027,
+    "tokens_mean": 446.886
+  },
+  "hpti_t0.5_devstral-24b": {
+    "n_evaluated": 500,
+    "NEM": 0.334,
+    "NF1": 0.18002846393372712,
+    "FP": 0.4968967877152088,
+    "latency_mean_ms": 2767.250810146332,
+    "latency_p95_ms": 4451.274156570435,
+    "tokens_mean": 311.652
+  },
+  "zero_shot_t0.5_devstral-24b": {
+    "n_evaluated": 500,
+    "NEM": 0.498,
+    "NF1": 0.12070496811375256,
+    "FP": 0.12449827151129894,
+    "latency_mean_ms": 6966.394120693207,
+    "latency_p95_ms": 9840.36374092102,
+    "tokens_mean": 448.68
+  },
+  "hpti_t0.7_devstral-24b": {
+    "n_evaluated": 500,
+    "NEM": 0.34,
+    "NF1": 0.1776565101565103,
+    "FP": 0.48393262293262274,
+    "latency_mean_ms": 3194.6219992637634,
+    "latency_p95_ms": 5753.231525421143,
+    "tokens_mean": 315.492
+  },
+  "zero_shot_t0.7_devstral-24b": {
+    "n_evaluated": 500,
+    "NEM": 0.496,
+    "NF1": 0.11920155058399368,
+    "FP": 0.12057162250575715,
+    "latency_mean_ms": 6974.952661514282,
+    "latency_p95_ms": 9937.630653381348,
+    "tokens_mean": 446.458
+  },
+  "hpti_t1.0_devstral-24b": {
+    "n_evaluated": 500,
+    "NEM": 0.344,
+    "NF1": 0.17726305916305926,
+    "FP": 0.48992853929696023,
+    "latency_mean_ms": 2960.7927589416504,
+    "latency_p95_ms": 4905.306577682495,
+    "tokens_mean": 317.65
+  },
+  "zero_shot_t1.0_devstral-24b": {
+    "n_evaluated": 500,
+    "NEM": 0.504,
+    "NF1": 0.10866829649748319,
+    "FP": 0.11216696346695387,
+    "latency_mean_ms": 7596.99671125412,
+    "latency_p95_ms": 12396.185874938965,
+    "tokens_mean": 458.084
+  }
+}

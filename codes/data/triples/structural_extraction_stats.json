@@ -1,0 +1,14 @@
+{
+  "total_triples": 306231,
+  "unique_subjects": 6871,
+  "relation_distribution": {
+    "RelatedTo": 244804,
+    "BelongsToCategory": 34988,
+    "Synonym": 26439
+  },
+  "method_distribution": {
+    "wikipedia_hyperlink": 244804,
+    "wikipedia_category": 34988,
+    "wikipedia_redirect": 26439
+  }
+}

@@ -1,0 +1,6694 @@
+[
+  {
+    "id": 0,
+    "question": "By what percentage has the global number of trees decreased since the beginning of human agriculture?",
+    "gold_triple": {
+      "subject": "Number of trees worldwide",
+      "relation": "Decreases",
+      "object": "46% since the start of human agriculture"
+    },
+    "gold_numbers": [
+      "46%"
+    ],
+    "source_topic": "Tree"
+  },
+  {
+    "id": 1,
+    "question": "What is the specific consumption rate of Noor I CSP in liters per kWh?",
+    "gold_triple": {
+      "subject": "Noor I CSP",
+      "relation": "ConsumptionOf",
+      "object": "4.6 liters per kWh"
+    },
+    "gold_numbers": [
+      "4.6"
+    ],
+    "source_topic": "Ouarzazate Solar Power Station"
+  },
+  {
+    "id": 2,
+    "question": "What is the minimum petiole length of Paulownia tomentosa in inches?",
+    "gold_triple": {
+      "subject": "Paulownia tomentosa petiole length",
+      "relation": "HasMinValue",
+      "object": "4 in"
+    },
+    "gold_numbers": [
+      "4"
+    ],
+    "source_topic": "Paulownia"
+  },
+  {
+    "id": 3,
+    "question": "How many tons of fishing gear were sent to Aquafil Group for recycling?",
+    "gold_triple": {
+      "subject": "Fishing gear sent to Aquafil Group for recycling",
+      "relation": "VolumeOf",
+      "object": "22 tons"
+    },
+    "gold_numbers": [
+      "22"
+    ],
+    "source_topic": "Ghost net"
+  },
+  {
+    "id": 4,
+    "question": "What was the estimated percentage reduction in the global abundance of tropical birds between 1950 and 2020 attributed to human-caused heat extremes?",
+    "gold_triple": {
+      "subject": "Global abundance of tropical birds",
+      "relation": "Reduces",
+      "object": "25–38% reduction from 1950 to 2020 due to human-caused intensification of heat extremes"
+    },
+    "gold_numbers": [
+      "25",
+      "38%",
+      "1950",
+      "2020"
+    ],
+    "source_topic": "2025 in climate change"
+  },
+  {
+    "id": 5,
+    "question": "What is the annual probability of a supervolcanic eruption?",
+    "gold_triple": {
+      "subject": "Supervolcanic eruption",
+      "relation": "RiskOf",
+      "object": "0.0067% annual probability"
+    },
+    "gold_numbers": [
+      "0.0067%"
+    ],
+    "source_topic": "Human extinction"
+  },
+  {
+    "id": 6,
+    "question": "What is the estimated annual economic value of coral reef services?",
+    "gold_triple": {
+      "subject": "Coral reef services",
+      "relation": "HasAverageValue",
+      "object": "$172 billion per year"
+    },
+    "gold_numbers": [
+      "172"
+    ],
+    "source_topic": "Coral bleaching"
+  },
+  {
+    "id": 7,
+    "question": "What is the water splitting rate of the photocatalyst in mmol/h?",
+    "gold_triple": {
+      "subject": "Photocatalyst",
+      "relation": "RateOf",
+      "object": "0.4 mmol/h water splitting rate"
+    },
+    "gold_numbers": [
+      "0.4"
+    ],
+    "source_topic": "Photocatalytic water splitting"
+  },
+  {
+    "id": 8,
+    "question": "What was the percentage reduction in Belu's carbon emissions in 2010?",
+    "gold_triple": {
+      "subject": "Belu's carbon emissions",
+      "relation": "Reduces",
+      "object": "22% in 2010"
+    },
+    "gold_numbers": [
+      "22%",
+      "2010"
+    ],
+    "source_topic": "Belu (company)"
+  },
+  {
+    "id": 9,
+    "question": "What is the maximum percentage value for the partial rebound effect?",
+    "gold_triple": {
+      "subject": "Partial rebound effect",
+      "relation": "HasMaxValue",
+      "object": "100"
+    },
+    "gold_numbers": [
+      "100"
+    ],
+    "source_topic": "Rebound effect (conservation)"
+  },
+  {
+    "id": 10,
+    "question": "What is the maximum THC percentage for the product announced by the Stanleys in September 2014?",
+    "gold_triple": {
+      "subject": "Product announced by the Stanleys in September 2014",
+      "relation": "HasMaxValue",
+      "object": "less than 0.3% THC"
+    },
+    "gold_numbers": [
+      "0.3%"
+    ],
+    "source_topic": "Blueberry Diesel"
+  },
+  {
+    "id": 11,
+    "question": "What is the estimated annual heating cost for an all-electric home?",
+    "gold_triple": {
+      "subject": "Estimated annual heating cost for all-electric home",
+      "relation": "HasNumericValue",
+      "object": "750"
+    },
+    "gold_numbers": [
+      "750"
+    ],
+    "source_topic": "Trombe wall"
+  },
+  {
+    "id": 12,
+    "question": "What is the efficiency of the glazed collector area?",
+    "gold_triple": {
+      "subject": "Glazed collector area",
+      "relation": "EfficiencyOf",
+      "object": "0.5 percent"
+    },
+    "gold_numbers": [
+      "0.5"
+    ],
+    "source_topic": "Solar updraft tower"
+  },
+  {
+    "id": 13,
+    "question": "What is the average observation rate in hours for the continental US?",
+    "gold_triple": {
+      "subject": "Observation rate for continental US",
+      "relation": "RateOf",
+      "object": "2.25 hours"
+    },
+    "gold_numbers": [
+      "2.25"
+    ],
+    "source_topic": "Geostationary Carbon Cycle Observatory"
+  },
+  {
+    "id": 14,
+    "question": "What is the maximum flow rate for showerheads mandated by the Energy Policy Act of 1992?",
+    "gold_triple": {
+      "subject": "Showerhead maximum flow rate standard",
+      "relation": "HasSource",
+      "object": "Energy Policy Act of 1992"
+    },
+    "gold_numbers": [
+      "1992"
+    ],
+    "source_topic": "Residential water use in the U.S. and Canada"
+  },
+  {
+    "id": 15,
+    "question": "What was the total volume of dead algae removed from Beijing's waterways during the 2008 Olympics cleanup?",
+    "gold_triple": {
+      "subject": "Beijing Olympics algae cleanup (2008)",
+      "relation": "VolumeOf",
+      "object": "20,000 tons of dead algae"
+    },
+    "gold_numbers": [
+      "20,000"
+    ],
+    "source_topic": "RED TIDE"
+  },
+  {
+    "id": 16,
+    "question": "By what percentage were nitrogen oxide air concentrations targeted to be reduced by 2010?",
+    "gold_triple": {
+      "subject": "Nitrogen oxides air concentrations",
+      "relation": "HasPolicyTarget",
+      "object": "reduced by 41% by 2010"
+    },
+    "gold_numbers": [
+      "41%",
+      "2010"
+    ],
+    "source_topic": "Air quality and EU legislation"
+  },
+  {
+    "id": 17,
+    "question": "How many deaths were attributed to PM2.5 exposure in 2023?",
+    "gold_triple": {
+      "subject": "PM2.5 exposure",
+      "relation": "HasImpact",
+      "object": "7.9 million deaths in 2023"
+    },
+    "gold_numbers": [
+      "7.9",
+      "2023"
+    ],
+    "source_topic": "Particulate matter"
+  },
+  {
+    "id": 18,
+    "question": "What is the approximate ratio of current global electricity consumption compared to the level in 1981?",
+    "gold_triple": {
+      "subject": "Global electricity consumption",
+      "relation": "HasComparison",
+      "object": "almost exactly three times the amount in 1981"
+    },
+    "gold_numbers": [
+      "1981"
+    ],
+    "source_topic": "Electric energy consumption"
+  },
+  {
+    "id": 19,
+    "question": "By what percentage does the average biomass of individual plants in a monostand decrease for every doubling in density?",
+    "gold_triple": {
+      "subject": "Average biomass of individual plants in a monostand",
+      "relation": "Decreases",
+      "object": "30-40% for every doubling in density"
+    },
+    "gold_numbers": [
+      "30",
+      "-40%"
+    ],
+    "source_topic": "Plant density"
+  },
+  {
+    "id": 20,
+    "question": "What year is listed as the source for the Alkali Lake water testing results in the DEQ factsheet?",
+    "gold_triple": {
+      "subject": "Source of Alkali Lake water testing results",
+      "relation": "HasSource",
+      "object": "DEQ's 2007 factsheet"
+    },
+    "gold_numbers": [
+      "2007"
+    ],
+    "source_topic": "Alkali Lake Chemical Waste Dump"
+  },
+  {
+    "id": 21,
+    "question": "How many gallons of water does a single waterless urinal save per year?",
+    "gold_triple": {
+      "subject": "Water savings per waterless urinal",
+      "relation": "Saves",
+      "object": "45,000 gallons of water per year"
+    },
+    "gold_numbers": [
+      "45,000"
+    ],
+    "source_topic": "Green building on college campuses"
+  },
+  {
+    "id": 22,
+    "question": "What is the efficiency range of cleaner wood burning stoves?",
+    "gold_triple": {
+      "subject": "Cleaner wood burning",
+      "relation": "EfficiencyOf",
+      "object": "60-80%"
+    },
+    "gold_numbers": [
+      "60",
+      "-80%"
+    ],
+    "source_topic": "Renewable heat"
+  },
+  {
+    "id": 23,
+    "question": "How many bikes are there per person in the Netherlands?",
+    "gold_triple": {
+      "subject": "Bikes per person in the Netherlands",
+      "relation": "HasNumericValue",
+      "object": "about 1.3"
+    },
+    "gold_numbers": [
+      "1.3"
+    ],
+    "source_topic": "Active mobility"
+  },
+  {
+    "id": 24,
+    "question": "What percentage reduction in greenhouse gas emissions did Brazil target for the year 2020?",
+    "gold_triple": {
+      "subject": "Brazil greenhouse gas emissions reduction target",
+      "relation": "HasPolicyTarget",
+      "object": "38.9% by 2020"
+    },
+    "gold_numbers": [
+      "38.9%",
+      "2020"
+    ],
+    "source_topic": "Landfill gas emission reduction in Brazil"
+  },
+  {
+    "id": 25,
+    "question": "What is the projected impact in metric tons of emissions by 2032 from the mitigation of EPA regulations?",
+    "gold_triple": {
+      "subject": "EPA regulations projected impact",
+      "relation": "MitigationOf",
+      "object": "7 billion metric tons of emissions by 2032"
+    },
+    "gold_numbers": [
+      "7",
+      "2032"
+    ],
+    "source_topic": "United States Environmental Protection Agency"
+  },
+  {
+    "id": 26,
+    "question": "What percentage of the regional average energy consumption must new buildings, developments, and major renovations meet according to the policy target?",
+    "gold_triple": {
+      "subject": "All new buildings, developments and major renovations",
+      "relation": "HasPolicyTarget",
+      "object": "energy consumption performance standard of 70% of the regional average"
+    },
+    "gold_numbers": [
+      "70%"
+    ],
+    "source_topic": "The 2030 °Challenge"
+  },
+  {
+    "id": 27,
+    "question": "What is the percentage range for the reduction of solids control?",
+    "gold_triple": {
+      "subject": "Solids control",
+      "relation": "Reduces",
+      "object": "40-80%"
+    },
+    "gold_numbers": [
+      "40",
+      "-80%"
+    ],
+    "source_topic": "Green bridge (filtration system)"
+  },
+  {
+    "id": 28,
+    "question": "How many litres of PET bottles does Isaac Kola have the capacity to hold?",
+    "gold_triple": {
+      "subject": "Isaac Kola",
+      "relation": "HasCapacity",
+      "object": "2.200 litres PET bottles"
+    },
+    "gold_numbers": [
+      "2.200"
+    ],
+    "source_topic": "Agua Vida"
+  },
+  {
+    "id": 29,
+    "question": "By what percentage is the published population count of space objects underestimated?",
+    "gold_triple": {
+      "subject": "Published population count of space objects",
+      "relation": "HasStatistic",
+      "object": "at least 50% too low"
+    },
+    "gold_numbers": [
+      "50%"
+    ],
+    "source_topic": "Kessler syndrome"
+  },
+  {
+    "id": 30,
+    "question": "What is the minimum risk ratio of cancer from background levels of dioxins?",
+    "gold_triple": {
+      "subject": "Risk of cancer from background level of dioxins",
+      "relation": "HasMinValue",
+      "object": "1:10000"
+    },
+    "gold_numbers": [
+      "1",
+      "10000"
+    ],
+    "source_topic": "Polychlorinated dibenzodioxins"
+  },
+  {
+    "id": 31,
+    "question": "What is the installed capacity of the Beauharnois Hydroelectric Generating Station in megawatts?",
+    "gold_triple": {
+      "subject": "Beauharnois Hydroelectric Generating Station",
+      "relation": "HasCapacity",
+      "object": "1,853 MW"
+    },
+    "gold_numbers": [
+      "1,853"
+    ],
+    "source_topic": "Run-of-the-river hydroelectricity"
+  },
+  {
+    "id": 32,
+    "question": "What is the exact percentage change in food insecurity in Oceania from 2023 to 2024?",
+    "gold_triple": {
+      "subject": "Food insecurity in Oceania",
+      "relation": "HasTrend",
+      "object": "slight decline from 2023 to 2024"
+    },
+    "gold_numbers": [
+      "2023",
+      "2024"
+    ],
+    "source_topic": "Food security"
+  },
+  {
+    "id": 33,
+    "question": "How many pounds of cardboard end up in landfills each year?",
+    "gold_triple": {
+      "subject": "Cardboard",
+      "relation": "VolumeOf",
+      "object": "940,000 pounds ending up in landfill each year"
+    },
+    "gold_numbers": [
+      "940,000"
+    ],
+    "source_topic": "Waste"
+  },
+  {
+    "id": 34,
+    "question": "What is the energy efficiency of IBTS water desalination in kWh per cubic metre of distillate?",
+    "gold_triple": {
+      "subject": "IBTS water Desalination",
+      "relation": "EfficiencyOf",
+      "object": "0.45 kWh per cubic metre of distillate"
+    },
+    "gold_numbers": [
+      "0.45"
+    ],
+    "source_topic": "IBTS Greenhouse"
+  },
+  {
+    "id": 35,
+    "question": "What percentage of the world's total electricity use is attributed to the environmental footprint of the sector?",
+    "gold_triple": {
+      "subject": "Environmental footprint of the sector",
+      "relation": "ConsumptionOf",
+      "object": "5-9% of the world's total electricity use"
+    },
+    "gold_numbers": [
+      "5",
+      "-9%"
+    ],
+    "source_topic": "Green information system"
+  },
+  {
+    "id": 36,
+    "question": "What is the maximum pressure, in atmospheres, for the hydrothermal liquefaction process?",
+    "gold_triple": {
+      "subject": "Hydrothermal liquefaction process pressure",
+      "relation": "HasMaxValue",
+      "object": "178 atm"
+    },
+    "gold_numbers": [
+      "178"
+    ],
+    "source_topic": "Hydrothermal liquefaction"
+  },
+  {
+    "id": 37,
+    "question": "By what percentage do winter wheat yields increase under planned deficit irrigation in Turkey compared to rainfed cultivation?",
+    "gold_triple": {
+      "subject": "Yields of winter wheat under planned DI in Turkey",
+      "relation": "Increases",
+      "object": "65% compared to rainfed cultivation"
+    },
+    "gold_numbers": [
+      "65%"
+    ],
+    "source_topic": "Deficit irrigation"
+  },
+  {
+    "id": 38,
+    "question": "How much money is saved over the lifespan of a single parking lot by implementing West Union permeable pavement?",
+    "gold_triple": {
+      "subject": "West Union permeable pavement implementation",
+      "relation": "Saves",
+      "object": "$2.5 million over the lifespan of a single parking lot"
+    },
+    "gold_numbers": [
+      "2.5"
+    ],
+    "source_topic": "Sustainable drainage system"
+  },
+  {
+    "id": 39,
+    "question": "How many cubic meters of water are required to produce one ton of cotton fiber?",
+    "gold_triple": {
+      "subject": "Cotton",
+      "relation": "ConsumptionOf",
+      "object": "3644 cubic meters of water to grow one ton of fiber"
+    },
+    "gold_numbers": [
+      "3644"
+    ],
+    "source_topic": "Environmental impact of fashion"
+  },
+  {
+    "id": 40,
+    "question": "How many students have completed doctoral theses at the WildCRU?",
+    "gold_triple": {
+      "subject": "WildCRU",
+      "relation": "HasNumericValue",
+      "object": "Over 45 students completed doctoral theses"
+    },
+    "gold_numbers": [
+      "45"
+    ],
+    "source_topic": "WildCRU"
+  },
+  {
+    "id": 41,
+    "question": "By what percentage do mental health disorders increase following a 1 °C rise in average temperature over a five-year period?",
+    "gold_triple": {
+      "subject": "1 °C rise in average temperature over five years",
+      "relation": "HasImpact",
+      "object": "2% increase in mental health disorders"
+    },
+    "gold_numbers": [
+      "2%"
+    ],
+    "source_topic": "Effects of climate change on human health"
+  },
+  {
+    "id": 42,
+    "question": "What is the annual capacity of the plant in US gallons?",
+    "gold_triple": {
+      "subject": "Plant",
+      "relation": "HasCapacity",
+      "object": "75 million US gallons per year"
+    },
+    "gold_numbers": [
+      "75"
+    ],
+    "source_topic": "Hydrotreated vegetable oil"
+  },
+  {
+    "id": 43,
+    "question": "What is the effectiveness rating of the Shark repellent composition?",
+    "gold_triple": {
+      "subject": "Shark repellent composition",
+      "relation": "EfficiencyOf",
+      "object": "70% effectiveness rating"
+    },
+    "gold_numbers": [
+      "70%"
+    ],
+    "source_topic": "Shark repellent"
+  },
+  {
+    "id": 44,
+    "question": "How many terrestrial and freshwater animal families were studied?",
+    "gold_triple": {
+      "subject": "Terrestrial and freshwater animal families studied",
+      "relation": "HasNumericValue",
+      "object": "Over 600"
+    },
+    "gold_numbers": [
+      "600"
+    ],
+    "source_topic": "Carboniferous rainforest collapse"
+  },
+  {
+    "id": 45,
+    "question": "What was the global prevalence of moderate or severe food insecurity in 2021?",
+    "gold_triple": {
+      "subject": "Global prevalence of moderate or severe food insecurity",
+      "relation": "HasTrend",
+      "object": "declined gradually since 2021"
+    },
+    "gold_numbers": [
+      "2021"
+    ],
+    "source_topic": "Food security"
+  },
+  {
+    "id": 46,
+    "question": "What percentage of forests disappeared in Seoul?",
+    "gold_triple": {
+      "subject": "Forests disappeared in Seoul",
+      "relation": "HasPercentileValue",
+      "object": "20"
+    },
+    "gold_numbers": [
+      "20"
+    ],
+    "source_topic": "Sustainable landscape architecture"
+  },
+  {
+    "id": 47,
+    "question": "What was the number of air pollution deaths in Africa in 2019?",
+    "gold_triple": {
+      "subject": "Air pollution deaths in Africa",
+      "relation": "HasContext",
+      "object": "2019"
+    },
+    "gold_numbers": [
+      "2019"
+    ],
+    "source_topic": "Environmental issues in Africa"
+  },
+  {
+    "id": 48,
+    "question": "How many million metric tons of carbon dioxide does the MitigationOf of the Clean Power Plan account for?",
+    "gold_triple": {
+      "subject": "Clean Power Plan",
+      "relation": "MitigationOf",
+      "object": "789 million metric tons of carbon dioxide"
+    },
+    "gold_numbers": [
+      "789"
+    ],
+    "source_topic": "United States Environmental Protection Agency"
+  },
+  {
+    "id": 49,
+    "question": "What is the reduction in performance of olive fibre and straw fibre insulation panels in Bari during the cooling season?",
+    "gold_triple": {
+      "subject": "Performance of olive fibre and straw fibre insulation panels in Bari during cooling season",
+      "relation": "Reduces",
+      "object": "14"
+    },
+    "gold_numbers": [
+      "14"
+    ],
+    "source_topic": "Straw-bale construction"
+  },
+  {
+    "id": 50,
+    "question": "What is the approximate probability of a 100-year flood occurring?",
+    "gold_triple": {
+      "subject": "100-year flood",
+      "relation": "RiskOf",
+      "object": "probability of around 63%"
+    },
+    "gold_numbers": [
+      "63%"
+    ],
+    "source_topic": "Flood"
+  },
+  {
+    "id": 51,
+    "question": "How many Euros are saved annually in Graz?",
+    "gold_triple": {
+      "subject": "Annual savings in Graz",
+      "relation": "Saves",
+      "object": "2 million Euros"
+    },
+    "gold_numbers": [
+      "2"
+    ],
+    "source_topic": "EcoProfit"
+  },
+  {
+    "id": 52,
+    "question": "What percentage reduction in greenhouse gas emissions for 2030 was removed by the Climate Change (Emissions Reduction Targets) (Scotland) Act 2019?",
+    "gold_triple": {
+      "subject": "Climate Change (Emissions Reduction Targets) (Scotland) Act 2019",
+      "relation": "HasAction",
+      "object": "remove the target of a reduction in greenhouse gas emissions of 75% for 2030"
+    },
+    "gold_numbers": [
+      "75%",
+      "2030"
+    ],
+    "source_topic": "Climate Change (Scotland) Act 2009"
+  },
+  {
+    "id": 53,
+    "question": "How many tonnes of fuel does SolidSail save per year?",
+    "gold_triple": {
+      "subject": "SolidSail fuel savings volume",
+      "relation": "Saves",
+      "object": "more than 2,500 tonnes of fuel per year"
+    },
+    "gold_numbers": [
+      "2,500"
+    ],
+    "source_topic": "SolidSail"
+  },
+  {
+    "id": 54,
+    "question": "What is the total primary forest area in Europe in million hectares?",
+    "gold_triple": {
+      "subject": "Primary forest area in Europe",
+      "relation": "HasNumericValue",
+      "object": "311 million ha"
+    },
+    "gold_numbers": [
+      "311"
+    ],
+    "source_topic": "Old-growth forest"
+  },
+  {
+    "id": 55,
+    "question": "What is the decrease in crop output in greenhouses with half their roof covered in panels?",
+    "gold_triple": {
+      "subject": "Crop output in greenhouses with half roof covered in panels",
+      "relation": "Decreases",
+      "object": "64"
+    },
+    "gold_numbers": [
+      "64"
+    ],
+    "source_topic": "Agrivoltaics"
+  },
+  {
+    "id": 56,
+    "question": "How many metric tons of wood does CalFibre save by using rice-straw instead of timber?",
+    "gold_triple": {
+      "subject": "CalFibre utilization of rice-straw instead of timber",
+      "relation": "Saves",
+      "object": "180,000 metric tons of wood"
+    },
+    "gold_numbers": [
+      "180,000"
+    ],
+    "source_topic": "Agricultural waste"
+  },
+  {
+    "id": 57,
+    "question": "How many kilograms of carbon dioxide equivalent are emitted per kilogram of ammonium nitrate manufactured?",
+    "gold_triple": {
+      "subject": "Manufacture of ammonium nitrate",
+      "relation": "EmissionOf",
+      "object": "over 2 kilograms of carbon dioxide equivalent per kilogram"
+    },
+    "gold_numbers": [
+      "2"
+    ],
+    "source_topic": "Climate-friendly gardening"
+  },
+  {
+    "id": 58,
+    "question": "By what percentage would global reflectivity increase if all urban, flat roofs in warm climates were whitened?",
+    "gold_triple": {
+      "subject": "Whitening all urban, flat roofs in warm climates",
+      "relation": "Increases",
+      "object": "global reflectivity by 10%"
+    },
+    "gold_numbers": [
+      "10%"
+    ],
+    "source_topic": "Reflective surfaces (climate engineering)"
+  },
+  {
+    "id": 59,
+    "question": "What is the average density of plastic pollution in particles per square kilometer?",
+    "gold_triple": {
+      "subject": "Plastic pollution density",
+      "relation": "HasAverageValue",
+      "object": "26,898 particles per square kilometer"
+    },
+    "gold_numbers": [
+      "26,898"
+    ],
+    "source_topic": "South Pacific garbage patch"
+  },
+  {
+    "id": 60,
+    "question": "By how much is the Trump administration's estimated deregulation expected to increase wages by 2024?",
+    "gold_triple": {
+      "subject": "Trump administration estimated deregulation",
+      "relation": "Increases",
+      "object": "wages by over $30 billion by 2024"
+    },
+    "gold_numbers": [
+      "30",
+      "2024"
+    ],
+    "source_topic": "Environmental policy of the first Trump administration"
+  },
+  {
+    "id": 61,
+    "question": "What unit of measurement is used for forest stand description?",
+    "gold_triple": {
+      "subject": "Forest stand description",
+      "relation": "HasUnitOfMeasurement",
+      "object": "10ths or 10%s"
+    },
+    "gold_numbers": [
+      "10",
+      "10%"
+    ],
+    "source_topic": "Forest stand"
+  },
+  {
+    "id": 62,
+    "question": "What is the daily water treatment capacity of the Katosi Water Treatment Plant in liters?",
+    "gold_triple": {
+      "subject": "Katosi Water Treatment Plant",
+      "relation": "HasCapacity",
+      "object": "120,000,000 liters per day"
+    },
+    "gold_numbers": [
+      "120,000,000"
+    ],
+    "source_topic": "Katosi Water Works"
+  },
+  {
+    "id": 63,
+    "question": "How much water, in acre-feet, is stored in the Carrizo ASR facility?",
+    "gold_triple": {
+      "subject": "Carrizo ASR facility water storage",
+      "relation": "VolumeOf",
+      "object": "more than 91,000 acre-feet"
+    },
+    "gold_numbers": [
+      "91,000"
+    ],
+    "source_topic": "Aquifer storage and recovery"
+  },
+  {
+    "id": 64,
+    "question": "What percentage reduction in pesticide use has been observed for GM cotton in Australia compared to non-transgenic varieties?",
+    "gold_triple": {
+      "subject": "Pesticide use for GM cotton in Australia",
+      "relation": "Reduces",
+      "object": "85% reduction compared to non-transgenic varieties"
+    },
+    "gold_numbers": [
+      "85%"
+    ],
+    "source_topic": "Cotton"
+  },
+  {
+    "id": 65,
+    "question": "By what factor did the growth rate of extreme heat exposure in cities with a wet bulb globe temperature above 30 °C increase between 1983 and 2016?",
+    "gold_triple": {
+      "subject": "Extreme heat exposure in cities with a wet bulb globe temperature above 30 °C",
+      "relation": "HasGrowthRate",
+      "object": "tripled between 1983 and 2016"
+    },
+    "gold_numbers": [
+      "1983",
+      "2016"
+    ],
+    "source_topic": "Effects of climate change on human health"
+  },
+  {
+    "id": 66,
+    "question": "What is the percentile value of the BRIC average consumption-based emissions deficit relative to production-based emissions?",
+    "gold_triple": {
+      "subject": "BRIC average consumption-based emissions deficit",
+      "relation": "HasPercentileValue",
+      "object": "18.5% compared to production-based emissions"
+    },
+    "gold_numbers": [
+      "18.5%"
+    ],
+    "source_topic": "Greenhouse gas inventory"
+  },
+  {
+    "id": 67,
+    "question": "Approximately what percentage of insects live in the soil?",
+    "gold_triple": {
+      "subject": "Insects",
+      "relation": "HasPercentileValue",
+      "object": "about 30% living in soil"
+    },
+    "gold_numbers": [
+      "30%"
+    ],
+    "source_topic": "Derelict soil"
+  },
+  {
+    "id": 68,
+    "question": "What was the annual growth rate of carbon dioxide emissions starting from the year 2000?",
+    "gold_triple": {
+      "subject": "Carbon dioxide emissions growth rate from 2000",
+      "relation": "HasGrowthRate",
+      "object": "3.2% annually"
+    },
+    "gold_numbers": [
+      "3.2%"
+    ],
+    "source_topic": "Global Carbon Project"
+  },
+  {
+    "id": 69,
+    "question": "What percentage of plastic waste consists of polymer fibres?",
+    "gold_triple": {
+      "subject": "Polymer fibres in plastic waste",
+      "relation": "HasPercentileValue",
+      "object": "13"
+    },
+    "gold_numbers": [
+      "13"
+    ],
+    "source_topic": "Plastic pollution"
+  },
+  {
+    "id": 70,
+    "question": "What is the increase in mortality rate for breast tumors in males exposed to toxic waste?",
+    "gold_triple": {
+      "subject": "Mortality for breast tumors in males exposed to toxic waste",
+      "relation": "Increases",
+      "object": "19"
+    },
+    "gold_numbers": [
+      "19"
+    ],
+    "source_topic": "Toxic waste"
+  },
+  {
+    "id": 71,
+    "question": "By what percentage have CO2 emissions in Germany decreased compared to 1990 levels?",
+    "gold_triple": {
+      "subject": "CO2 emissions in Germany",
+      "relation": "HasStatistic",
+      "object": "27% decrease against 1990 levels"
+    },
+    "gold_numbers": [
+      "27%",
+      "1990"
+    ],
+    "source_topic": "Energiewende"
+  },
+  {
+    "id": 72,
+    "question": "What is the minimum operational depth in meters?",
+    "gold_triple": {
+      "subject": "Operational depth",
+      "relation": "HasMinValue",
+      "object": "5 meters"
+    },
+    "gold_numbers": [
+      "5"
+    ],
+    "source_topic": "Hypolimnetic aeration"
+  },
+  {
+    "id": 73,
+    "question": "How many degrees Celsius does the melting point of ordinary hexagonal ice decrease for every 70 atmospheres of pressure increase?",
+    "gold_triple": {
+      "subject": "Melting point of ordinary hexagonal ice under moderately high pressures",
+      "relation": "Decreases",
+      "object": "0.5 °C per 70 atm"
+    },
+    "gold_numbers": [
+      "0.5",
+      "70"
+    ],
+    "source_topic": "Properties of water"
+  },
+  {
+    "id": 74,
+    "question": "What is the annual value of ecosystem services in trillions of dollars?",
+    "gold_triple": {
+      "subject": "Ecosystem services annual value",
+      "relation": "HasNumericValue",
+      "object": "$33 trillion"
+    },
+    "gold_numbers": [
+      "33"
+    ],
+    "source_topic": "Ecosystem valuation"
+  },
+  {
+    "id": 75,
+    "question": "What is the maximum prison sentence for ecocide under European Parliament law?",
+    "gold_triple": {
+      "subject": "Ecocide crime punishment under European Parliament law",
+      "relation": "HasMaxValue",
+      "object": "10 years in prison"
+    },
+    "gold_numbers": [
+      "10"
+    ],
+    "source_topic": "Ecocide"
+  },
+  {
+    "id": 76,
+    "question": "What percentage of the world's total trees are located in coniferous boreal forests?",
+    "gold_triple": {
+      "subject": "Trees in the coniferous boreal forests",
+      "relation": "PercentageOf",
+      "object": "24% of total trees"
+    },
+    "gold_numbers": [
+      "24%"
+    ],
+    "source_topic": "Tree"
+  },
+  {
+    "id": 77,
+    "question": "What is the volume of scrubber sludge present at the site in cubic yards?",
+    "gold_triple": {
+      "subject": "Scrubber sludge present at the site",
+      "relation": "VolumeOf",
+      "object": "62,000 cubic yards"
+    },
+    "gold_numbers": [
+      "62,000"
+    ],
+    "source_topic": "Chemetco"
+  },
+  {
+    "id": 78,
+    "question": "By what percentage is the chance of developing depression increased for city dwellers?",
+    "gold_triple": {
+      "subject": "Chance of developing depression for city dwellers",
+      "relation": "Increases",
+      "object": "20"
+    },
+    "gold_numbers": [
+      "20"
+    ],
+    "source_topic": "Urbanization"
+  },
+  {
+    "id": 79,
+    "question": "What percentage of emerging infectious diseases are of zoonotic origin?",
+    "gold_triple": {
+      "subject": "Emerging infectious diseases of zoonotic origin",
+      "relation": "HasPercentileValue",
+      "object": "up to 75%"
+    },
+    "gold_numbers": [
+      "75%"
+    ],
+    "source_topic": "Zoonosis"
+  },
+  {
+    "id": 80,
+    "question": "By what percentage did coal use in Germany increase in the first half of 2021 compared to previous years?",
+    "gold_triple": {
+      "subject": "Coal use in Germany",
+      "relation": "HasStatistic",
+      "object": "21% increase in first half of 2021 compared to previous years"
+    },
+    "gold_numbers": [
+      "21%",
+      "2021"
+    ],
+    "source_topic": "Energiewende"
+  },
+  {
+    "id": 81,
+    "question": "What is the maximum transient temperature in Kelvin that zeolite catalysts can withstand?",
+    "gold_triple": {
+      "subject": "Zeolite catalysts",
+      "relation": "HasMaxValue",
+      "object": "transient conditions of up to 1120 K (847 °C)"
+    },
+    "gold_numbers": [
+      "1120",
+      "847"
+    ],
+    "source_topic": "Selective catalytic reduction"
+  },
+  {
+    "id": 82,
+    "question": "What is the estimated percentage chance of an extinction-level event occurring by the year 2100?",
+    "gold_triple": {
+      "subject": "Extinction-level event by 2100",
+      "relation": "RiskOf",
+      "object": "2 to 14% chance"
+    },
+    "gold_numbers": [
+      "2",
+      "14%"
+    ],
+    "source_topic": "Human extinction"
+  },
+  {
+    "id": 83,
+    "question": "What percentage of global anthropogenic greenhouse gas emissions in 2019 was attributed to nitrous oxide?",
+    "gold_triple": {
+      "subject": "Nitrous Oxide",
+      "relation": "PercentageOf",
+      "object": "4% of global anthropogenic greenhouse gas emissions in 2019"
+    },
+    "gold_numbers": [
+      "4%",
+      "2019"
+    ],
+    "source_topic": "Causes of climate change"
+  },
+  {
+    "id": 84,
+    "question": "What were the years of the oil interruptions that caused World GDP growth to slow down?",
+    "gold_triple": {
+      "subject": "World GDP growth",
+      "relation": "HasTrend",
+      "object": "slowed during oil interruptions in 1973 and 1979"
+    },
+    "gold_numbers": [
+      "1973",
+      "1979"
+    ],
+    "source_topic": "Sustainability measurement"
+  },
+  {
+    "id": 85,
+    "question": "How much money do New York City residents save annually?",
+    "gold_triple": {
+      "subject": "New York City residents savings",
+      "relation": "Saves",
+      "object": "$19 billion each year"
+    },
+    "gold_numbers": [
+      "19"
+    ],
+    "source_topic": "Sustainable transport"
+  },
+  {
+    "id": 86,
+    "question": "How many decades have passed since the start of the period for which total reported deaths worldwide have been tracked?",
+    "gold_triple": {
+      "subject": "Total reported deaths worldwide period",
+      "relation": "HasContext",
+      "object": "past 6 decades"
+    },
+    "gold_numbers": [
+      "6"
+    ],
+    "source_topic": "Urban flooding"
+  },
+  {
+    "id": 87,
+    "question": "What is the maximum estimated cost for removing MTBE from groundwater and contaminated soil?",
+    "gold_triple": {
+      "subject": "Cost estimates for removing MTBE from groundwater and contaminated soil",
+      "relation": "HasMaxValue",
+      "object": "$30 billion"
+    },
+    "gold_numbers": [
+      "30"
+    ],
+    "source_topic": "MTBE controversy"
+  },
+  {
+    "id": 88,
+    "question": "What is the diameter of the Powerplant in meters?",
+    "gold_triple": {
+      "subject": "Powerplant",
+      "relation": "HasNumericValue",
+      "object": "400-meter diameter"
+    },
+    "gold_numbers": [
+      "400"
+    ],
+    "source_topic": "Energy tower (downdraft)"
+  },
+  {
+    "id": 89,
+    "question": "By what percentage is the area of an adjustable tilt array or single-axis tracker greater than that of a fixed system?",
+    "gold_triple": {
+      "subject": "Adjustable tilt array or single axis tracker area",
+      "relation": "Increases",
+      "object": "about 10% higher"
+    },
+    "gold_numbers": [
+      "10%"
+    ],
+    "source_topic": "Photovoltaic power station"
+  },
+  {
+    "id": 90,
+    "question": "What is the minimum rate of soil carbon mobilization, in grams of carbon per square meter per year, across the northern Taymyr Peninsula?",
+    "gold_triple": {
+      "subject": "Soil carbon mobilization across the northern Taymyr Peninsula",
+      "relation": "HasMinValue",
+      "object": "5 grams of carbon per square meter per year"
+    },
+    "gold_numbers": [
+      "5"
+    ],
+    "source_topic": "Permafrost carbon cycle"
+  },
+  {
+    "id": 91,
+    "question": "What was the range of radiation doses administered to the dogs in the 1972 experiment?",
+    "gold_triple": {
+      "subject": "1972 dog experiment radiation dose",
+      "relation": "HasNumericValue",
+      "object": "950 to 1400 rad"
+    },
+    "gold_numbers": [
+      "950",
+      "1400"
+    ],
+    "source_topic": "Caesium-137"
+  },
+  {
+    "id": 92,
+    "question": "What is the approximate percentile value for the Motor vehicle manufacturing industry's share of employment in the U.S.?",
+    "gold_triple": {
+      "subject": "Motor vehicle manufacturing industry employment share in the U.S",
+      "relation": "HasPercentileValue",
+      "object": "approximately 6.5%"
+    },
+    "gold_numbers": [
+      "6.5%"
+    ],
+    "source_topic": "Societal effects of cars"
+  },
+  {
+    "id": 93,
+    "question": "What is the electricity consumption of refineries in million kWh?",
+    "gold_triple": {
+      "subject": "Refineries",
+      "relation": "ConsumptionOf",
+      "object": "39353 million kWh"
+    },
+    "gold_numbers": [
+      "39353"
+    ],
+    "source_topic": "The long tailpipe"
+  },
+  {
+    "id": 94,
+    "question": "By what percentage did the amount of arable land needed to produce the same amount of food decrease worldwide between 1961 and 2012?",
+    "gold_triple": {
+      "subject": "Arable land needed to produce the same amount of food",
+      "relation": "Decreases",
+      "object": "68 percent worldwide between 1961 and 2012"
+    },
+    "gold_numbers": [
+      "68",
+      "1961",
+      "2012"
+    ],
+    "source_topic": "Conservation agriculture"
+  },
+  {
+    "id": 95,
+    "question": "What is the approximate biomass consumption rate of APL gasifiers in kg/kWh?",
+    "gold_triple": {
+      "subject": "APL gasifiers biomass consumption",
+      "relation": "RateOf",
+      "object": "approximately 1 kg/kWh"
+    },
+    "gold_numbers": [
+      "1"
+    ],
+    "source_topic": "All Power Labs"
+  },
+  {
+    "id": 96,
+    "question": "What is the estimated percentage risk that mangroves could disappear within the next century?",
+    "gold_triple": {
+      "subject": "Mangroves",
+      "relation": "RiskOf",
+      "object": "approximately 100% could be gone in the next century"
+    },
+    "gold_numbers": [
+      "100%"
+    ],
+    "source_topic": "Blue carbon"
+  },
+  {
+    "id": 97,
+    "question": "What is the area of the Amazon Basin in square kilometers?",
+    "gold_triple": {
+      "subject": "Amazon Basin",
+      "relation": "HasNumericValue",
+      "object": "7 million km2"
+    },
+    "gold_numbers": [
+      "7",
+      "2"
+    ],
+    "source_topic": "Ecotourism in the Amazon rainforest"
+  },
+  {
+    "id": 98,
+    "question": "By what percentage does vertical farming reduce water usage compared to traditional farming?",
+    "gold_triple": {
+      "subject": "Vertical farming water usage",
+      "relation": "Reduces",
+      "object": "water usage by 97% compared to traditional farming"
+    },
+    "gold_numbers": [
+      "97%"
+    ],
+    "source_topic": "Vertical farming"
+  },
+  {
+    "id": 99,
+    "question": "By what percentage can property values in the United States increase for every 1% improvement in water clarity?",
+    "gold_triple": {
+      "subject": "1% improvement in water clarity in the United States",
+      "relation": "Increases",
+      "object": "property values by up to 10%"
+    },
+    "gold_numbers": [
+      "10%"
+    ],
+    "source_topic": "Water clarity"
+  },
+  {
+    "id": 100,
+    "question": "What percentage of current anthropogenic CO2 emissions is offset by the HasImpact of Iron Fertilisation?",
+    "gold_triple": {
+      "subject": "Iron Fertilisation",
+      "relation": "HasImpact",
+      "object": "offset roughly 15–20% of the current anthropogenic CO2 emissions"
+    },
+    "gold_numbers": [
+      "15",
+      "20%",
+      "2"
+    ],
+    "source_topic": "Iron fertilization"
+  },
+  {
+    "id": 101,
+    "question": "What was the average rate of warming in degrees Celsius per thousand years at the end of the last glaciation?",
+    "gold_triple": {
+      "subject": "Warming at the end of the last glaciation",
+      "relation": "HasAverageValue",
+      "object": "1 °C per thousand years"
+    },
+    "gold_numbers": [
+      "1"
+    ],
+    "source_topic": "Coral in non-tropical regions"
+  },
+  {
+    "id": 102,
+    "question": "How many gallons of grey water does a washing machine produce per person per day?",
+    "gold_triple": {
+      "subject": "Grey water production from washing machine",
+      "relation": "RateOf",
+      "object": "15 gallons per person per day"
+    },
+    "gold_numbers": [
+      "15"
+    ],
+    "source_topic": "Greywater"
+  },
+  {
+    "id": 103,
+    "question": "What is the projected increase in active layer thickness across the European and Russian Arctic during the 21st century?",
+    "gold_triple": {
+      "subject": "Active layer thickness in the European and Russian Arctic",
+      "relation": "HasTrend",
+      "object": "increased across the 21st century"
+    },
+    "gold_numbers": [
+      "21"
+    ],
+    "source_topic": "Permafrost carbon cycle"
+  },
+  {
+    "id": 104,
+    "question": "What is the maize yield in the Heilongjiang region of China according to the 2014 study?",
+    "gold_triple": {
+      "subject": "Maize yields in Heilongjiang region of China",
+      "relation": "HasSource",
+      "object": "2014 study"
+    },
+    "gold_numbers": [
+      "2014"
+    ],
+    "source_topic": "Effects of climate change on agriculture"
+  },
+  {
+    "id": 105,
+    "question": "By what percentage did Australia's carbon dioxide emissions from electricity generation fall to reach a 10-year low nine months after the introduction of the pricing scheme?",
+    "gold_triple": {
+      "subject": "Australia's carbon dioxide emissions from electricity generation",
+      "relation": "HasTrend",
+      "object": "fallen to a 10-year low nine months after introduction of the pricing scheme"
+    },
+    "gold_numbers": [
+      "10"
+    ],
+    "source_topic": "Carbon pricing in Australia"
+  },
+  {
+    "id": 106,
+    "question": "What is the minimum width of the marginal ice zone in kilometers?",
+    "gold_triple": {
+      "subject": "Marginal ice zone width",
+      "relation": "HasMinValue",
+      "object": "15 km"
+    },
+    "gold_numbers": [
+      "15"
+    ],
+    "source_topic": "Marginal ice zone"
+  },
+  {
+    "id": 107,
+    "question": "What percentage of global freshwater use is accounted for by agriculture?",
+    "gold_triple": {
+      "subject": "Agriculture",
+      "relation": "ConsumptionOf",
+      "object": "70% of global freshwater use"
+    },
+    "gold_numbers": [
+      "70%"
+    ],
+    "source_topic": "Planetary health diet"
+  },
+  {
+    "id": 108,
+    "question": "By what amount did aldehyde emissions increase?",
+    "gold_triple": {
+      "subject": "Aldehyde emissions",
+      "relation": "Increases",
+      "object": "40"
+    },
+    "gold_numbers": [
+      "40"
+    ],
+    "source_topic": "Issues relating to biofuels"
+  },
+  {
+    "id": 109,
+    "question": "How many tons of CO2 does the Solana Generating Station mitigate annually?",
+    "gold_triple": {
+      "subject": "Solana Generating Station",
+      "relation": "MitigationOf",
+      "object": "475,000 tons of CO2 every year"
+    },
+    "gold_numbers": [
+      "475,000",
+      "2"
+    ],
+    "source_topic": "Solana Generating Station"
+  },
+  {
+    "id": 110,
+    "question": "What is the energy penalty from pumps and fans in coal CCS?",
+    "gold_triple": {
+      "subject": "Energy penalty from pumps and fans in coal CCS",
+      "relation": "HasPercentileValue",
+      "object": "10"
+    },
+    "gold_numbers": [
+      "10"
+    ],
+    "source_topic": "Carbon capture and storage"
+  },
+  {
+    "id": 111,
+    "question": "How many gigajoules of energy are saved per tonne of waste through textile reuse?",
+    "gold_triple": {
+      "subject": "Energy savings from textile reuse per tonne of waste",
+      "relation": "Saves",
+      "object": "164 GJ of energy usage"
+    },
+    "gold_numbers": [
+      "164"
+    ],
+    "source_topic": "Textile recycling"
+  },
+  {
+    "id": 112,
+    "question": "How many times larger is Pluie's travel area compared to Yellowstone National Park?",
+    "gold_triple": {
+      "subject": "Pluie's travel area relative to Yellowstone National Park",
+      "relation": "HasComparison",
+      "object": "10 times the size"
+    },
+    "gold_numbers": [
+      "10"
+    ],
+    "source_topic": "Yellowstone to Yukon Conservation Initiative"
+  },
+  {
+    "id": 113,
+    "question": "How many tonnes of ozone were mitigated by trees in the Chicago region in 1991?",
+    "gold_triple": {
+      "subject": "Trees in the Chicago region",
+      "relation": "MitigationOf",
+      "object": "210 tonnes of ozone (O3) in 1991"
+    },
+    "gold_numbers": [
+      "210",
+      "3",
+      "1991"
+    ],
+    "source_topic": "Urban forest"
+  },
+  {
+    "id": 114,
+    "question": "What is the annual waste burning capacity of the Acerra incinerator in tons?",
+    "gold_triple": {
+      "subject": "Acerra incinerator waste burning capacity",
+      "relation": "HasCapacity",
+      "object": "600,000 tons per year"
+    },
+    "gold_numbers": [
+      "600,000"
+    ],
+    "source_topic": "Refuse-derived fuel"
+  },
+  {
+    "id": 115,
+    "question": "What was the average annual growth rate of CO2 intensity between 1990 and 2007?",
+    "gold_triple": {
+      "subject": "CO2 intensity",
+      "relation": "HasGrowthRate",
+      "object": "-2.3%/year average between 1990 and 2007"
+    },
+    "gold_numbers": [
+      "-2.3%",
+      "1990",
+      "2007"
+    ],
+    "source_topic": "Emission intensity"
+  },
+  {
+    "id": 116,
+    "question": "How many times greater is the potential of solar energy compared to the projected global energy demand for 2050?",
+    "gold_triple": {
+      "subject": "Solar energy potential",
+      "relation": "HasComparison",
+      "object": "could power humanity's needs 4,000 times over the entire global projected energy demand by 2050"
+    },
+    "gold_numbers": [
+      "4,000",
+      "2050"
+    ],
+    "source_topic": "Non-renewable resource"
+  },
+  {
+    "id": 117,
+    "question": "What is the specific year cited in the systematic review regarding the reduction of global agricultural food production?",
+    "gold_triple": {
+      "subject": "Global agricultural food production reduction",
+      "relation": "HasSource",
+      "object": "2025 systematic review"
+    },
+    "gold_numbers": [
+      "2025"
+    ],
+    "source_topic": "Effects of climate change on agriculture"
+  },
+  {
+    "id": 118,
+    "question": "What percentage of Earth's vegetated area has shown an increasing trend in leaf area index over the past 35 years?",
+    "gold_triple": {
+      "subject": "Leaf area index",
+      "relation": "HasTrend",
+      "object": "increasing for 25% to 50% of Earth's vegetated area over the past 35 years"
+    },
+    "gold_numbers": [
+      "25%",
+      "50%",
+      "35"
+    ],
+    "source_topic": "CO2 fertilization effect"
+  },
+  {
+    "id": 119,
+    "question": "How many kilograms of magnesium are in a ton of horse manure on average?",
+    "gold_triple": {
+      "subject": "Horse manure",
+      "relation": "HasAverageValue",
+      "object": "2.5 kg Magnesium per ton"
+    },
+    "gold_numbers": [
+      "2.5"
+    ],
+    "source_topic": "Mushroom compost"
+  },
+  {
+    "id": 120,
+    "question": "What is the daily processing capacity of the Jiangcungou landfill in tonnes?",
+    "gold_triple": {
+      "subject": "Jiangcungou landfill",
+      "relation": "RateOf",
+      "object": "2,600 tonnes per day"
+    },
+    "gold_numbers": [
+      "2,600"
+    ],
+    "source_topic": "Jiangcungou landfill"
+  },
+  {
+    "id": 121,
+    "question": "How much money was paid from reserves?",
+    "gold_triple": {
+      "subject": "Costs paid from reserves",
+      "relation": "HasNumericValue",
+      "object": "4 million"
+    },
+    "gold_numbers": [
+      "4"
+    ],
+    "source_topic": "Tidal power"
+  },
+  {
+    "id": 122,
+    "question": "What was the number of IDPs in Erbil in 2017?",
+    "gold_triple": {
+      "subject": "IDPs in Erbil",
+      "relation": "HasTrend",
+      "object": "decline after 2016"
+    },
+    "gold_numbers": [
+      "2016"
+    ],
+    "source_topic": "Erbil Green Belt Project"
+  },
+  {
+    "id": 123,
+    "question": "What is the minimum compression strength in the treated area?",
+    "gold_triple": {
+      "subject": "Compression strength in treated area",
+      "relation": "HasMinValue",
+      "object": "100 kPa"
+    },
+    "gold_numbers": [
+      "100"
+    ],
+    "source_topic": "Landslide mitigation"
+  },
+  {
+    "id": 124,
+    "question": "By what percentage does China aim to reduce its carbon dioxide emissions per unit of GDP from 2005 levels?",
+    "gold_triple": {
+      "subject": "China's carbon dioxide emissions reduction target",
+      "relation": "HasPolicyTarget",
+      "object": "60-65 percent reduction from 2005 emissions per unit of GDP"
+    },
+    "gold_numbers": [
+      "60",
+      "-65",
+      "2005"
+    ],
+    "source_topic": "Zero-energy building"
+  },
+  {
+    "id": 125,
+    "question": "What is the unit of measurement for radiative efficiency (ax)?",
+    "gold_triple": {
+      "subject": "Radiative efficiency (ax)",
+      "relation": "HasUnitOfMeasurement",
+      "object": "Wm−2 kg−1"
+    },
+    "gold_numbers": [
+      "2",
+      "1"
+    ],
+    "source_topic": "Global warming potential"
+  },
+  {
+    "id": 126,
+    "question": "What was the weight in tonnes of the fatberg discovered in Kingston upon Thames on 6 August 2013?",
+    "gold_triple": {
+      "subject": "Fatberg discovered in Kingston upon Thames on 6 August 2013",
+      "relation": "HasNumericValue",
+      "object": "15 tonnes"
+    },
+    "gold_numbers": [
+      "15"
+    ],
+    "source_topic": "Fatberg"
+  },
+  {
+    "id": 127,
+    "question": "What is the annual poaching mortality rate of African elephants reported in the 2019 peer-reviewed study?",
+    "gold_triple": {
+      "subject": "Annual poaching mortality rate of African elephants",
+      "relation": "HasSource",
+      "object": "2019 peer-reviewed study"
+    },
+    "gold_numbers": [
+      "2019"
+    ],
+    "source_topic": "Ivory trade"
+  },
+  {
+    "id": 128,
+    "question": "How many tonnes of carbon monoxide were mitigated by trees in the Chicago region in 1991?",
+    "gold_triple": {
+      "subject": "Trees in the Chicago region",
+      "relation": "MitigationOf",
+      "object": "17 tonnes of carbon monoxide (CO) in 1991"
+    },
+    "gold_numbers": [
+      "17",
+      "1991"
+    ],
+    "source_topic": "Urban forest"
+  },
+  {
+    "id": 129,
+    "question": "What fraction of climate change is attributed to human land use changes?",
+    "gold_triple": {
+      "subject": "Human land use changes",
+      "relation": "HasStatistic",
+      "object": "cause about 1/4th of climate change"
+    },
+    "gold_numbers": [
+      "1",
+      "4"
+    ],
+    "source_topic": "Co-benefits of climate change mitigation"
+  },
+  {
+    "id": 130,
+    "question": "What is the maximum THC percentage allowed in hemp cultivars grown for fiber and seed?",
+    "gold_triple": {
+      "subject": "Hemp cultivars for fiber and seed",
+      "relation": "HasMaxValue",
+      "object": "0.3% THC"
+    },
+    "gold_numbers": [
+      "0.3%"
+    ],
+    "source_topic": "Hemp"
+  },
+  {
+    "id": 131,
+    "question": "What is the ratio of the annual savings from solar panels?",
+    "gold_triple": {
+      "subject": "Annual savings from solar panels",
+      "relation": "Saves",
+      "object": "1:10000"
+    },
+    "gold_numbers": [
+      "1",
+      "10000"
+    ],
+    "source_topic": "YVR Sustainability"
+  },
+  {
+    "id": 132,
+    "question": "What percentage of amino acid residues in the frog antimicrobial peptide dermaseptin are identical to those in Oxyopinin?",
+    "gold_triple": {
+      "subject": "Oxyopinin",
+      "relation": "HasPercentileValue",
+      "object": "29% identical to the amino acid residues of the frog antimicrobial peptide dermaseptin"
+    },
+    "gold_numbers": [
+      "29%"
+    ],
+    "source_topic": "Oxyopinin"
+  },
+  {
+    "id": 133,
+    "question": "What is the estimated volume of previous methane clathrate reserves?",
+    "gold_triple": {
+      "subject": "Previous estimates of Methane clathrate reserves",
+      "relation": "VolumeOf",
+      "object": "2×10^16 m3"
+    },
+    "gold_numbers": [
+      "2",
+      "10",
+      "16",
+      "3"
+    ],
+    "source_topic": "Methane clathrate"
+  },
+  {
+    "id": 134,
+    "question": "What percentage of major methane emission categories comes from plant agriculture?",
+    "gold_triple": {
+      "subject": "Plant agriculture",
+      "relation": "PercentageOf",
+      "object": "15% of major methane emission categories"
+    },
+    "gold_numbers": [
+      "15%"
+    ],
+    "source_topic": "Methane emissions"
+  },
+  {
+    "id": 135,
+    "question": "What were the start and end years for the renovation of Hamilton City Hall?",
+    "gold_triple": {
+      "subject": "Hamilton City Hall renovation",
+      "relation": "HasContext",
+      "object": "spanned from 2007 to 2010"
+    },
+    "gold_numbers": [
+      "2007",
+      "2010"
+    ],
+    "source_topic": "Green roof"
+  },
+  {
+    "id": 136,
+    "question": "By what factor is the biodiversity of specific forests greater than that of larger forests?",
+    "gold_triple": {
+      "subject": "Biodiversity of specific forests",
+      "relation": "HasComparison",
+      "object": "100x biodiversity than larger forests"
+    },
+    "gold_numbers": [
+      "100"
+    ],
+    "source_topic": "Sustainable city"
+  },
+  {
+    "id": 137,
+    "question": "What percentage of the world's total trees are located in temperate zones?",
+    "gold_triple": {
+      "subject": "Trees in the temperate zones",
+      "relation": "PercentageOf",
+      "object": "20% of total trees"
+    },
+    "gold_numbers": [
+      "20%"
+    ],
+    "source_topic": "Tree"
+  },
+  {
+    "id": 138,
+    "question": "By what percentage did the issuance of green bonds increase from 2015 to 2016?",
+    "gold_triple": {
+      "subject": "Green bonds issuance",
+      "relation": "HasGrowthRate",
+      "object": "92% increase from 2015 to 2016"
+    },
+    "gold_numbers": [
+      "92%",
+      "2015",
+      "2016"
+    ],
+    "source_topic": "Green bond"
+  },
+  {
+    "id": 139,
+    "question": "What is the minimum percentage of impervious surface coverage required for sites with specific design limitations?",
+    "gold_triple": {
+      "subject": "Sites for specific design limitations",
+      "relation": "HasMinValue",
+      "object": "40% coverage of impervious surfaces"
+    },
+    "gold_numbers": [
+      "40%"
+    ],
+    "source_topic": "Water-sensitive urban design"
+  },
+  {
+    "id": 140,
+    "question": "What was the approximate total global installed hydropower electrical capacity in gigawatts in 2021?",
+    "gold_triple": {
+      "subject": "Global installed hydropower electrical capacity",
+      "relation": "HasCapacity",
+      "object": "almost 1400 GW in 2021"
+    },
+    "gold_numbers": [
+      "1400",
+      "2021"
+    ],
+    "source_topic": "Hydroelectricity"
+  },
+  {
+    "id": 141,
+    "question": "What is the overall electricity efficiency percentage in the UK?",
+    "gold_triple": {
+      "subject": "Overall electricity efficiency in the UK",
+      "relation": "EfficiencyOf",
+      "object": "34"
+    },
+    "gold_numbers": [
+      "34"
+    ],
+    "source_topic": "Embodied energy"
+  },
+  {
+    "id": 142,
+    "question": "What is the equivalent thickness of the atmosphere in kilometers?",
+    "gold_triple": {
+      "subject": "Equivalent thickness of the atmosphere",
+      "relation": "HasNumericValue",
+      "object": "9 km"
+    },
+    "gold_numbers": [
+      "9"
+    ],
+    "source_topic": "Air mass (solar energy)"
+  },
+  {
+    "id": 143,
+    "question": "What percentage of soil organic carbon is contained in permafrost-affected soils?",
+    "gold_triple": {
+      "subject": "Permafrost affected soils",
+      "relation": "PercentageOf",
+      "object": "between 25 and 50% of the soil organic carbon"
+    },
+    "gold_numbers": [
+      "25",
+      "50%"
+    ],
+    "source_topic": "Permafrost carbon cycle"
+  },
+  {
+    "id": 144,
+    "question": "What is the decrease in the daily average Corexit use after May 26?",
+    "gold_triple": {
+      "subject": "Daily average Corexit use after May 26",
+      "relation": "Decreases",
+      "object": "9"
+    },
+    "gold_numbers": [
+      "9"
+    ],
+    "source_topic": "Corexit"
+  },
+  {
+    "id": 145,
+    "question": "What percentage drop in engine efficiency results from the introduction of cooled EGR under the 2002 EPA regulations?",
+    "gold_triple": {
+      "subject": "Cooled EGR introduction under EPA regulations of 2002",
+      "relation": "HasImpact",
+      "object": "3% drop in engine efficiency"
+    },
+    "gold_numbers": [
+      "3%"
+    ],
+    "source_topic": "Exhaust gas recirculation"
+  },
+  {
+    "id": 146,
+    "question": "By what percentage does the EU climate and energy package aim to increase renewable energy production?",
+    "gold_triple": {
+      "subject": "EU climate and energy package",
+      "relation": "HasPolicyTarget",
+      "object": "increase renewable energy production by 20%"
+    },
+    "gold_numbers": [
+      "20%"
+    ],
+    "source_topic": "ECOCITIES (software)"
+  },
+  {
+    "id": 147,
+    "question": "What is the average annual number of human-caused fires in Yellowstone?",
+    "gold_triple": {
+      "subject": "Human-caused fires in Yellowstone",
+      "relation": "HasAverageValue",
+      "object": "between 6 and 10 annually"
+    },
+    "gold_numbers": [
+      "6",
+      "10"
+    ],
+    "source_topic": "History of wildfire suppression in the United States"
+  },
+  {
+    "id": 148,
+    "question": "How many tonnes of fuel does an average-sized cruise ship with 2,000 passengers consume per day while in port?",
+    "gold_triple": {
+      "subject": "Average-sized cruise ship (2,000 passengers)",
+      "relation": "ConsumptionOf",
+      "object": "50 tonnes of fuel per day in port"
+    },
+    "gold_numbers": [
+      "50"
+    ],
+    "source_topic": "Cruise ship pollution in Europe"
+  },
+  {
+    "id": 149,
+    "question": "What is the typical rate of the upwelling process in meters per day?",
+    "gold_triple": {
+      "subject": "Upwelling process",
+      "relation": "RateOf",
+      "object": "5–10 meters per day"
+    },
+    "gold_numbers": [
+      "5",
+      "10"
+    ],
+    "source_topic": "Upwelling"
+  },
+  {
+    "id": 150,
+    "question": "What is the daily processing capacity of the Jiangcungou landfill in short tons?",
+    "gold_triple": {
+      "subject": "Jiangcungou landfill",
+      "relation": "RateOf",
+      "object": "2,900 short tons per day"
+    },
+    "gold_numbers": [
+      "2,900"
+    ],
+    "source_topic": "Jiangcungou landfill"
+  },
+  {
+    "id": 151,
+    "question": "By what amount did the export sales of Mexican yellow beans decrease?",
+    "gold_triple": {
+      "subject": "Export sales of Mexican yellow beans",
+      "relation": "Decreases",
+      "object": "over 90"
+    },
+    "gold_numbers": [
+      "90"
+    ],
+    "source_topic": "Bioprospecting"
+  },
+  {
+    "id": 152,
+    "question": "What is the percentage target for conditional emission reductions by 2020?",
+    "gold_triple": {
+      "subject": "Conditional emission reduction target",
+      "relation": "HasPolicyTarget",
+      "object": "25% by 2020"
+    },
+    "gold_numbers": [
+      "25%",
+      "2020"
+    ],
+    "source_topic": "Carbon Pollution Reduction Scheme"
+  },
+  {
+    "id": 153,
+    "question": "By 2050, how many metric tons of CO2 equivalent emissions are mitigated by eliminating these gases?",
+    "gold_triple": {
+      "subject": "Eliminating emissions of these gases",
+      "relation": "MitigationOf",
+      "object": "more than 80 billion metric tons of CO2 equivalent emissions by 2050"
+    },
+    "gold_numbers": [
+      "80",
+      "2",
+      "2050"
+    ],
+    "source_topic": "Kigali Amendment"
+  },
+  {
+    "id": 154,
+    "question": "What is the specific Code of Federal Regulations number associated with the regulatory standard for respirator HEPA definition?",
+    "gold_triple": {
+      "subject": "Regulatory standard for respirator HEPA definition",
+      "relation": "HasNumericValue",
+      "object": "30 CFR 11"
+    },
+    "gold_numbers": [
+      "30",
+      "11"
+    ],
+    "source_topic": "HEPA"
+  },
+  {
+    "id": 155,
+    "question": "What is the capacity in megawatts of the Orbital Marine Power UK CfD AR4 auction award announced in July 2022?",
+    "gold_triple": {
+      "subject": "Orbital Marine Power UK CfD AR4 auction award (July 2022)",
+      "relation": "HasCapacity",
+      "object": "48 MW"
+    },
+    "gold_numbers": [
+      "48"
+    ],
+    "source_topic": "Orbital Marine Power"
+  },
+  {
+    "id": 156,
+    "question": "What proportion of climate change is attributed to human land use changes?",
+    "gold_triple": {
+      "subject": "Human land use changes",
+      "relation": "HasImpact",
+      "object": "cause about 1/4th of climate change"
+    },
+    "gold_numbers": [
+      "1",
+      "4"
+    ],
+    "source_topic": "Climate change mitigation"
+  },
+  {
+    "id": 157,
+    "question": "What was the average annual PM2.5 concentration in 2000 compared to 2017?",
+    "gold_triple": {
+      "subject": "annual PM2.5 averages",
+      "relation": "HasTrend",
+      "object": "decreased between 2000 and 2017"
+    },
+    "gold_numbers": [
+      "2000",
+      "2017"
+    ],
+    "source_topic": "Particulate pollution"
+  },
+  {
+    "id": 158,
+    "question": "How many gigatonnes of CO2 equivalent are emitted from feed production?",
+    "gold_triple": {
+      "subject": "Feed Production",
+      "relation": "EmissionOf",
+      "object": "0.4 Gigatonnes CO2 equivalent"
+    },
+    "gold_numbers": [
+      "0.4",
+      "2"
+    ],
+    "source_topic": "Livestock's Long Shadow"
+  },
+  {
+    "id": 159,
+    "question": "What percentage of the time is the last 10% of generating capacity required?",
+    "gold_triple": {
+      "subject": "Last 10% of generating capacity",
+      "relation": "HasStatistic",
+      "object": "required as little as 1% of the time"
+    },
+    "gold_numbers": [
+      "1%"
+    ],
+    "source_topic": "Smart grid"
+  },
+  {
+    "id": 160,
+    "question": "What percentage of annual global CO2 emissions is removed by land-surface carbon sink processes?",
+    "gold_triple": {
+      "subject": "Land-surface carbon sink processes",
+      "relation": "HasImpact",
+      "object": "remove about 29% of annual global CO2 emissions"
+    },
+    "gold_numbers": [
+      "29%",
+      "2"
+    ],
+    "source_topic": "Climate change"
+  },
+  {
+    "id": 161,
+    "question": "What is the generation capacity of Ecopower in megawatts?",
+    "gold_triple": {
+      "subject": "Ecopower",
+      "relation": "HasCapacity",
+      "object": "over 230 MW of generation capacity"
+    },
+    "gold_numbers": [
+      "230"
+    ],
+    "source_topic": "Renewable energy cooperative"
+  },
+  {
+    "id": 162,
+    "question": "How many kilometers is the road distance from the Erongo Desalination Plant to Arandis?",
+    "gold_triple": {
+      "subject": "Road distance from Erongo Desalination Plant to Arandis",
+      "relation": "HasNumericValue",
+      "object": "90 kilometres"
+    },
+    "gold_numbers": [
+      "90"
+    ],
+    "source_topic": "Erongo Desalination Plant"
+  },
+  {
+    "id": 163,
+    "question": "What was the target percentage for national renewable energy generation by 2015?",
+    "gold_triple": {
+      "subject": "National renewable energy generation requirement",
+      "relation": "HasPolicyTarget",
+      "object": "15% by 2015"
+    },
+    "gold_numbers": [
+      "15%",
+      "2015"
+    ],
+    "source_topic": "Eco-cities in China"
+  },
+  {
+    "id": 164,
+    "question": "What was the annual growth rate of forest loss in the Isau-Isau Wildlife Reserve between 1990 and 2000?",
+    "gold_triple": {
+      "subject": "Forest loss rate in Isau-Isau Wildlife Reserve (1990-2000)",
+      "relation": "HasGrowthRate",
+      "object": "0.19% per year"
+    },
+    "gold_numbers": [
+      "0.19%"
+    ],
+    "source_topic": "Isau-Isau Wildlife Reserve"
+  },
+  {
+    "id": 165,
+    "question": "What is the minimum removal efficiency percentage required for a HEPA air filter according to the ASME U.S. Standard?",
+    "gold_triple": {
+      "subject": "HEPA air filter (ASME, U.S. Standard)",
+      "relation": "HasMinValue",
+      "object": "99.97% removal efficiency"
+    },
+    "gold_numbers": [
+      "99.97%"
+    ],
+    "source_topic": "HEPA"
+  },
+  {
+    "id": 166,
+    "question": "What is the area of the Pipers Creek watershed in acres?",
+    "gold_triple": {
+      "subject": "Pipers Creek watershed",
+      "relation": "HasNumericValue",
+      "object": "1,835-acre (7 km2)"
+    },
+    "gold_numbers": [
+      "1,835",
+      "7",
+      "2"
+    ],
+    "source_topic": "Daylighting (streams)"
+  },
+  {
+    "id": 167,
+    "question": "What was the specific percentage of the most popular films that included climate change themes in 2022?",
+    "gold_triple": {
+      "subject": "Rate of inclusion of climate change in most popular films",
+      "relation": "HasTrend",
+      "object": "increased substantially from 2013 to 2022"
+    },
+    "gold_numbers": [
+      "2013",
+      "2022"
+    ],
+    "source_topic": "Climate communication"
+  },
+  {
+    "id": 168,
+    "question": "What is the time range of research activities for ESG scholars?",
+    "gold_triple": {
+      "subject": "Research activities of ESG scholars",
+      "relation": "HasContext",
+      "object": "2009 to 2018"
+    },
+    "gold_numbers": [
+      "2009",
+      "2018"
+    ],
+    "source_topic": "Earth system governance"
+  },
+  {
+    "id": 169,
+    "question": "What percentage of the debris in the Great Pacific Garbage Patch does The Ocean Cleanup aim to remove?",
+    "gold_triple": {
+      "subject": "The Ocean Cleanup systems",
+      "relation": "HasImpact",
+      "object": "remove 50% of the debris in the Great Pacific Garbage Patch"
+    },
+    "gold_numbers": [
+      "50%"
+    ],
+    "source_topic": "The Ocean Cleanup"
+  },
+  {
+    "id": 170,
+    "question": "What is the average number of total reported deaths worldwide per year?",
+    "gold_triple": {
+      "subject": "Total reported deaths worldwide",
+      "relation": "HasAverageValue",
+      "object": "around 23,000/year"
+    },
+    "gold_numbers": [
+      "23,000"
+    ],
+    "source_topic": "Urban flooding"
+  },
+  {
+    "id": 171,
+    "question": "By what percentage did the Giant eland population in the Chinko area decline between 2012 and 2017?",
+    "gold_triple": {
+      "subject": "Giant eland population in Chinko area",
+      "relation": "HasTrend",
+      "object": "decline between 2012 and 2017"
+    },
+    "gold_numbers": [
+      "2012",
+      "2017"
+    ],
+    "source_topic": "Bushmeat"
+  },
+  {
+    "id": 172,
+    "question": "What percentage of wild relatives of cereal crops like wheat, maize, rice, and sorghum are currently under threat?",
+    "gold_triple": {
+      "subject": "Wild relatives of cereal crops (wheat, maize, rice, sorghum)",
+      "relation": "HasPercentileValue",
+      "object": "6% under threat"
+    },
+    "gold_numbers": [
+      "6%"
+    ],
+    "source_topic": "Crop diversity"
+  },
+  {
+    "id": 173,
+    "question": "How many tonnes of sulfur dioxide were mitigated by trees in the Chicago region in 1991?",
+    "gold_triple": {
+      "subject": "Trees in the Chicago region",
+      "relation": "MitigationOf",
+      "object": "93 tonnes of sulfur dioxide (SO2) in 1991"
+    },
+    "gold_numbers": [
+      "93",
+      "2",
+      "1991"
+    ],
+    "source_topic": "Urban forest"
+  },
+  {
+    "id": 174,
+    "question": "What percentage of total water use is attributed to domestic water?",
+    "gold_triple": {
+      "subject": "Domestic water use",
+      "relation": "PercentageOf",
+      "object": "3.6% of total water use"
+    },
+    "gold_numbers": [
+      "3.6%"
+    ],
+    "source_topic": "Water footprint"
+  },
+  {
+    "id": 175,
+    "question": "What is the approximate annual production capacity of advanced second-generation biodiesel in tonnes?",
+    "gold_triple": {
+      "subject": "Annual production of advanced second-generation biodiesel",
+      "relation": "HasCapacity",
+      "object": "approximately 100,000 tonnes"
+    },
+    "gold_numbers": [
+      "100,000"
+    ],
+    "source_topic": "Second-generation biofuels"
+  },
+  {
+    "id": 176,
+    "question": "What is the minimum flow rate in November?",
+    "gold_triple": {
+      "subject": "Minimum flow rate in November",
+      "relation": "HasMinValue",
+      "object": "100 m3/s"
+    },
+    "gold_numbers": [
+      "100",
+      "3"
+    ],
+    "source_topic": "Water use in alluvial fans"
+  },
+  {
+    "id": 177,
+    "question": "How many metric tonnes of carbon dioxide emissions does the solar farm at the Erongo Desalination Plant reduce annually?",
+    "gold_triple": {
+      "subject": "Solar farm at Erongo Desalination Plant",
+      "relation": "Reduces",
+      "object": "carbon dioxide emissions by nearly 10,000 metric tonnes annually"
+    },
+    "gold_numbers": [
+      "10,000"
+    ],
+    "source_topic": "Erongo Desalination Plant"
+  },
+  {
+    "id": 178,
+    "question": "What year was the Econometrica paper that serves as the source for the study on Climate Club effectiveness published?",
+    "gold_triple": {
+      "subject": "Study on Climate Club effectiveness",
+      "relation": "HasSource",
+      "object": "2025 paper in Econometrica"
+    },
+    "gold_numbers": [
+      "2025"
+    ],
+    "source_topic": "Climate club"
+  },
+  {
+    "id": 179,
+    "question": "Around what year is economic growth projected to reach its peak before rapidly declining?",
+    "gold_triple": {
+      "subject": "Economic growth",
+      "relation": "HasTrend",
+      "object": "peak and then rapidly decline by around 2040"
+    },
+    "gold_numbers": [
+      "2040"
+    ],
+    "source_topic": "The Limits to Growth"
+  },
+  {
+    "id": 180,
+    "question": "What was the estimated risk of AI causing an extremely bad outcome in 2019?",
+    "gold_triple": {
+      "subject": "Risk of AI causing extremely bad outcome in 2019",
+      "relation": "RiskOf",
+      "object": "2"
+    },
+    "gold_numbers": [
+      "2"
+    ],
+    "source_topic": "Human extinction"
+  },
+  {
+    "id": 181,
+    "question": "How many gallons of water does the CalFibre approach save annually?",
+    "gold_triple": {
+      "subject": "CalFibre approach",
+      "relation": "Saves",
+      "object": "18 billion gallons of water annually"
+    },
+    "gold_numbers": [
+      "18"
+    ],
+    "source_topic": "Agricultural waste"
+  },
+  {
+    "id": 182,
+    "question": "What is the percentage reduction target for emissions set in the policy plans by the year 2050?",
+    "gold_triple": {
+      "subject": "Emissions reduction plans",
+      "relation": "HasPolicyTarget",
+      "object": "80 percent reduction by 2050"
+    },
+    "gold_numbers": [
+      "80",
+      "2050"
+    ],
+    "source_topic": "Low-carbon fuel standard"
+  },
+  {
+    "id": 183,
+    "question": "How many tonnes of nitrogen dioxide (NO2) were mitigated by trees in the Chicago region in 1991?",
+    "gold_triple": {
+      "subject": "Trees in the Chicago region",
+      "relation": "MitigationOf",
+      "object": "98 tonnes of nitrogen dioxide (NO2) in 1991"
+    },
+    "gold_numbers": [
+      "98",
+      "2",
+      "1991"
+    ],
+    "source_topic": "Urban forest"
+  },
+  {
+    "id": 184,
+    "question": "By what percentage did Canada's total nitrogen oxide emissions in the transboundary ozone region decrease between 2000 and 2010?",
+    "gold_triple": {
+      "subject": "Canada total emissions of nitrogen oxides in the transboundary ozone region",
+      "relation": "Decreases",
+      "object": "reduced by 40% between 2000 and 2010"
+    },
+    "gold_numbers": [
+      "40%",
+      "2000",
+      "2010"
+    ],
+    "source_topic": "Soil pollution in Canada"
+  },
+  {
+    "id": 185,
+    "question": "What is the projected percentage growth for wind turbine service technicians in the United States between 2017 and 2024?",
+    "gold_triple": {
+      "subject": "Wind turbine service technicians profession growth in the United States",
+      "relation": "HasGrowthRate",
+      "object": "108.0 per cent projected growth between 2017 and 2024"
+    },
+    "gold_numbers": [
+      "108.0",
+      "2017",
+      "2024"
+    ],
+    "source_topic": "Green job"
+  },
+  {
+    "id": 186,
+    "question": "By what year did PETA set the deadline for the prize regarding cultured chicken meat?",
+    "gold_triple": {
+      "subject": "PETA prize deadline for cultured chicken meat",
+      "relation": "HasPolicyTarget",
+      "object": "by 2012"
+    },
+    "gold_numbers": [
+      "2012"
+    ],
+    "source_topic": "Cultured meat"
+  },
+  {
+    "id": 187,
+    "question": "How long does the battery reserve typically last?",
+    "gold_triple": {
+      "subject": "Battery reserve",
+      "relation": "HasNumericValue",
+      "object": "approximately 3–4 weeks"
+    },
+    "gold_numbers": [
+      "3",
+      "4"
+    ],
+    "source_topic": "Solar-powered waste compacting bin"
+  },
+  {
+    "id": 188,
+    "question": "What percentage of the 1.5 million globally described species are found in Brazil?",
+    "gold_triple": {
+      "subject": "Brazil",
+      "relation": "HasStatistic",
+      "object": "between 15% and 20% of the 1.5 million globally described species"
+    },
+    "gold_numbers": [
+      "15%",
+      "20%",
+      "1.5"
+    ],
+    "source_topic": "Environmental protection"
+  },
+  {
+    "id": 189,
+    "question": "What is the maximum temperature of a combustion chamber in degrees Celsius?",
+    "gold_triple": {
+      "subject": "Combustion chamber temperature",
+      "relation": "HasMaxValue",
+      "object": "700 °C"
+    },
+    "gold_numbers": [
+      "700"
+    ],
+    "source_topic": "Total organic carbon"
+  },
+  {
+    "id": 190,
+    "question": "By how much has the active layer thickness increased in high elevation areas of Europe and Asia since the 1990s?",
+    "gold_triple": {
+      "subject": "Active layer thickness in high elevation areas in Europe and Asia",
+      "relation": "HasTrend",
+      "object": "increased since the 1990s"
+    },
+    "gold_numbers": [
+      "1990"
+    ],
+    "source_topic": "Permafrost carbon cycle"
+  },
+  {
+    "id": 191,
+    "question": "What is the percentage discrepancy in global primary productivity values caused by differences in CDOM modeling?",
+    "gold_triple": {
+      "subject": "Global primary productivity values",
+      "relation": "HasStatistic",
+      "object": "30% discrepancy due to CDOM modeling differences"
+    },
+    "gold_numbers": [
+      "30%"
+    ],
+    "source_topic": "Colored dissolved organic matter"
+  },
+  {
+    "id": 192,
+    "question": "How many tonnes of contaminated deposits and subsoil material have been removed since the Contaminated Sites Remediation Act came into force?",
+    "gold_triple": {
+      "subject": "Contaminated deposits and subsoil material removed since the Contaminated Sites Remediation Act came into force",
+      "relation": "VolumeOf",
+      "object": "10 million tonnes"
+    },
+    "gold_numbers": [
+      "10"
+    ],
+    "source_topic": "Contaminated land"
+  },
+  {
+    "id": 193,
+    "question": "What is the percentage of bulk volume reduction for waste?",
+    "gold_triple": {
+      "subject": "Bulk volume reduction of waste",
+      "relation": "Reduces",
+      "object": "60"
+    },
+    "gold_numbers": [
+      "60"
+    ],
+    "source_topic": "Waste autoclave"
+  },
+  {
+    "id": 194,
+    "question": "What is the estimated global electricity consumption of data centers in 2024, measured in terawatt-hours?",
+    "gold_triple": {
+      "subject": "Data centres",
+      "relation": "ConsumptionOf",
+      "object": "~415 TWh in 2024"
+    },
+    "gold_numbers": [
+      "415",
+      "2024"
+    ],
+    "source_topic": "Green Information Technology"
+  },
+  {
+    "id": 195,
+    "question": "By what factor can the capacitance of supercapacitors exceed that of electrolytic capacitors?",
+    "gold_triple": {
+      "subject": "Supercapacitors capacitance",
+      "relation": "HasComparison",
+      "object": "up to 10,000 times that of electrolytic capacitors"
+    },
+    "gold_numbers": [
+      "10,000"
+    ],
+    "source_topic": "Energy storage"
+  },
+  {
+    "id": 196,
+    "question": "What is the annual probability of flooding for properties in Flood Risk Zone 1?",
+    "gold_triple": {
+      "subject": "Band 1",
+      "relation": "RiskOf",
+      "object": "200:1 chance of flooding in a year"
+    },
+    "gold_numbers": [
+      "200",
+      "1"
+    ],
+    "source_topic": "Environmental surveying"
+  },
+  {
+    "id": 197,
+    "question": "What is the efficiency of pumped-storage power systems?",
+    "gold_triple": {
+      "subject": "Pumped-storage power systems",
+      "relation": "EfficiencyOf",
+      "object": "75"
+    },
+    "gold_numbers": [
+      "75"
+    ],
+    "source_topic": "Wind power"
+  },
+  {
+    "id": 198,
+    "question": "What is the estimated percentage chance of human extinction by the year 2100?",
+    "gold_triple": {
+      "subject": "Human extinction by 2100",
+      "relation": "RiskOf",
+      "object": "6% chance"
+    },
+    "gold_numbers": [
+      "6%"
+    ],
+    "source_topic": "Human extinction"
+  },
+  {
+    "id": 199,
+    "question": "What is the lifetime risk of lung cancer?",
+    "gold_triple": {
+      "subject": "Lifetime risk of lung cancer",
+      "relation": "HasPercentileValue",
+      "object": "3"
+    },
+    "gold_numbers": [
+      "3"
+    ],
+    "source_topic": "Health effects of radon"
+  },
+  {
+    "id": 200,
+    "question": "What is the estimated minimum amount of plastic in the oceans, excluding microplastics?",
+    "gold_triple": {
+      "subject": "Plastic in oceans (excluding microplastics)",
+      "relation": "HasMinValue",
+      "object": "75 million tons"
+    },
+    "gold_numbers": [
+      "75"
+    ],
+    "source_topic": "Material efficiency"
+  },
+  {
+    "id": 201,
+    "question": "What is the minimum altitude of the upper branch of a Hadley cell above the Venusian surface?",
+    "gold_triple": {
+      "subject": "Location of the upper branch of a Hadley cell above the Venusian surface",
+      "relation": "HasMinValue",
+      "object": "50 km"
+    },
+    "gold_numbers": [
+      "50"
+    ],
+    "source_topic": "Hadley cell"
+  },
+  {
+    "id": 202,
+    "question": "How many pieces of sea glass do you typically need to sift through to find one piece of red sea glass?",
+    "gold_triple": {
+      "subject": "Red sea glass",
+      "relation": "HasStatistic",
+      "object": "found once in about every 5,000 pieces"
+    },
+    "gold_numbers": [
+      "5,000"
+    ],
+    "source_topic": "Sea glass"
+  },
+  {
+    "id": 203,
+    "question": "By what factor do the fossil fuel reserves listed in the London Stock Exchange exceed the carbon budget from 2011 to 2050?",
+    "gold_triple": {
+      "subject": "Fossil fuel reserves listed in London Stock Exchange",
+      "relation": "HasComparison",
+      "object": "ten times its carbon budget from 2011 to 2050"
+    },
+    "gold_numbers": [
+      "2011",
+      "2050"
+    ],
+    "source_topic": "Carbon bubble"
+  },
+  {
+    "id": 204,
+    "question": "What percentage of fish species worldwide have been driven to extinction by invasive species?",
+    "gold_triple": {
+      "subject": "Species of fish in the world caused to extinction by invasive species",
+      "relation": "HasPercentileValue",
+      "object": "48-62%"
+    },
+    "gold_numbers": [
+      "48",
+      "-62%"
+    ],
+    "source_topic": "Invasive species in Mexico"
+  },
+  {
+    "id": 205,
+    "question": "What is the estimated probability range for nuclear war occurring during the 21st century?",
+    "gold_triple": {
+      "subject": "Nuclear war during the 21st century",
+      "relation": "RiskOf",
+      "object": "0% to 80% probability"
+    },
+    "gold_numbers": [
+      "0%",
+      "80%"
+    ],
+    "source_topic": "Human extinction"
+  },
+  {
+    "id": 206,
+    "question": "How many gallons of PCB-contaminated waste were involved in the Wade Dump emergency cleanups between 1981 and 1982?",
+    "gold_triple": {
+      "subject": "Wade Dump emergency cleanups (1981-1982)",
+      "relation": "VolumeOf",
+      "object": "5,000 gallons of PCB-contaminated waste"
+    },
+    "gold_numbers": [
+      "5,000"
+    ],
+    "source_topic": "Wade Dump"
+  },
+  {
+    "id": 207,
+    "question": "What was the maximum wind speed recorded during the 1999 Bridge Creek–Moore tornado in feet per second?",
+    "gold_triple": {
+      "subject": "1999 Bridge Creek–Moore tornado",
+      "relation": "HasMaxValue",
+      "object": "470 ft/s"
+    },
+    "gold_numbers": [
+      "470"
+    ],
+    "source_topic": "Wind speed"
+  },
+  {
+    "id": 208,
+    "question": "What is the annual motorcycle emission in Tehran in tons?",
+    "gold_triple": {
+      "subject": "Motorcycles in Tehran",
+      "relation": "EmissionOf",
+      "object": "149,952 tons/year"
+    },
+    "gold_numbers": [
+      "149,952"
+    ],
+    "source_topic": "Air pollution in Iran"
+  },
+  {
+    "id": 209,
+    "question": "What is the efficiency rate of absorption devices made from cotton sponges and squid bones?",
+    "gold_triple": {
+      "subject": "Absorption devices (sponges made of cotton and squid bones)",
+      "relation": "EfficiencyOf",
+      "object": "over 99%"
+    },
+    "gold_numbers": [
+      "99%"
+    ],
+    "source_topic": "Microplastic remediation"
+  },
+  {
+    "id": 210,
+    "question": "How many kilowatt-hours of electricity does the University of California, Santa Cruz consume annually?",
+    "gold_triple": {
+      "subject": "University of California, Santa Cruz",
+      "relation": "ConsumptionOf",
+      "object": "57 million kilowatt-hours of annual electricity usage"
+    },
+    "gold_numbers": [
+      "57"
+    ],
+    "source_topic": "Sustainability at American colleges and universities"
+  },
+  {
+    "id": 211,
+    "question": "What is the physical half-life of uranium-238 in billion years?",
+    "gold_triple": {
+      "subject": "Physical half-life of uranium-238",
+      "relation": "HasNumericValue",
+      "object": "4.468 billion years"
+    },
+    "gold_numbers": [
+      "4.468"
+    ],
+    "source_topic": "Uranium in the environment"
+  },
+  {
+    "id": 212,
+    "question": "What is the production rate of the first twin SAGD wells?",
+    "gold_triple": {
+      "subject": "First test of twin SAGD wells",
+      "relation": "RateOf",
+      "object": "320 m3/d"
+    },
+    "gold_numbers": [
+      "320",
+      "3"
+    ],
+    "source_topic": "Steam-assisted gravity drainage"
+  },
+  {
+    "id": 213,
+    "question": "How many gallons are in one 50 gallon drum of fog oil?",
+    "gold_triple": {
+      "subject": "One 50 gallon drum of fog oil",
+      "relation": "HasNumericValue",
+      "object": "50 gallons"
+    },
+    "gold_numbers": [
+      "50"
+    ],
+    "source_topic": "Smoke screen"
+  },
+  {
+    "id": 214,
+    "question": "By approximately what percentage does the Reduces of Kite parafoils reduce emissions?",
+    "gold_triple": {
+      "subject": "Kite parafoils",
+      "relation": "Reduces",
+      "object": "emissions by about 20%"
+    },
+    "gold_numbers": [
+      "20%"
+    ],
+    "source_topic": "Decarbonization of shipping"
+  },
+  {
+    "id": 215,
+    "question": "What is the approximate bandwidth in microns for the wavelength band centered around 17 microns?",
+    "gold_triple": {
+      "subject": "Wavelength band width around 17 microns",
+      "relation": "HasNumericValue",
+      "object": "approximately 1 micron"
+    },
+    "gold_numbers": [
+      "1"
+    ],
+    "source_topic": "Illustrative model of greenhouse effect on climate change"
+  },
+  {
+    "id": 216,
+    "question": "What is the average area burned by forest fires in Canada per year?",
+    "gold_triple": {
+      "subject": "Average area burned by forest fires in Canada per year",
+      "relation": "HasAverageValue",
+      "object": "25,000 km2"
+    },
+    "gold_numbers": [
+      "25,000",
+      "2"
+    ],
+    "source_topic": "Wildfire suppression"
+  },
+  {
+    "id": 217,
+    "question": "What is the global surface temperature increase reported in the IPCC 2023 Synthesis Report?",
+    "gold_triple": {
+      "subject": "Global surface temperature increase",
+      "relation": "HasSource",
+      "object": "IPCC 2023 Synthesis Report"
+    },
+    "gold_numbers": [
+      "2023"
+    ],
+    "source_topic": "Effects of climate change on agriculture"
+  },
+  {
+    "id": 218,
+    "question": "What is the target percentage for the reduction of HCFC consumption and production in developed countries by the year 2020?",
+    "gold_triple": {
+      "subject": "HCFC consumption and production in developed countries",
+      "relation": "HasPolicyTarget",
+      "object": "100% reduction set for 2020"
+    },
+    "gold_numbers": [
+      "100%",
+      "2020"
+    ],
+    "source_topic": "Montreal Protocol"
+  },
+  {
+    "id": 219,
+    "question": "What is the maximum vegetation load capacity for extensive green roofs?",
+    "gold_triple": {
+      "subject": "Extensive green roofs vegetation support",
+      "relation": "HasMaxValue",
+      "object": "120 kg/m2"
+    },
+    "gold_numbers": [
+      "120",
+      "2"
+    ],
+    "source_topic": "Green roof"
+  },
+  {
+    "id": 220,
+    "question": "Around what year did the prediction of CO2 warming dominance begin?",
+    "gold_triple": {
+      "subject": "CO2 warming dominance prediction",
+      "relation": "HasContext",
+      "object": "soon after 1980"
+    },
+    "gold_numbers": [
+      "1980"
+    ],
+    "source_topic": "Global cooling"
+  },
+  {
+    "id": 221,
+    "question": "How many gigatons of CO2 emissions have been prevented by nuclear power over the last half century?",
+    "gold_triple": {
+      "subject": "Nuclear power",
+      "relation": "MitigationOf",
+      "object": "74 Gt of CO2 emissions prevented over the last half century"
+    },
+    "gold_numbers": [
+      "74",
+      "2"
+    ],
+    "source_topic": "Low-carbon electricity"
+  },
+  {
+    "id": 222,
+    "question": "What was the total amount of global human-caused sulfur emissions in 1940?",
+    "gold_triple": {
+      "subject": "Global human-caused emissions of sulfur",
+      "relation": "EmissionOf",
+      "object": "40 million tonnes in 1940"
+    },
+    "gold_numbers": [
+      "40",
+      "1940"
+    ],
+    "source_topic": "Global dimming"
+  },
+  {
+    "id": 223,
+    "question": "By what year does the Net Zero Asset Managers initiative aim to achieve carbon neutrality?",
+    "gold_triple": {
+      "subject": "Net Zero Asset Managers initiative carbon neutrality target",
+      "relation": "HasPolicyTarget",
+      "object": "carbon-neutral by 2050"
+    },
+    "gold_numbers": [
+      "2050"
+    ],
+    "source_topic": "2020 in climate change"
+  },
+  {
+    "id": 224,
+    "question": "What years did the International Decade for Action cover?",
+    "gold_triple": {
+      "subject": "International Decade for Action",
+      "relation": "HasContext",
+      "object": "years 2005 to 2015"
+    },
+    "gold_numbers": [
+      "2005",
+      "2015"
+    ],
+    "source_topic": "World Water Day"
+  },
+  {
+    "id": 225,
+    "question": "What is the minimum altitude of the mesosphere in kilometers?",
+    "gold_triple": {
+      "subject": "Mesosphere",
+      "relation": "HasMinValue",
+      "object": "50 km"
+    },
+    "gold_numbers": [
+      "50"
+    ],
+    "source_topic": "Atmospheric dispersion modeling"
+  },
+  {
+    "id": 226,
+    "question": "What is the percentage increase in income for artisanal brick producers?",
+    "gold_triple": {
+      "subject": "Income of artisanal brick producers",
+      "relation": "Increases",
+      "object": "10"
+    },
+    "gold_numbers": [
+      "10"
+    ],
+    "source_topic": "Program on Energy Efficiency in Artisanal Brick Kilns in Latin America to Mitigate Climate Change"
+  },
+  {
+    "id": 227,
+    "question": "What was the estimated cost to fisheries caused by the New York and New Jersey dead zone in 1976?",
+    "gold_triple": {
+      "subject": "New York and New Jersey dead zone (1976)",
+      "relation": "HasImpact",
+      "object": "over $500 million cost to fisheries"
+    },
+    "gold_numbers": [
+      "500"
+    ],
+    "source_topic": "RED TIDE"
+  },
+  {
+    "id": 228,
+    "question": "In how many billion years is the carbon cycle expected to end?",
+    "gold_triple": {
+      "subject": "End of the carbon cycle",
+      "relation": "HasNumericValue",
+      "object": "between 1 billion and 2 billion years into the future"
+    },
+    "gold_numbers": [
+      "1",
+      "2"
+    ],
+    "source_topic": "Carbon cycle"
+  },
+  {
+    "id": 229,
+    "question": "By what percentage did SO2 emissions decrease in the European Union during that period?",
+    "gold_triple": {
+      "subject": "SO2 emissions in the European Union",
+      "relation": "HasGrowthRate",
+      "object": "decrease of over 70% during the same period"
+    },
+    "gold_numbers": [
+      "70%"
+    ],
+    "source_topic": "Acid rain"
+  },
+  {
+    "id": 230,
+    "question": "What is the difference in hectares between the total area of new brownfield sites and the previous government location in Hong Kong?",
+    "gold_triple": {
+      "subject": "Difference between new brownfield site total and previous government location in Hong Kong",
+      "relation": "HasNumericValue",
+      "object": "379 hectares"
+    },
+    "gold_numbers": [
+      "379"
+    ],
+    "source_topic": "Brownfield land"
+  },
+  {
+    "id": 231,
+    "question": "What percentage of discarded clothes in the US end up in landfills?",
+    "gold_triple": {
+      "subject": "Discarded clothes in the US",
+      "relation": "HasPercentileValue",
+      "object": "Over 85% end up in landfills"
+    },
+    "gold_numbers": [
+      "85%"
+    ],
+    "source_topic": "Micro-sustainability"
+  },
+  {
+    "id": 232,
+    "question": "How old are the oldest trees in a virgin red spruce forest?",
+    "gold_triple": {
+      "subject": "Trees in virgin red spruce forest",
+      "relation": "HasMinValue",
+      "object": "300 years old"
+    },
+    "gold_numbers": [
+      "300"
+    ],
+    "source_topic": "Gaudineer Scenic Area"
+  },
+  {
+    "id": 233,
+    "question": "How many barrels of oil does Cuba consume daily?",
+    "gold_triple": {
+      "subject": "Cuba",
+      "relation": "ConsumptionOf",
+      "object": "100,000 barrels of oil daily"
+    },
+    "gold_numbers": [
+      "100,000"
+    ],
+    "source_topic": "Energy Revolution"
+  },
+  {
+    "id": 234,
+    "question": "What percentage of Nike stores in Greater China were closed in February 2020?",
+    "gold_triple": {
+      "subject": "Nike stores in Greater China",
+      "relation": "HasPercentileValue",
+      "object": "75% closed in February 2020"
+    },
+    "gold_numbers": [
+      "75%",
+      "2020"
+    ],
+    "source_topic": "Greenhouse gas emissions by Nike, Inc."
+  },
+  {
+    "id": 235,
+    "question": "What is the approximate volume of water injected by Oregon's agriculture ASR wells?",
+    "gold_triple": {
+      "subject": "Water injected by Oregon agriculture ASR wells",
+      "relation": "VolumeOf",
+      "object": "well over 3,000 acre-feet"
+    },
+    "gold_numbers": [
+      "3,000"
+    ],
+    "source_topic": "Aquifer storage and recovery"
+  },
+  {
+    "id": 236,
+    "question": "What is the efficiency of microwave broadcasts from the satellite?",
+    "gold_triple": {
+      "subject": "Microwave broadcasts from the satellite",
+      "relation": "EfficiencyOf",
+      "object": "85"
+    },
+    "gold_numbers": [
+      "85"
+    ],
+    "source_topic": "Space-based solar power"
+  },
+  {
+    "id": 237,
+    "question": "What is the average dried weight unit in kg/m3?",
+    "gold_triple": {
+      "subject": "Average dried weight unit",
+      "relation": "HasUnitOfMeasurement",
+      "object": "kg/m3"
+    },
+    "gold_numbers": [
+      "3"
+    ],
+    "source_topic": "Wood"
+  },
+  {
+    "id": 238,
+    "question": "What is the volume of the first phase of the Saltcrete waste stream?",
+    "gold_triple": {
+      "subject": "First phase of Saltcrete waste stream",
+      "relation": "VolumeOf",
+      "object": "1,705 cubic meters"
+    },
+    "gold_numbers": [
+      "1,705"
+    ],
+    "source_topic": "Saltcrete"
+  },
+  {
+    "id": 239,
+    "question": "By what percentage does the use of solar panels increase the lifetime of batteries?",
+    "gold_triple": {
+      "subject": "Solar Panels",
+      "relation": "Increases",
+      "object": "batteries' lifetime by 35 per cent"
+    },
+    "gold_numbers": [
+      "35"
+    ],
+    "source_topic": "Solar bus"
+  },
+  {
+    "id": 240,
+    "question": "What was the percentage growth in electronic waste from screens, computers, and small IT and telecommunication equipment in India between 2010 and 2022?",
+    "gold_triple": {
+      "subject": "India",
+      "relation": "HasGrowthRate",
+      "object": "163% growth in generating electronic waste from screens, computers, and small IT and telecommunication equipment between 2010 and 2022"
+    },
+    "gold_numbers": [
+      "163%",
+      "2010",
+      "2022"
+    ],
+    "source_topic": "Electronic waste in India"
+  },
+  {
+    "id": 241,
+    "question": "What is the average cost of a project?",
+    "gold_triple": {
+      "subject": "Project costs",
+      "relation": "HasAverageValue",
+      "object": "US$80,000"
+    },
+    "gold_numbers": [
+      "80,000"
+    ],
+    "source_topic": "Microcredit for water supply and sanitation"
+  },
+  {
+    "id": 242,
+    "question": "What is the annual reduction rate for the Agriculture free allocation phase-out?",
+    "gold_triple": {
+      "subject": "Agriculture free allocation phase-out rate",
+      "relation": "HasGrowthRate",
+      "object": "1/12 (8.3%) reduction each year"
+    },
+    "gold_numbers": [
+      "1",
+      "12",
+      "8.3%"
+    ],
+    "source_topic": "New Zealand Emissions Trading Scheme"
+  },
+  {
+    "id": 243,
+    "question": "How much more of this strain of E. is found in grain-fed cattle compared to the baseline?",
+    "gold_triple": {
+      "subject": "Grain-fed cattle",
+      "relation": "HasComparison",
+      "object": "80% more of this strain of E"
+    },
+    "gold_numbers": [
+      "80%"
+    ],
+    "source_topic": "Anaerobic lagoon"
+  },
+  {
+    "id": 244,
+    "question": "What is the required percentage of ethanol in gasoline sold in Colombian cities with populations exceeding 500,000?",
+    "gold_triple": {
+      "subject": "Colombia ethanol mandate",
+      "relation": "PolicyOf",
+      "object": "10% ethanol in all gasoline sold in cities with populations exceeding 500,000"
+    },
+    "gold_numbers": [
+      "10%",
+      "500,000"
+    ],
+    "source_topic": "Biofuels by region"
+  },
+  {
+    "id": 245,
+    "question": "What is the annual growth rate of California's renewable portfolio expansion?",
+    "gold_triple": {
+      "subject": "California renewable portfolio expansion rate",
+      "relation": "HasGrowthRate",
+      "object": "1% each year"
+    },
+    "gold_numbers": [
+      "1%"
+    ],
+    "source_topic": "Renewable portfolio standards in the United States"
+  },
+  {
+    "id": 246,
+    "question": "What years did the construction of the Lick Run Greenway take place?",
+    "gold_triple": {
+      "subject": "Lick Run Greenway construction period",
+      "relation": "HasContext",
+      "object": "2017 and 2021"
+    },
+    "gold_numbers": [
+      "2017",
+      "2021"
+    ],
+    "source_topic": "Daylighting (streams)"
+  },
+  {
+    "id": 247,
+    "question": "What percentage of the maximum solar intensity is present when the sun is 5 degrees above the horizon?",
+    "gold_triple": {
+      "subject": "Solar intensity when sun is 5° above the horizon",
+      "relation": "PercentageOf",
+      "object": "27% of the maximum"
+    },
+    "gold_numbers": [
+      "27%"
+    ],
+    "source_topic": "Air mass (solar energy)"
+  },
+  {
+    "id": 248,
+    "question": "On what specific date in June 2010 did the Winnipeg City Council request a comprehensive waste management plan?",
+    "gold_triple": {
+      "subject": "Winnipeg City Council",
+      "relation": "HasAction",
+      "object": "requested comprehensive waste management plan on June 23, 2010"
+    },
+    "gold_numbers": [
+      "23",
+      "2010"
+    ],
+    "source_topic": "Municipal waste management in Winnipeg"
+  },
+  {
+    "id": 249,
+    "question": "What is the incidence rate of cancer caused by air toxicant exposure per million people?",
+    "gold_triple": {
+      "subject": "Cancer incidence due to air toxicant exposure",
+      "relation": "HasStatistic",
+      "object": "30 in 1 million people"
+    },
+    "gold_numbers": [
+      "30",
+      "1"
+    ],
+    "source_topic": "Area source pollution"
+  },
+  {
+    "id": 250,
+    "question": "What was the amount of carbon dioxide emissions from the transportation sector in 2008 according to the EIA?",
+    "gold_triple": {
+      "subject": "Transportation sector carbon dioxide emissions statistic",
+      "relation": "HasSource",
+      "object": "E.I.A., 2008"
+    },
+    "gold_numbers": [
+      "2008"
+    ],
+    "source_topic": "Energy conservation"
+  },
+  {
+    "id": 251,
+    "question": "What is the capacity of Sabella at the Morlais tidal stream project?",
+    "gold_triple": {
+      "subject": "Sabella",
+      "relation": "HasCapacity",
+      "object": "6 MW of a 12 MW berth at the Morlais tidal stream project"
+    },
+    "gold_numbers": [
+      "6",
+      "12"
+    ],
+    "source_topic": "Nova Innovation"
+  },
+  {
+    "id": 252,
+    "question": "How long has the geological stability of the Nini West area persisted, in years?",
+    "gold_triple": {
+      "subject": "Geological stability of Nini West area",
+      "relation": "HasNumericValue",
+      "object": "20 million years"
+    },
+    "gold_numbers": [
+      "20"
+    ],
+    "source_topic": "Carbon storage in the North Sea"
+  },
+  {
+    "id": 253,
+    "question": "What percentage of the population in rural Thailand relies on rainwater harvesting?",
+    "gold_triple": {
+      "subject": "Population in rural Thailand relying on rainwater harvesting",
+      "relation": "HasPercentileValue",
+      "object": "40"
+    },
+    "gold_numbers": [
+      "40"
+    ],
+    "source_topic": "Rainwater harvesting"
+  },
+  {
+    "id": 254,
+    "question": "How many gallons of water can drip irrigation save per year?",
+    "gold_triple": {
+      "subject": "Drip irrigation methods",
+      "relation": "Saves",
+      "object": "up to 30,000 gallons of water per year"
+    },
+    "gold_numbers": [
+      "30,000"
+    ],
+    "source_topic": "Water conservation"
+  },
+  {
+    "id": 255,
+    "question": "What is the average daily amount of emissions-free steam produced by the GlassPoint Solar system?",
+    "gold_triple": {
+      "subject": "GlassPoint Solar system",
+      "relation": "HasAverageValue",
+      "object": "50 tons of emissions-free steam daily"
+    },
+    "gold_numbers": [
+      "50"
+    ],
+    "source_topic": "GlassPoint Solar"
+  },
+  {
+    "id": 256,
+    "question": "What is the global warming limit target in degrees Fahrenheit?",
+    "gold_triple": {
+      "subject": "Global warming limit target",
+      "relation": "HasNumericValue",
+      "object": "2.7 °F"
+    },
+    "gold_numbers": [
+      "2.7"
+    ],
+    "source_topic": "Sustainable energy"
+  },
+  {
+    "id": 257,
+    "question": "How many billion tonnes of CO2-equivalent were emitted from burning fossil fuels in 2023?",
+    "gold_triple": {
+      "subject": "Burning fossil fuels",
+      "relation": "EmissionOf",
+      "object": "37.4 billion tonnes of CO2-eq in 2023"
+    },
+    "gold_numbers": [
+      "37.4",
+      "2",
+      "2023"
+    ],
+    "source_topic": "Greenhouse gas emissions"
+  },
+  {
+    "id": 258,
+    "question": "What is the annual sunlight exposure threshold in lux?",
+    "gold_triple": {
+      "subject": "Annual sunlight exposure threshold",
+      "relation": "HasNumericValue",
+      "object": "1,000 lux"
+    },
+    "gold_numbers": [
+      "1,000"
+    ],
+    "source_topic": "Active daylighting"
+  },
+  {
+    "id": 259,
+    "question": "What is the specific numerical estimate for water scarcity provided by the United Nations in their 2024 report?",
+    "gold_triple": {
+      "subject": "Source of water scarcity estimates",
+      "relation": "HasSource",
+      "object": "United Nations estimates from 2024"
+    },
+    "gold_numbers": [
+      "2024"
+    ],
+    "source_topic": "Water scarcity"
+  },
+  {
+    "id": 260,
+    "question": "What is the standard unit of measurement for occupational exposure to inhalable wood dust?",
+    "gold_triple": {
+      "subject": "Occupational exposure to inhalable wood dust",
+      "relation": "HasUnitOfMeasurement",
+      "object": "mg/m3"
+    },
+    "gold_numbers": [
+      "3"
+    ],
+    "source_topic": "Sawdust"
+  },
+  {
+    "id": 261,
+    "question": "What is the reduction percentage for hazardous substance presence?",
+    "gold_triple": {
+      "subject": "Hazardous substance presence",
+      "relation": "Reduces",
+      "object": "80"
+    },
+    "gold_numbers": [
+      "80"
+    ],
+    "source_topic": "Aircraft recycling"
+  },
+  {
+    "id": 262,
+    "question": "How many years of data do the Test plots cover?",
+    "gold_triple": {
+      "subject": "Test plots",
+      "relation": "HasContext",
+      "object": "20 years"
+    },
+    "gold_numbers": [
+      "20"
+    ],
+    "source_topic": "Carbon farming"
+  },
+  {
+    "id": 263,
+    "question": "What is the daily production rate of the solar desalination plant on Oshima Island, Japan?",
+    "gold_triple": {
+      "subject": "Solar desalination plant on Oshima Island, Japan",
+      "relation": "RateOf",
+      "object": "10 m3/day"
+    },
+    "gold_numbers": [
+      "10",
+      "3"
+    ],
+    "source_topic": "Solar desalination"
+  },
+  {
+    "id": 264,
+    "question": "How many genera of Cushion plants are there?",
+    "gold_triple": {
+      "subject": "Cushion plants",
+      "relation": "HasNumericValue",
+      "object": "78 genera"
+    },
+    "gold_numbers": [
+      "78"
+    ],
+    "source_topic": "Cushion plant"
+  },
+  {
+    "id": 265,
+    "question": "What is the fuel efficiency of internal combustion engine vehicles?",
+    "gold_triple": {
+      "subject": "Fuel efficiency of internal combustion engine vehicles",
+      "relation": "EfficiencyOf",
+      "object": "13"
+    },
+    "gold_numbers": [
+      "13"
+    ],
+    "source_topic": "Aluminium–air battery"
+  },
+  {
+    "id": 266,
+    "question": "What percentage of the world's population is estimated to die in a nuclear war scenario?",
+    "gold_triple": {
+      "subject": "Nuclear war scenario",
+      "relation": "HasImpact",
+      "object": "kills 99% of the world's existing population"
+    },
+    "gold_numbers": [
+      "99%"
+    ],
+    "source_topic": "Nuclear holocaust"
+  },
+  {
+    "id": 267,
+    "question": "What percentage of water usage is saved in rice growth when using drip irrigation?",
+    "gold_triple": {
+      "subject": "Water usage in rice growth with drip irrigation",
+      "relation": "Saves",
+      "object": "70"
+    },
+    "gold_numbers": [
+      "70"
+    ],
+    "source_topic": "Drip irrigation"
+  },
+  {
+    "id": 268,
+    "question": "What is the maximum fuel savings value in the distribution?",
+    "gold_triple": {
+      "subject": "Fuel savings distribution maximum",
+      "relation": "HasMaxValue",
+      "object": "105"
+    },
+    "gold_numbers": [
+      "105"
+    ],
+    "source_topic": "Fuel economy in aircraft"
+  },
+  {
+    "id": 269,
+    "question": "How many pieces of sea glass would you need to sort through on average to find one piece of orange sea glass?",
+    "gold_triple": {
+      "subject": "Orange sea glass",
+      "relation": "HasStatistic",
+      "object": "found once in about 10,000 pieces"
+    },
+    "gold_numbers": [
+      "10,000"
+    ],
+    "source_topic": "Sea glass"
+  },
+  {
+    "id": 270,
+    "question": "What was the HasContext date for the NWFW grant to the McArthur Lake Wildlife Safety Project?",
+    "gold_triple": {
+      "subject": "NWFW grant to McArthur Lake Wildlife Safety Project",
+      "relation": "HasContext",
+      "object": "January 2012"
+    },
+    "gold_numbers": [
+      "2012"
+    ],
+    "source_topic": "McArthur Lake Wildlife Corridor"
+  },
+  {
+    "id": 271,
+    "question": "What is the average recycling rate for recycling programs?",
+    "gold_triple": {
+      "subject": "Recycling programs",
+      "relation": "HasAverageValue",
+      "object": "80% recycling rate"
+    },
+    "gold_numbers": [
+      "80%"
+    ],
+    "source_topic": "Recycling"
+  },
+  {
+    "id": 272,
+    "question": "What is the maximum time frame for cleanup following a third or subsequent littering offense in California?",
+    "gold_triple": {
+      "subject": "California third and subsequent littering offense cleanup",
+      "relation": "HasMaxValue",
+      "object": "24 hours"
+    },
+    "gold_numbers": [
+      "24"
+    ],
+    "source_topic": "Litter in the United States"
+  },
+  {
+    "id": 273,
+    "question": "What was the total CO2 equivalent emissions from the industry sector in 2019?",
+    "gold_triple": {
+      "subject": "Industry",
+      "relation": "EmissionOf",
+      "object": "14 GtCO2-eq in 2019"
+    },
+    "gold_numbers": [
+      "14",
+      "2",
+      "2019"
+    ],
+    "source_topic": "Greenhouse gas emissions"
+  },
+  {
+    "id": 274,
+    "question": "How many times greater is the hydrocarbon air pollution from the Coal Oil Point seep field compared to the total hydrocarbon emissions from all cars and trucks in Santa Barbara County in 1990?",
+    "gold_triple": {
+      "subject": "Hydrocarbon air pollution from Coal Oil Point seep field",
+      "relation": "HasComparison",
+      "object": "twice the hydrocarbon air pollution released by all cars and trucks in Santa Barbara County in 1990"
+    },
+    "gold_numbers": [
+      "1990"
+    ],
+    "source_topic": "Coal Oil Point seep field"
+  },
+  {
+    "id": 275,
+    "question": "What was the estimated economic impact of the Black Summer fires?",
+    "gold_triple": {
+      "subject": "Black Summer fires",
+      "relation": "HasImpact",
+      "object": "20 billion"
+    },
+    "gold_numbers": [
+      "20"
+    ],
+    "source_topic": "2020 in climate change"
+  },
+  {
+    "id": 276,
+    "question": "By what percentage does remanufacturing a gearbox reduce its global warming potential (CO2-eq) compared to manufacturing a new one?",
+    "gold_triple": {
+      "subject": "Remanufacturing gearboxes",
+      "relation": "Reduces",
+      "object": "global warming potential (CO2-eq) by 36% compared to a newly manufactured one"
+    },
+    "gold_numbers": [
+      "2",
+      "36%"
+    ],
+    "source_topic": "Circular economy"
+  },
+  {
+    "id": 277,
+    "question": "What is the total area, in square kilometers, of the proposed protected areas?",
+    "gold_triple": {
+      "subject": "Proposed protected areas",
+      "relation": "HasNumericValue",
+      "object": "18,000 square kilometres"
+    },
+    "gold_numbers": [
+      "18,000"
+    ],
+    "source_topic": "Great Bear Rainforest"
+  },
+  {
+    "id": 278,
+    "question": "What is the wind speed threshold for rotational speed control in meters per second?",
+    "gold_triple": {
+      "subject": "Wind speed threshold for rotational speed control",
+      "relation": "HasNumericValue",
+      "object": "10 m/s"
+    },
+    "gold_numbers": [
+      "10"
+    ],
+    "source_topic": "Wind-turbine aerodynamics"
+  },
+  {
+    "id": 279,
+    "question": "How many years did it take for the human population to grow from 3 billion to 4 billion?",
+    "gold_triple": {
+      "subject": "Time to reach 4 billion humans",
+      "relation": "HasNumericValue",
+      "object": "14 years"
+    },
+    "gold_numbers": [
+      "14"
+    ],
+    "source_topic": "Human overpopulation"
+  },
+  {
+    "id": 280,
+    "question": "How many houses are supplied with approximately 50% of their heating and hot water by the Thermal store and solar collectors system?",
+    "gold_triple": {
+      "subject": "Thermal store and solar collectors system",
+      "relation": "HasImpact",
+      "object": "supply 570 houses with around 50% of their heating and hot water"
+    },
+    "gold_numbers": [
+      "570",
+      "50%"
+    ],
+    "source_topic": "Thermal energy storage"
+  },
+  {
+    "id": 281,
+    "question": "What is the offtake value for Vaulted Deep?",
+    "gold_triple": {
+      "subject": "Offtake with Vaulted Deep",
+      "relation": "HasNumericValue",
+      "object": "US$58.3 million"
+    },
+    "gold_numbers": [
+      "58.3"
+    ],
+    "source_topic": "Frontier Climate"
+  },
+  {
+    "id": 282,
+    "question": "What is the estimated electrical generation capacity using enhanced technology in gigawatts?",
+    "gold_triple": {
+      "subject": "Electrical generation capacity using enhanced technology",
+      "relation": "HasCapacity",
+      "object": "between 65 and 138 GW"
+    },
+    "gold_numbers": [
+      "65",
+      "138"
+    ],
+    "source_topic": "World energy resources"
+  },
+  {
+    "id": 283,
+    "question": "How much more carbon, as a percentage, does mangrove reforestation sequester per hectare over the first 40 years compared to afforestation?",
+    "gold_triple": {
+      "subject": "Mangrove reforestation",
+      "relation": "Increases",
+      "object": "~60% more carbon per hectare over the first 40 years than afforestation"
+    },
+    "gold_numbers": [
+      "60%",
+      "40"
+    ],
+    "source_topic": "Blue carbon"
+  },
+  {
+    "id": 284,
+    "question": "How many liters of water are saved by turning off the faucet while brushing your teeth?",
+    "gold_triple": {
+      "subject": "Turning off the faucet sink while brushing teeth",
+      "relation": "Saves",
+      "object": "about 19 liters of water"
+    },
+    "gold_numbers": [
+      "19"
+    ],
+    "source_topic": "Water efficiency"
+  },
+  {
+    "id": 285,
+    "question": "What percentage of the world's population lacked consistent access to clean drinking water in 2022?",
+    "gold_triple": {
+      "subject": "Proportion of world's population lacking consistent access to clean drinking water",
+      "relation": "HasPercentileValue",
+      "object": "25% in 2022"
+    },
+    "gold_numbers": [
+      "25%",
+      "2022"
+    ],
+    "source_topic": "Human right to water and sanitation"
+  },
+  {
+    "id": 286,
+    "question": "What were the operational years of the Molten-Salt Reactor Experiment?",
+    "gold_triple": {
+      "subject": "Molten-Salt Reactor Experiment",
+      "relation": "HasNumericValue",
+      "object": "1965 to 1969"
+    },
+    "gold_numbers": [
+      "1965",
+      "1969"
+    ],
+    "source_topic": "Nuclear fuel"
+  },
+  {
+    "id": 287,
+    "question": "By what percentage did the math test progression of students in classrooms with the most daylighting exceed that of others over a one-year period?",
+    "gold_triple": {
+      "subject": "Students with most daylighting in classrooms",
+      "relation": "HasGrowthRate",
+      "object": "20% faster progression on math tests in one year"
+    },
+    "gold_numbers": [
+      "20%"
+    ],
+    "source_topic": "Green building on college campuses"
+  },
+  {
+    "id": 288,
+    "question": "What percentage of energy use in Saudi Arabia is attributed to household consumption?",
+    "gold_triple": {
+      "subject": "Households in the MENA region",
+      "relation": "ConsumptionOf",
+      "object": "53% of energy use in Saudi Arabia"
+    },
+    "gold_numbers": [
+      "53%"
+    ],
+    "source_topic": "Energy conservation"
+  },
+  {
+    "id": 289,
+    "question": "How many times more likely were heatwaves during the 2000–2009 period compared to the pre-industrial baseline due to human-caused climate change?",
+    "gold_triple": {
+      "subject": "Heatwaves in 2000–2009",
+      "relation": "RiskOf",
+      "object": "20 times more likely than pre-industrial baseline due to human-caused climate change"
+    },
+    "gold_numbers": [
+      "20"
+    ],
+    "source_topic": "2025 in climate change"
+  },
+  {
+    "id": 290,
+    "question": "What is the annual accumulation rate of activated carbon in tons?",
+    "gold_triple": {
+      "subject": "Activated carbon accumulation",
+      "relation": "RateOf",
+      "object": "100 tons per year"
+    },
+    "gold_numbers": [
+      "100"
+    ],
+    "source_topic": "Activated carbon"
+  },
+  {
+    "id": 291,
+    "question": "What is the estimated percentage chance of human extinction by the year 2500?",
+    "gold_triple": {
+      "subject": "Human extinction by 2500",
+      "relation": "RiskOf",
+      "object": "30% chance"
+    },
+    "gold_numbers": [
+      "30%"
+    ],
+    "source_topic": "Human extinction"
+  },
+  {
+    "id": 292,
+    "question": "What is the reduction in copper usage in a solar field when comparing a plant without storage to one with storage?",
+    "gold_triple": {
+      "subject": "Copper in solar field (plant without storage vs with storage)",
+      "relation": "Reduces",
+      "object": "20"
+    },
+    "gold_numbers": [
+      "20"
+    ],
+    "source_topic": "Copper in renewable energy"
+  },
+  {
+    "id": 293,
+    "question": "What is the percentage chance of a lethal outcome for a whale involved in a collision with a ship traveling at 15 knots?",
+    "gold_triple": {
+      "subject": "Collision with a ship traveling at 15 knots",
+      "relation": "RiskOf",
+      "object": "79% chance of being lethal to a whale"
+    },
+    "gold_numbers": [
+      "79%"
+    ],
+    "source_topic": "Environmental impact of shipping"
+  },
+  {
+    "id": 294,
+    "question": "What was the average total sewage bill, including both ALCOSAN and municipal fees, in 2012?",
+    "gold_triple": {
+      "subject": "Average total sewage bill (ALCOSAN plus municipal)",
+      "relation": "HasContext",
+      "object": "As of 2012"
+    },
+    "gold_numbers": [
+      "2012"
+    ],
+    "source_topic": "Allegheny County Sanitary Authority"
+  },
+  {
+    "id": 295,
+    "question": "What is the rate of fresh water usage in litres per second?",
+    "gold_triple": {
+      "subject": "Fresh water usage rate",
+      "relation": "RateOf",
+      "object": "10 litres per second"
+    },
+    "gold_numbers": [
+      "10"
+    ],
+    "source_topic": "Statkraft osmotic power prototype in Hurum"
+  },
+  {
+    "id": 296,
+    "question": "What percentage of the total energy demand is covered by the available energy potential in waste across the EU-25 countries?",
+    "gold_triple": {
+      "subject": "Available energy potential in waste in EU-25 countries",
+      "relation": "HasPercentileValue",
+      "object": "nearly 40% of demand"
+    },
+    "gold_numbers": [
+      "40%"
+    ],
+    "source_topic": "Co-processing"
+  },
+  {
+    "id": 297,
+    "question": "What percentage of available financial resources does the NAPA implementation framework target to reach the local level?",
+    "gold_triple": {
+      "subject": "NAPA implementation framework",
+      "relation": "HasPolicyTarget",
+      "object": "at least 80% of available financial resources to reach local level"
+    },
+    "gold_numbers": [
+      "80%"
+    ],
+    "source_topic": "Climate change in Nepal"
+  },
+  {
+    "id": 298,
+    "question": "How many tonnes of fuel does an average-sized cruise ship with 2,000 passengers consume per day while at sea?",
+    "gold_triple": {
+      "subject": "Average-sized cruise ship (2,000 passengers)",
+      "relation": "ConsumptionOf",
+      "object": "150 tonnes of fuel per day at sea"
+    },
+    "gold_numbers": [
+      "150"
+    ],
+    "source_topic": "Cruise ship pollution in Europe"
+  },
+  {
+    "id": 299,
+    "question": "What is the percentage decrease of Indigenous languages in the Pacific?",
+    "gold_triple": {
+      "subject": "Indigenous languages in the Pacific",
+      "relation": "Decreases",
+      "object": "30"
+    },
+    "gold_numbers": [
+      "30"
+    ],
+    "source_topic": "Biocultural diversity"
+  },
+  {
+    "id": 300,
+    "question": "When was the section of the Emschergenossenschaft canal from Herne to Duisburg completed?",
+    "gold_triple": {
+      "subject": "Emschergenossenschaft section from Herne to Duisburg",
+      "relation": "HasContext",
+      "object": "completed between 1906 and 1910"
+    },
+    "gold_numbers": [
+      "1906",
+      "1910"
+    ],
+    "source_topic": "Emschergenossenschaft"
+  },
+  {
+    "id": 301,
+    "question": "What is the minimum estimated number of undescribed oceanic species?",
+    "gold_triple": {
+      "subject": "Undescribed oceanic species estimates",
+      "relation": "HasMinValue",
+      "object": "178,000"
+    },
+    "gold_numbers": [
+      "178,000"
+    ],
+    "source_topic": "Biodiversity loss"
+  },
+  {
+    "id": 302,
+    "question": "What is the nameplate capacity in megawatts for a single unit at the Valle Solar Power Station?",
+    "gold_triple": {
+      "subject": "Valle Solar Power Station",
+      "relation": "HasCapacity",
+      "object": "50 MW nameplate capacity per unit"
+    },
+    "gold_numbers": [
+      "50"
+    ],
+    "source_topic": "Valle Solar Power Station"
+  },
+  {
+    "id": 303,
+    "question": "How many years does the facility dismantling period typically last during decommissioning in the US?",
+    "gold_triple": {
+      "subject": "Facility dismantling period in US decommissioning",
+      "relation": "HasNumericValue",
+      "object": "10 years"
+    },
+    "gold_numbers": [
+      "10"
+    ],
+    "source_topic": "Nuclear decommissioning"
+  },
+  {
+    "id": 304,
+    "question": "How many acres does Cockfield Hall cover?",
+    "gold_triple": {
+      "subject": "Cockfield Hall",
+      "relation": "HasNumericValue",
+      "object": "40 acres"
+    },
+    "gold_numbers": [
+      "40"
+    ],
+    "source_topic": "Wilderness Reserve"
+  },
+  {
+    "id": 305,
+    "question": "What is the annual growth rate of the seaweed footprint expansion since 2008-2010?",
+    "gold_triple": {
+      "subject": "Seaweed footprint expansion rate since 2008-2010",
+      "relation": "HasGrowthRate",
+      "object": "13.4%/yr"
+    },
+    "gold_numbers": [
+      "13.4%"
+    ],
+    "source_topic": "Seaweed farming"
+  },
+  {
+    "id": 306,
+    "question": "How many deaths are attributed to outdoor particulate pollution (PM2.5)?",
+    "gold_triple": {
+      "subject": "Outdoor particulate pollution (PM2.5)",
+      "relation": "HasStatistic",
+      "object": "4.7 million deaths"
+    },
+    "gold_numbers": [
+      "4.7"
+    ],
+    "source_topic": "Air pollution"
+  },
+  {
+    "id": 307,
+    "question": "What percentage of reefs are exposed to bleach-level heat?",
+    "gold_triple": {
+      "subject": "Reefs exposed to bleach-level heat",
+      "relation": "HasPercentileValue",
+      "object": "84"
+    },
+    "gold_numbers": [
+      "84"
+    ],
+    "source_topic": "Coral bleaching"
+  },
+  {
+    "id": 308,
+    "question": "How old are ancient drainage systems?",
+    "gold_triple": {
+      "subject": "Ancient drainage systems",
+      "relation": "HasNumericValue",
+      "object": "over 5,000 years old"
+    },
+    "gold_numbers": [
+      "5,000"
+    ],
+    "source_topic": "Sustainable drainage system"
+  },
+  {
+    "id": 309,
+    "question": "What is the bill number for the legislation that serves as the source of Oregon's Landscape Resiliency Program?",
+    "gold_triple": {
+      "subject": "Oregon's Landscape Resiliency Program",
+      "relation": "HasSource",
+      "object": "Senate Bill 762"
+    },
+    "gold_numbers": [
+      "762"
+    ],
+    "source_topic": "Forest restoration"
+  },
+  {
+    "id": 310,
+    "question": "What is the average annual number of people forcibly displaced by weather-related events?",
+    "gold_triple": {
+      "subject": "Forcibly displaced people by weather-related events",
+      "relation": "HasAverageValue",
+      "object": "20 million per year"
+    },
+    "gold_numbers": [
+      "20"
+    ],
+    "source_topic": "Climate migration"
+  },
+  {
+    "id": 311,
+    "question": "How many people die each year due to air pollution?",
+    "gold_triple": {
+      "subject": "Air Pollution",
+      "relation": "HasStatistic",
+      "object": "6.7 million deaths per year"
+    },
+    "gold_numbers": [
+      "6.7"
+    ],
+    "source_topic": "Air pollution"
+  },
+  {
+    "id": 312,
+    "question": "How many times greater was the volume of oil spilled in the Niger Delta compared to the Exxon Valdez disaster?",
+    "gold_triple": {
+      "subject": "Volume of oil spilled in the Niger Delta compared to the Exxon Valdez disaster",
+      "relation": "HasComparison",
+      "object": "50 times the volume"
+    },
+    "gold_numbers": [
+      "50"
+    ],
+    "source_topic": "Environmental racism"
+  },
+  {
+    "id": 313,
+    "question": "What is the annual production capacity of BioSphere Plastic in metric tons?",
+    "gold_triple": {
+      "subject": "BioSphere Plastic",
+      "relation": "HasCapacity",
+      "object": "5,800 metric tons a year"
+    },
+    "gold_numbers": [
+      "5,800"
+    ],
+    "source_topic": "BioSphere Plastic"
+  },
+  {
+    "id": 314,
+    "question": "By what percentage are average wheat prices expected to increase over the next 10 years due to biofuel support measures?",
+    "gold_triple": {
+      "subject": "Average wheat prices",
+      "relation": "Increases",
+      "object": "about 5 percent over the next 10 years due to biofuel support measures"
+    },
+    "gold_numbers": [
+      "5",
+      "10"
+    ],
+    "source_topic": "Food vs. fuel"
+  },
+  {
+    "id": 315,
+    "question": "What percentage of all plastic produced since 1950 has been recycled?",
+    "gold_triple": {
+      "subject": "Recycled plastic",
+      "relation": "PercentageOf",
+      "object": "9% of plastic produced since 1950"
+    },
+    "gold_numbers": [
+      "9%",
+      "1950"
+    ],
+    "source_topic": "Great Pacific Garbage Patch"
+  },
+  {
+    "id": 316,
+    "question": "By what percentage could relocating current croplands to optimal locations reduce the carbon footprint of global crop production?",
+    "gold_triple": {
+      "subject": "Relocating current croplands to optimal locations",
+      "relation": "Reduces",
+      "object": "carbon footprint of global crop production by 71%"
+    },
+    "gold_numbers": [
+      "71%"
+    ],
+    "source_topic": "Sustainable food system"
+  },
+  {
+    "id": 317,
+    "question": "How many years of domestic consumption at present rates are equivalent to the recoverable natural gas reserves in the Outer Continental Shelf of the United States?",
+    "gold_triple": {
+      "subject": "Recoverable natural gas reserves in the Outer Continental Shelf of the United States",
+      "relation": "HasStatistic",
+      "object": "equivalent to about 25 years of domestic consumption at present rates"
+    },
+    "gold_numbers": [
+      "25"
+    ],
+    "source_topic": "Natural gas prices"
+  },
+  {
+    "id": 318,
+    "question": "What is the maximum power output, in kilowatts, for a Micro Combined Heat and Power system?",
+    "gold_triple": {
+      "subject": "Micro Combined Heat and Power",
+      "relation": "HasMaxValue",
+      "object": "50 kW"
+    },
+    "gold_numbers": [
+      "50"
+    ],
+    "source_topic": "Micro combined heat and power"
+  },
+  {
+    "id": 319,
+    "question": "What is the efficiency of edible kilocalories produced from the energy required for chicken cultivation?",
+    "gold_triple": {
+      "subject": "Edible kilocalories produced from energy required for chicken cultivation",
+      "relation": "EfficiencyOf",
+      "object": "181"
+    },
+    "gold_numbers": [
+      "181"
+    ],
+    "source_topic": "Ecological efficiency"
+  },
+  {
+    "id": 320,
+    "question": "What is the savings in electricity generation and utility costs per dollar invested in zero carbon home improvements?",
+    "gold_triple": {
+      "subject": "Savings in electricity generation and utility costs per $1 invested in zero carbon home improvements",
+      "relation": "Saves",
+      "object": "2"
+    },
+    "gold_numbers": [
+      "2"
+    ],
+    "source_topic": "Zero carbon housing"
+  },
+  {
+    "id": 321,
+    "question": "What is the incidence rate of precocious puberty in boys per 10,000?",
+    "gold_triple": {
+      "subject": "Precocious puberty in boys",
+      "relation": "RateOf",
+      "object": "5 per 10,000"
+    },
+    "gold_numbers": [
+      "5",
+      "10,000"
+    ],
+    "source_topic": "Xenoestrogen"
+  },
+  {
+    "id": 322,
+    "question": "How many tonnes of sulphur dioxide does SaskPower emit per gigawatt hour of system generation?",
+    "gold_triple": {
+      "subject": "SaskPower sulphur dioxide emissions",
+      "relation": "RateOf",
+      "object": "5 tonnes per gigawatt hour of system generation"
+    },
+    "gold_numbers": [
+      "5"
+    ],
+    "source_topic": "Boundary Dam Power Station"
+  },
+  {
+    "id": 323,
+    "question": "How many dolphins were in the bay around Hong Kong in 2013?",
+    "gold_triple": {
+      "subject": "Number of dolphins in the bay around Hong Kong",
+      "relation": "HasContext",
+      "object": "In 2013"
+    },
+    "gold_numbers": [
+      "2013"
+    ],
+    "source_topic": "Indo-Pacific humpback dolphin"
+  },
+  {
+    "id": 324,
+    "question": "What percentage of each habitat globally did the World Parks Association target for no-take zones in their 2014 policy?",
+    "gold_triple": {
+      "subject": "World Parks Association target for no-take zones",
+      "relation": "HasPolicyTarget",
+      "object": "30% of each habitat globally adopted in 2014"
+    },
+    "gold_numbers": [
+      "30%",
+      "2014"
+    ],
+    "source_topic": "Marine reserve"
+  },
+  {
+    "id": 325,
+    "question": "What is the seasonally adjusted average coefficient of performance for heat pumps in the northern US?",
+    "gold_triple": {
+      "subject": "Heat pump coefficient of performance (COP) seasonally adjusted for northern US",
+      "relation": "HasAverageValue",
+      "object": "32"
+    },
+    "gold_numbers": [
+      "32"
+    ],
+    "source_topic": "Ground source heat pump"
+  },
+  {
+    "id": 326,
+    "question": "By what percentage does the policy target aim to increase efficient energy use?",
+    "gold_triple": {
+      "subject": "Efficient energy use increase",
+      "relation": "HasPolicyTarget",
+      "object": "20% increase"
+    },
+    "gold_numbers": [
+      "20%"
+    ],
+    "source_topic": "Energy policy of the European Union"
+  },
+  {
+    "id": 327,
+    "question": "How many tons of fly ash are emitted by the coal-based power plant on the Pandu River?",
+    "gold_triple": {
+      "subject": "Coal-based power plant on Pandu River",
+      "relation": "EmissionOf",
+      "object": "210,000 tons of fly ash"
+    },
+    "gold_numbers": [
+      "210,000"
+    ],
+    "source_topic": "Ganga Action Plan"
+  },
+  {
+    "id": 328,
+    "question": "How many years prior to 2002 had a drought severity less severe than that of 2002?",
+    "gold_triple": {
+      "subject": "Drought severity of 2002",
+      "relation": "HasComparison",
+      "object": "drier than any other years in nearly 300 years"
+    },
+    "gold_numbers": [
+      "300"
+    ],
+    "source_topic": "Megadrought"
+  },
+  {
+    "id": 329,
+    "question": "How much higher are the surface temperatures in formerly redlined communities in Phoenix, Arizona, compared to other neighborhoods?",
+    "gold_triple": {
+      "subject": "Surface temperatures in formerly redlined communities in Phoenix, Arizona",
+      "relation": "HasComparison",
+      "object": "up to 10-15 °F (5.6–8.3 °C) higher than other neighborhoods"
+    },
+    "gold_numbers": [
+      "10",
+      "-15",
+      "5.6",
+      "8.3"
+    ],
+    "source_topic": "Urban heat inequity"
+  },
+  {
+    "id": 330,
+    "question": "How many cubic metres of coal ash were spilled in the Kingston Fossil Plant disaster?",
+    "gold_triple": {
+      "subject": "Kingston Fossil Plant Spill",
+      "relation": "VolumeOf",
+      "object": "4.2 million cubic metres"
+    },
+    "gold_numbers": [
+      "4.2"
+    ],
+    "source_topic": "Kingston Fossil Plant coal fly ash slurry spill"
+  },
+  {
+    "id": 331,
+    "question": "What percentage of trips in Amsterdam are made by car?",
+    "gold_triple": {
+      "subject": "Trips in Amsterdam",
+      "relation": "PercentageOf",
+      "object": "23% made by car"
+    },
+    "gold_numbers": [
+      "23%"
+    ],
+    "source_topic": "Sustainable transport"
+  },
+  {
+    "id": 332,
+    "question": "What is the maximum number of harvest cycles for algal growth in a year?",
+    "gold_triple": {
+      "subject": "Algal growth",
+      "relation": "HasMaxValue",
+      "object": "6 harvest cycles annually"
+    },
+    "gold_numbers": [
+      "6"
+    ],
+    "source_topic": "Algal nutrient solution"
+  },
+  {
+    "id": 333,
+    "question": "How many individuals of species weighing less than 10 kg are sourced from bushmeat extraction in the Congo Basin?",
+    "gold_triple": {
+      "subject": "Bushmeat extraction in Congo Basin (species < 10 kg)",
+      "relation": "HasSource",
+      "object": "24 individuals"
+    },
+    "gold_numbers": [
+      "24"
+    ],
+    "source_topic": "Bushmeat"
+  },
+  {
+    "id": 334,
+    "question": "What is the combined installed capacity of the additional Hydropower Plants in MW?",
+    "gold_triple": {
+      "subject": "Combined installed capacity of additional Hydropower Plants",
+      "relation": "HasCapacity",
+      "object": "4,535.5 MW"
+    },
+    "gold_numbers": [
+      "4,535.5"
+    ],
+    "source_topic": "Hydropower in the Mekong River Basin"
+  },
+  {
+    "id": 335,
+    "question": "What percentage of above-canopy values does the solar radiation at the center of an 18-meter strip represent?",
+    "gold_triple": {
+      "subject": "Solar radiation at center of 18 m strip",
+      "relation": "HasPercentileValue",
+      "object": "68% of above-canopy values"
+    },
+    "gold_numbers": [
+      "68%"
+    ],
+    "source_topic": "Gap dynamics"
+  },
+  {
+    "id": 336,
+    "question": "What is the percentage reduction in a building's energy consumption attributed to the overall cooling load?",
+    "gold_triple": {
+      "subject": "Overall cooling load on building's energy consumption",
+      "relation": "Reduces",
+      "object": "15"
+    },
+    "gold_numbers": [
+      "15"
+    ],
+    "source_topic": "Biomimetics"
+  },
+  {
+    "id": 337,
+    "question": "What is the transmission efficiency of the JPL Raytheon program?",
+    "gold_triple": {
+      "subject": "JPL Raytheon program transmission efficiency",
+      "relation": "EfficiencyOf",
+      "object": "96"
+    },
+    "gold_numbers": [
+      "96"
+    ],
+    "source_topic": "Space-based solar power"
+  },
+  {
+    "id": 338,
+    "question": "By what percentage did the differences in foods eaten between countries decrease from 1961 to 2009?",
+    "gold_triple": {
+      "subject": "Differences between foods eaten in different countries",
+      "relation": "Decreases",
+      "object": "68% between 1961 and 2009"
+    },
+    "gold_numbers": [
+      "68%",
+      "1961",
+      "2009"
+    ],
+    "source_topic": "Agricultural biodiversity"
+  },
+  {
+    "id": 339,
+    "question": "What was the daily processing capacity of the Jiangcungou landfill in 2019?",
+    "gold_triple": {
+      "subject": "Jiangcungou landfill",
+      "relation": "RateOf",
+      "object": "10,000 tonnes per day in 2019"
+    },
+    "gold_numbers": [
+      "10,000",
+      "2019"
+    ],
+    "source_topic": "Jiangcungou landfill"
+  },
+  {
+    "id": 340,
+    "question": "What is the time range in million years ago for the Pliocene period?",
+    "gold_triple": {
+      "subject": "Pliocene period",
+      "relation": "HasContext",
+      "object": "5.3 to 2.6 million years ago"
+    },
+    "gold_numbers": [
+      "5.3",
+      "2.6"
+    ],
+    "source_topic": "Climate sensitivity"
+  },
+  {
+    "id": 341,
+    "question": "What percentage of the total protein content in hemp seeds is albumin?",
+    "gold_triple": {
+      "subject": "Albumin",
+      "relation": "PercentageOf",
+      "object": "13% of total protein content in hemp seeds"
+    },
+    "gold_numbers": [
+      "13%"
+    ],
+    "source_topic": "Hemp"
+  },
+  {
+    "id": 342,
+    "question": "What is the estimated annual efficiency of thermal energy storage?",
+    "gold_triple": {
+      "subject": "Thermal energy storage efficiency estimate",
+      "relation": "EfficiencyOf",
+      "object": "99% annual efficiency"
+    },
+    "gold_numbers": [
+      "99%"
+    ],
+    "source_topic": "Thermal energy storage"
+  },
+  {
+    "id": 343,
+    "question": "What is the percentage of fish stocks within biologically sustainable levels in 2015?",
+    "gold_triple": {
+      "subject": "Fish stocks within biologically sustainable levels",
+      "relation": "HasTrend",
+      "object": "decreasing trend from 1974 to 2015"
+    },
+    "gold_numbers": [
+      "1974",
+      "2015"
+    ],
+    "source_topic": "Overfishing"
+  },
+  {
+    "id": 344,
+    "question": "By what percentage has oil sand pollution growth rate increased since 2009?",
+    "gold_triple": {
+      "subject": "Oil sand pollution",
+      "relation": "HasGrowthRate",
+      "object": "increased by 20% since 2009"
+    },
+    "gold_numbers": [
+      "20%",
+      "2009"
+    ],
+    "source_topic": "Soil pollution in Canada"
+  },
+  {
+    "id": 345,
+    "question": "What is the 93rd percentile value for the share of international traffic by IATA member airlines?",
+    "gold_triple": {
+      "subject": "Share of international traffic by IATA member airlines",
+      "relation": "HasPercentileValue",
+      "object": "93%"
+    },
+    "gold_numbers": [
+      "93%"
+    ],
+    "source_topic": "Carbon emission trading"
+  },
+  {
+    "id": 346,
+    "question": "What is the average annual savings of a geothermal pump?",
+    "gold_triple": {
+      "subject": "Geothermal pump annual savings",
+      "relation": "HasAverageValue",
+      "object": "$90,000 per year"
+    },
+    "gold_numbers": [
+      "90,000"
+    ],
+    "source_topic": "Sustainability at American colleges and universities"
+  },
+  {
+    "id": 347,
+    "question": "What was Japan's carbon dioxide equivalent emission in million tonnes in June 2023?",
+    "gold_triple": {
+      "subject": "Japan",
+      "relation": "EmissionOf",
+      "object": "1,166 million tonnes CO2 equivalent in June 2023"
+    },
+    "gold_numbers": [
+      "1,166",
+      "2",
+      "2023"
+    ],
+    "source_topic": "List of locations and entities by greenhouse gas emissions"
+  },
+  {
+    "id": 348,
+    "question": "What is the estimated risk range of exceeding the 2 °C warming target if atmospheric CO2 concentrations stabilize at 450 ppm?",
+    "gold_triple": {
+      "subject": "Stabilization at 450 ppm",
+      "relation": "RiskOf",
+      "object": "26 to 78% risk of exceeding the 2 °C target"
+    },
+    "gold_numbers": [
+      "26",
+      "78%",
+      "2"
+    ],
+    "source_topic": "Kyoto Protocol"
+  },
+  {
+    "id": 349,
+    "question": "By what percentage did coal consumption in China decrease in 2015?",
+    "gold_triple": {
+      "subject": "Coal consumption in China",
+      "relation": "Decreases",
+      "object": "3.6% in 2015"
+    },
+    "gold_numbers": [
+      "3.6%",
+      "2015"
+    ],
+    "source_topic": "Coal phase-out"
+  },
+  {
+    "id": 350,
+    "question": "How many tons of CO2 emissions are mitigated annually by a solar-powered bitcoin mining system?",
+    "gold_triple": {
+      "subject": "Solar-powered bitcoin mining system",
+      "relation": "MitigationOf",
+      "object": "50,000 tons of CO2 emissions annually"
+    },
+    "gold_numbers": [
+      "50,000",
+      "2"
+    ],
+    "source_topic": "Environmental impact of bitcoin"
+  },
+  {
+    "id": 351,
+    "question": "By what percentage does the adoption of novel foods, such as cultured meat and insects, reduce environmental impacts compared to conventional alternatives?",
+    "gold_triple": {
+      "subject": "Novel foods (cultured meat, dairy, microbial foods, insects)",
+      "relation": "Reduces",
+      "object": "environmental impacts by over 80%"
+    },
+    "gold_numbers": [
+      "80%"
+    ],
+    "source_topic": "Sustainable consumption"
+  },
+  {
+    "id": 352,
+    "question": "What percentage of the inhabitants of Martinique are contaminated by the chemical?",
+    "gold_triple": {
+      "subject": "Inhabitants of Martinique",
+      "relation": "HasPercentileValue",
+      "object": "92% contaminated by the chemical"
+    },
+    "gold_numbers": [
+      "92%"
+    ],
+    "source_topic": "Climate justice"
+  },
+  {
+    "id": 353,
+    "question": "How many tons of pollutants do power plants in Tehran emit annually?",
+    "gold_triple": {
+      "subject": "Power plants in Tehran",
+      "relation": "EmissionOf",
+      "object": "40,650 tons of pollutants annually"
+    },
+    "gold_numbers": [
+      "40,650"
+    ],
+    "source_topic": "Air pollution in Iran"
+  },
+  {
+    "id": 354,
+    "question": "What is the claimed gas mileage in miles per gallon for this vehicle?",
+    "gold_triple": {
+      "subject": "Gas Mileage Claim",
+      "relation": "HasNumericValue",
+      "object": "200 Miles on 2 Gallons of Gas"
+    },
+    "gold_numbers": [
+      "200",
+      "2"
+    ],
+    "source_topic": "GasHole"
+  },
+  {
+    "id": 355,
+    "question": "What is the installed capacity of small hydro power in gigawatts?",
+    "gold_triple": {
+      "subject": "Installed small hydro power",
+      "relation": "HasCapacity",
+      "object": "75 GW"
+    },
+    "gold_numbers": [
+      "75"
+    ],
+    "source_topic": "International Center on Small Hydro Power"
+  },
+  {
+    "id": 356,
+    "question": "By what percentage must wastewater treatment plants with a capacity between 10,000 and 150,000 PE, which discharge into coastal or sensitive waters, be adapted to meet policy targets by December 31, 2039?",
+    "gold_triple": {
+      "subject": "Wastewater treatment plants (10,000-150,000 PE) discharging into coastal or sensitive waters",
+      "relation": "HasPolicyTarget",
+      "object": "60% adapted by 31 December 2039"
+    },
+    "gold_numbers": [
+      "60%",
+      "31",
+      "2039"
+    ],
+    "source_topic": "Biological nutrient removal"
+  },
+  {
+    "id": 357,
+    "question": "How many litres of water does a typical shower use?",
+    "gold_triple": {
+      "subject": "Shower water volume",
+      "relation": "VolumeOf",
+      "object": "50–80 litres"
+    },
+    "gold_numbers": [
+      "50",
+      "80"
+    ],
+    "source_topic": "Water heat recycling"
+  },
+  {
+    "id": 358,
+    "question": "What percentage of global carbon dioxide emissions is attributed to tropical deforestation?",
+    "gold_triple": {
+      "subject": "Tropical deforestation",
+      "relation": "PercentageOf",
+      "object": "15% of global carbon dioxide emissions"
+    },
+    "gold_numbers": [
+      "15%"
+    ],
+    "source_topic": "Climate governance"
+  },
+  {
+    "id": 359,
+    "question": "What percentage of total factor productivity in African agriculture has been lost due to anthropogenic climate change since 1961?",
+    "gold_triple": {
+      "subject": "Anthropogenic climate change in Africa",
+      "relation": "HasImpact",
+      "object": "34% loss in agricultural total factor productivity since 1961"
+    },
+    "gold_numbers": [
+      "34%",
+      "1961"
+    ],
+    "source_topic": "Climate change and food security in Africa"
+  },
+  {
+    "id": 360,
+    "question": "What percentage of global carbon emissions comes from transportation?",
+    "gold_triple": {
+      "subject": "Transportation",
+      "relation": "EmissionOf",
+      "object": "23% of global carbon emissions"
+    },
+    "gold_numbers": [
+      "23%"
+    ],
+    "source_topic": "Sustainable habitat"
+  },
+  {
+    "id": 361,
+    "question": "What year was the Great Lakes Compact adopted as the water withdrawal permit policy for Genesee County?",
+    "gold_triple": {
+      "subject": "Water withdrawal permit for Genesee County and others",
+      "relation": "PolicyOf",
+      "object": "2008 Great Lakes Compact"
+    },
+    "gold_numbers": [
+      "2008"
+    ],
+    "source_topic": "Karegnondi Water Authority"
+  },
+  {
+    "id": 362,
+    "question": "What is the capacity of the Savage Rapids Dam centrifugal pump in cubic feet per second?",
+    "gold_triple": {
+      "subject": "Savage Rapids Dam centrifugal pump",
+      "relation": "HasCapacity",
+      "object": "75 cubic feet per second"
+    },
+    "gold_numbers": [
+      "75"
+    ],
+    "source_topic": "Savage Rapids Dam"
+  },
+  {
+    "id": 363,
+    "question": "How many million cubic feet of natural gas do refineries consume?",
+    "gold_triple": {
+      "subject": "Refineries",
+      "relation": "ConsumptionOf",
+      "object": "697593 million cubic feet of Natural Gas"
+    },
+    "gold_numbers": [
+      "697593"
+    ],
+    "source_topic": "The long tailpipe"
+  },
+  {
+    "id": 364,
+    "question": "What percentage of exposed individuals must die for a substance to be classified as having a Lethal Accumulation (LA50) impact?",
+    "gold_triple": {
+      "subject": "Lethal accumulation (LA50)",
+      "relation": "HasImpact",
+      "object": "mortality of 50% of the exposed individuals"
+    },
+    "gold_numbers": [
+      "50%"
+    ],
+    "source_topic": "Biotic Ligand Model"
+  },
+  {
+    "id": 365,
+    "question": "What percentage of total net anthropogenic GHG emissions in 2019 came from buildings?",
+    "gold_triple": {
+      "subject": "Buildings",
+      "relation": "PercentageOf",
+      "object": "6% of total net anthropogenic GHG emissions in 2019"
+    },
+    "gold_numbers": [
+      "6%",
+      "2019"
+    ],
+    "source_topic": "Greenhouse gas emissions"
+  },
+  {
+    "id": 366,
+    "question": "By what percentage does the dry weight of 30-day-old maize plants increase when exposed to doubled CO2 concentrations?",
+    "gold_triple": {
+      "subject": "Dry weight of 30-day-old maize plants",
+      "relation": "Increases",
+      "object": "20% with doubled CO2 concentration"
+    },
+    "gold_numbers": [
+      "20%",
+      "2"
+    ],
+    "source_topic": "CO2 fertilization effect"
+  },
+  {
+    "id": 367,
+    "question": "What percentage of the atmosphere's fresh water is condensed water?",
+    "gold_triple": {
+      "subject": "Atmosphere fresh water",
+      "relation": "PercentageOf",
+      "object": "2 percent condensed water"
+    },
+    "gold_numbers": [
+      "2"
+    ],
+    "source_topic": "Air well (condenser)"
+  },
+  {
+    "id": 368,
+    "question": "What is the specific percentage reduction target set by the Climate Change Act 2008?",
+    "gold_triple": {
+      "subject": "Climate Change Act 2008 target",
+      "relation": "HasPolicyTarget",
+      "object": "80% reduction"
+    },
+    "gold_numbers": [
+      "80%"
+    ],
+    "source_topic": "Climate Change Act 2008"
+  },
+  {
+    "id": 369,
+    "question": "What is the maximum value associated with Nevada Solar One?",
+    "gold_triple": {
+      "subject": "Nevada Solar One",
+      "relation": "HasMaxValue",
+      "object": "250 million"
+    },
+    "gold_numbers": [
+      "250"
+    ],
+    "source_topic": "Solar power plants in the Mojave Desert"
+  },
+  {
+    "id": 370,
+    "question": "What was the global emission of carbon from fossil fuels and cement production in 2010, measured in gigatonnes?",
+    "gold_triple": {
+      "subject": "Fossil fuels and cement production worldwide",
+      "relation": "EmissionOf",
+      "object": "9.14 gigatonnes of carbon in 2010"
+    },
+    "gold_numbers": [
+      "9.14",
+      "2010"
+    ],
+    "source_topic": "Carbon dioxide in the atmosphere of Earth"
+  },
+  {
+    "id": 371,
+    "question": "How much lower was the February summer minimum sea ice extent compared to the 1981-2000 climatological mean?",
+    "gold_triple": {
+      "subject": "February summer minimum sea ice extent",
+      "relation": "HasComparison",
+      "object": "38% lower than 1981-2000 climatological mean"
+    },
+    "gold_numbers": [
+      "38%",
+      "1981",
+      "-2000"
+    ],
+    "source_topic": "Ice–albedo feedback"
+  },
+  {
+    "id": 372,
+    "question": "How many kilograms of neodymium are required per megawatt for a gearless generator?",
+    "gold_triple": {
+      "subject": "Gearless generator",
+      "relation": "ConsumptionOf",
+      "object": "250 kg/MW of neodymium"
+    },
+    "gold_numbers": [
+      "250"
+    ],
+    "source_topic": "Wind turbine design"
+  },
+  {
+    "id": 373,
+    "question": "By what percentage did global petroleum consumption increase between 1995 and 2014?",
+    "gold_triple": {
+      "subject": "Global petroleum consumption",
+      "relation": "Increases",
+      "object": "32% from 1995 to 2014"
+    },
+    "gold_numbers": [
+      "32%",
+      "1995",
+      "2014"
+    ],
+    "source_topic": "Carbon bubble"
+  },
+  {
+    "id": 374,
+    "question": "What is the funding source for NPP according to the 2024 Federal Budget?",
+    "gold_triple": {
+      "subject": "NPP funding source",
+      "relation": "HasSource",
+      "object": "2024 Federal Budget"
+    },
+    "gold_numbers": [
+      "2024"
+    ],
+    "source_topic": "Nature-positive"
+  },
+  {
+    "id": 375,
+    "question": "How many TOC analyses does the GCWDA Bayport facility conduct per day?",
+    "gold_triple": {
+      "subject": "GCWDA Bayport facility",
+      "relation": "RateOf",
+      "object": "102 TOC analyses per day"
+    },
+    "gold_numbers": [
+      "102"
+    ],
+    "source_topic": "Total organic carbon"
+  },
+  {
+    "id": 376,
+    "question": "What was the Renewable Portfolio Standard policy target percentage for the three largest utilities in Oregon in 2015?",
+    "gold_triple": {
+      "subject": "Oregon RPS for three largest utilities",
+      "relation": "HasPolicyTarget",
+      "object": "15% in 2015"
+    },
+    "gold_numbers": [
+      "15%",
+      "2015"
+    ],
+    "source_topic": "Renewable portfolio standards in the United States"
+  },
+  {
+    "id": 377,
+    "question": "Approximately how many UK homes can be powered by the Orbital Marine Power turbine's electricity demand capacity?",
+    "gold_triple": {
+      "subject": "Orbital Marine Power turbine electricity demand capacity",
+      "relation": "HasCapacity",
+      "object": "around 2,000 UK homes"
+    },
+    "gold_numbers": [
+      "2,000"
+    ],
+    "source_topic": "Orbital Marine Power"
+  },
+  {
+    "id": 378,
+    "question": "By what percentage does the policy target aim to reduce per capita water consumption compared to 2006 levels?",
+    "gold_triple": {
+      "subject": "Water consumption per capita",
+      "relation": "HasPolicyTarget",
+      "object": "reduce by 33% from 2006 levels"
+    },
+    "gold_numbers": [
+      "33%",
+      "2006"
+    ],
+    "source_topic": "Greenest City 2020 Action Plan"
+  },
+  {
+    "id": 379,
+    "question": "On what date did the Winnipeg City Council approve the master plan?",
+    "gold_triple": {
+      "subject": "Winnipeg City Council",
+      "relation": "HasAction",
+      "object": "approved master plan on October 19, 2011"
+    },
+    "gold_numbers": [
+      "19",
+      "2011"
+    ],
+    "source_topic": "Municipal waste management in Winnipeg"
+  },
+  {
+    "id": 380,
+    "question": "What is the probability that wind output changes by less than 10% within a single hour?",
+    "gold_triple": {
+      "subject": "Wind output change in an hour",
+      "relation": "RiskOf",
+      "object": "80% chance of changing less than 10%"
+    },
+    "gold_numbers": [
+      "80%",
+      "10%"
+    ],
+    "source_topic": "Wind power"
+  },
+  {
+    "id": 381,
+    "question": "By what percentage have the population sizes of monitored vertebrate species declined on average over the last five decades?",
+    "gold_triple": {
+      "subject": "Population sizes of monitored vertebrate species",
+      "relation": "HasAverageValue",
+      "object": "declined by an average of 68% over the last five decades"
+    },
+    "gold_numbers": [
+      "68%"
+    ],
+    "source_topic": "Holocene extinction"
+  },
+  {
+    "id": 382,
+    "question": "What percentage of tree wealth belongs to the poorest families?",
+    "gold_triple": {
+      "subject": "Tree wealth belonging to the poorest families",
+      "relation": "HasPercentileValue",
+      "object": "60"
+    },
+    "gold_numbers": [
+      "60"
+    ],
+    "source_topic": "Tree planting"
+  },
+  {
+    "id": 383,
+    "question": "By what percentage does the nutritious value of key plant species for livestock decrease under increased CO2 levels?",
+    "gold_triple": {
+      "subject": "Nutritious value of key plant species to livestock under increased CO2",
+      "relation": "Decreases",
+      "object": "13"
+    },
+    "gold_numbers": [
+      "13"
+    ],
+    "source_topic": "Effects of climate change on livestock"
+  },
+  {
+    "id": 384,
+    "question": "By how many pH units does open ocean surface water decrease per decade?",
+    "gold_triple": {
+      "subject": "pH in open ocean surface water",
+      "relation": "Decreases",
+      "object": "about 0.017 to 0.027 pH units per decade"
+    },
+    "gold_numbers": [
+      "0.017",
+      "0.027"
+    ],
+    "source_topic": "Ocean acidification"
+  },
+  {
+    "id": 385,
+    "question": "How many litres of untreated sewage enter rivers daily?",
+    "gold_triple": {
+      "subject": "Untreated sewage entering rivers daily",
+      "relation": "HasNumericValue",
+      "object": "1.5 billion litres"
+    },
+    "gold_numbers": [
+      "1.5"
+    ],
+    "source_topic": "Environmental personhood"
+  },
+  {
+    "id": 386,
+    "question": "What is the minimum latitude range for groups following Rapoport's rule?",
+    "gold_triple": {
+      "subject": "Groups following Rapoport's rule",
+      "relation": "HasMinValue",
+      "object": "latitudes of about 40–50 degrees"
+    },
+    "gold_numbers": [
+      "40",
+      "50"
+    ],
+    "source_topic": "Rapoport's rule"
+  },
+  {
+    "id": 387,
+    "question": "What is the efficiency value for the original Dyes?",
+    "gold_triple": {
+      "subject": "Dyes (original)",
+      "relation": "EfficiencyOf",
+      "object": "80"
+    },
+    "gold_numbers": [
+      "80"
+    ],
+    "source_topic": "Dye-sensitized solar cell"
+  },
+  {
+    "id": 388,
+    "question": "On what dates did the Battle of Cape Esperance take place?",
+    "gold_triple": {
+      "subject": "Battle of Cape Esperance",
+      "relation": "HasNumericValue",
+      "object": "11–12 October 1942"
+    },
+    "gold_numbers": [
+      "11",
+      "12",
+      "1942"
+    ],
+    "source_topic": "Ironbottom Sound"
+  },
+  {
+    "id": 389,
+    "question": "What is the rate of deep well water recirculation in liters per metric ton per minute?",
+    "gold_triple": {
+      "subject": "Deep well water recirculation",
+      "relation": "RateOf",
+      "object": "8 litres (2 US gal) of water per metric ton per minute"
+    },
+    "gold_numbers": [
+      "8",
+      "2"
+    ],
+    "source_topic": "Solar air conditioning"
+  },
+  {
+    "id": 390,
+    "question": "What percentage of global energy-related greenhouse gas emissions came from cities in 2019?",
+    "gold_triple": {
+      "subject": "Cities",
+      "relation": "EmissionOf",
+      "object": "70% of energy-related greenhouse gas emissions as of 2019"
+    },
+    "gold_numbers": [
+      "70%",
+      "2019"
+    ],
+    "source_topic": "Zero-carbon city"
+  },
+  {
+    "id": 391,
+    "question": "What year was the study on the source of the North Crimean Canal's water provision to Crimea published?",
+    "gold_triple": {
+      "subject": "North Crimean Canal water provision to Crimea",
+      "relation": "HasSource",
+      "object": "2015 study"
+    },
+    "gold_numbers": [
+      "2015"
+    ],
+    "source_topic": "North Crimean Canal"
+  },
+  {
+    "id": 392,
+    "question": "What is the minimum electrical conductivity in dS/m for severe soil salinity?",
+    "gold_triple": {
+      "subject": "Severe level of salinity",
+      "relation": "HasMinValue",
+      "object": "3 dS/m electrical conductivity"
+    },
+    "gold_numbers": [
+      "3"
+    ],
+    "source_topic": "Tile drainage"
+  },
+  {
+    "id": 393,
+    "question": "By what factor does the dry weight of 40-day-old cotton plants increase when the CO2 concentration is doubled?",
+    "gold_triple": {
+      "subject": "Dry weight of 40-day-old cotton plants",
+      "relation": "Increases",
+      "object": "doubled with doubled CO2 concentration"
+    },
+    "gold_numbers": [
+      "2"
+    ],
+    "source_topic": "CO2 fertilization effect"
+  },
+  {
+    "id": 394,
+    "question": "By what percentage has ocean water acidity increased compared to the 1980s?",
+    "gold_triple": {
+      "subject": "Ocean water acidity",
+      "relation": "Increases",
+      "object": "30% compared to the 1980s"
+    },
+    "gold_numbers": [
+      "30%",
+      "1980"
+    ],
+    "source_topic": "Bermuda Atlantic Time-series Study"
+  },
+  {
+    "id": 395,
+    "question": "What is the total carbon dioxide equivalent emission from small ruminants like sheep and goats?",
+    "gold_triple": {
+      "subject": "Small ruminants (sheep and goats)",
+      "relation": "EmissionOf",
+      "object": "475 million tons of carbon dioxide equivalent"
+    },
+    "gold_numbers": [
+      "475"
+    ],
+    "source_topic": "Greenhouse gas emissions from agriculture"
+  },
+  {
+    "id": 396,
+    "question": "How many million barrels of oil are saved annually by the recycling of end-of-life vehicles?",
+    "gold_triple": {
+      "subject": "Recyclers of end-of-life vehicles",
+      "relation": "Saves",
+      "object": "85 million barrels of oil annually"
+    },
+    "gold_numbers": [
+      "85"
+    ],
+    "source_topic": "Vehicle recycling"
+  },
+  {
+    "id": 397,
+    "question": "What was the percentage of explosives usage attributed to 'Other users' in the United States between 1990 and 1999?",
+    "gold_triple": {
+      "subject": "Other users share of explosives usage in the United States",
+      "relation": "HasPercentileValue",
+      "object": "2.6% between 1990 and 1999"
+    },
+    "gold_numbers": [
+      "2.6%",
+      "1990",
+      "1999"
+    ],
+    "source_topic": "Renewable energy and mining"
+  },
+  {
+    "id": 398,
+    "question": "What is the survival rate for fixed structure nurseries?",
+    "gold_triple": {
+      "subject": "Fixed structure nurseries survival rate",
+      "relation": "HasPercentileValue",
+      "object": "43"
+    },
+    "gold_numbers": [
+      "43"
+    ],
+    "source_topic": "Coral reef restoration"
+  },
+  {
+    "id": 399,
+    "question": "What is the maximum net marsh loss observed at currently vegetated sites between 1939 and 2005?",
+    "gold_triple": {
+      "subject": "Net marsh loss at currently vegetated sites (1939-2005)",
+      "relation": "HasMaxValue",
+      "object": "5"
+    },
+    "gold_numbers": [
+      "5"
+    ],
+    "source_topic": "Salt marsh die-off"
+  },
+  {
+    "id": 400,
+    "question": "By what percentage does a single lionfish reduce the recruitment of native reef fishes?",
+    "gold_triple": {
+      "subject": "Recruitment of native reef fishes",
+      "relation": "Reduces",
+      "object": "79% reduction due to one lone lion-fish"
+    },
+    "gold_numbers": [
+      "79%"
+    ],
+    "source_topic": "Environmental issues of Jamaica's reefs"
+  },
+  {
+    "id": 401,
+    "question": "What is the estimated probability of a global catastrophe occurring by the year 2100?",
+    "gold_triple": {
+      "subject": "Global catastrophe by 2100",
+      "relation": "RiskOf",
+      "object": "20% chance"
+    },
+    "gold_numbers": [
+      "20%"
+    ],
+    "source_topic": "Human extinction"
+  },
+  {
+    "id": 402,
+    "question": "How many tonnes of SOx emissions are recorded in Funchal, Portugal?",
+    "gold_triple": {
+      "subject": "SOx emissions in Funchal, Portugal",
+      "relation": "EmissionOf",
+      "object": "18 tonnes"
+    },
+    "gold_numbers": [
+      "18"
+    ],
+    "source_topic": "Cruise ship pollution in Europe"
+  },
+  {
+    "id": 403,
+    "question": "What was the estimated monetary value of high-value fish killed by the 1998 Hong Kong HAB?",
+    "gold_triple": {
+      "subject": "Hong Kong HAB (1998)",
+      "relation": "HasImpact",
+      "object": "over $10 million in high-value fish killed"
+    },
+    "gold_numbers": [
+      "10"
+    ],
+    "source_topic": "RED TIDE"
+  },
+  {
+    "id": 404,
+    "question": "By what percentage have Indigenous languages in the Americas decreased?",
+    "gold_triple": {
+      "subject": "Indigenous languages in the Americas",
+      "relation": "Decreases",
+      "object": "60"
+    },
+    "gold_numbers": [
+      "60"
+    ],
+    "source_topic": "Biocultural diversity"
+  },
+  {
+    "id": 405,
+    "question": "How many gallons of water did the EPA's water conservation program save between 2006 and 2020?",
+    "gold_triple": {
+      "subject": "EPA water conservation program (2006-2020)",
+      "relation": "Saves",
+      "object": "approximately 5.3 trillion gallons of water"
+    },
+    "gold_numbers": [
+      "5.3"
+    ],
+    "source_topic": "EPA WaterSense"
+  },
+  {
+    "id": 406,
+    "question": "What was the lowest amount by which the ING Group reduced its borrowing costs?",
+    "gold_triple": {
+      "subject": "ING Group borrowing cost reduction",
+      "relation": "HasMinValue",
+      "object": "5"
+    },
+    "gold_numbers": [
+      "5"
+    ],
+    "source_topic": "Green lending"
+  },
+  {
+    "id": 407,
+    "question": "How many visitors do the world's 1,100 organized zoos receive annually?",
+    "gold_triple": {
+      "subject": "1,100 organized zoos in the world",
+      "relation": "HasStatistic",
+      "object": "more than 600 million visitors annually"
+    },
+    "gold_numbers": [
+      "600"
+    ],
+    "source_topic": "Ex situ conservation"
+  },
+  {
+    "id": 408,
+    "question": "What is the mitigation target in million tonnes of CO2 equivalent emissions for Trinidad and Tobago's nationally determined contribution?",
+    "gold_triple": {
+      "subject": "Trinidad and Tobago's nationally determined contribution",
+      "relation": "MitigationOf",
+      "object": "103 million tonnes CO2e of emissions"
+    },
+    "gold_numbers": [
+      "103",
+      "2"
+    ],
+    "source_topic": "Climate finance in Trinidad and Tobago"
+  },
+  {
+    "id": 409,
+    "question": "What was Russia's total carbon dioxide equivalent emission in million tonnes for June 2023?",
+    "gold_triple": {
+      "subject": "Russia",
+      "relation": "EmissionOf",
+      "object": "2,476 million tonnes CO2 equivalent in June 2023"
+    },
+    "gold_numbers": [
+      "2,476",
+      "2",
+      "2023"
+    ],
+    "source_topic": "List of locations and entities by greenhouse gas emissions"
+  },
+  {
+    "id": 410,
+    "question": "How many individuals are extracted as bushmeat from the Amazon rainforest for species weighing less than 10 kg?",
+    "gold_triple": {
+      "subject": "Bushmeat extraction in Amazon rainforest (species < 10 kg)",
+      "relation": "HasSource",
+      "object": "3 individuals"
+    },
+    "gold_numbers": [
+      "3"
+    ],
+    "source_topic": "Bushmeat"
+  },
+  {
+    "id": 411,
+    "question": "By what percentage have the unit costs of solar energy decreased?",
+    "gold_triple": {
+      "subject": "Unit costs of solar energy",
+      "relation": "Reduces",
+      "object": "85"
+    },
+    "gold_numbers": [
+      "85"
+    ],
+    "source_topic": "Energy transition"
+  },
+  {
+    "id": 412,
+    "question": "What is the regulatory limit for methane according to the EA 2004 Guidance on the monitoring of Landfill Gas (LFTGN03)?",
+    "gold_triple": {
+      "subject": "Regulatory limit of methane",
+      "relation": "HasSource",
+      "object": "Guidance on the monitoring of Landfill Gas LFTGN03, EA 2004"
+    },
+    "gold_numbers": [
+      "03",
+      "2004"
+    ],
+    "source_topic": "Landfill gas monitoring"
+  },
+  {
+    "id": 413,
+    "question": "What is the annual chance of flooding for a property in Band 2?",
+    "gold_triple": {
+      "subject": "Band 2",
+      "relation": "RiskOf",
+      "object": "between 200:1 and 75:1 chance of flooding annually"
+    },
+    "gold_numbers": [
+      "200",
+      "1",
+      "75",
+      "1"
+    ],
+    "source_topic": "Environmental surveying"
+  },
+  {
+    "id": 414,
+    "question": "What percentage of the world's land is covered by wetlands?",
+    "gold_triple": {
+      "subject": "Wetlands",
+      "relation": "PercentageOf",
+      "object": "5.5% of the world's land"
+    },
+    "gold_numbers": [
+      "5.5%"
+    ],
+    "source_topic": "Carbon sequestration"
+  },
+  {
+    "id": 415,
+    "question": "What is the maximum concentration of Benzo[a]pyrene found in cooked meat products?",
+    "gold_triple": {
+      "subject": "BaP levels in cooked meat products",
+      "relation": "HasMaxValue",
+      "object": "4 ng/g"
+    },
+    "gold_numbers": [
+      "4"
+    ],
+    "source_topic": "Benzo(a)pyrene"
+  },
+  {
+    "id": 416,
+    "question": "What is the estimated monetary value of ecosystem services to the global economy according to the WWF's 2018 Living Planet Report?",
+    "gold_triple": {
+      "subject": "Value of ecosystem services to the global economy",
+      "relation": "HasSource",
+      "object": "WWF's 2018 Living Planet Report"
+    },
+    "gold_numbers": [
+      "2018"
+    ],
+    "source_topic": "Economics of biodiversity"
+  },
+  {
+    "id": 417,
+    "question": "By what year are Halon concentrations expected to start declining?",
+    "gold_triple": {
+      "subject": "Halon concentrations",
+      "relation": "HasTrend",
+      "object": "expected to begin to decline by about 2020"
+    },
+    "gold_numbers": [
+      "2020"
+    ],
+    "source_topic": "Montreal Protocol"
+  },
+  {
+    "id": 418,
+    "question": "How much electricity, in terawatt-hours, do SWP and CVP each consume annually?",
+    "gold_triple": {
+      "subject": "SWP and CVP",
+      "relation": "ConsumptionOf",
+      "object": "approximately 5 TWh of electricity each per year"
+    },
+    "gold_numbers": [
+      "5"
+    ],
+    "source_topic": "Water-energy nexus"
+  },
+  {
+    "id": 419,
+    "question": "How much electrical energy, in kWh, do electric cars typically consume per 100 kilometers?",
+    "gold_triple": {
+      "subject": "Electric cars",
+      "relation": "ConsumptionOf",
+      "object": "12 to 15 kWh of electrical energy per 100 km"
+    },
+    "gold_numbers": [
+      "12",
+      "15",
+      "100"
+    ],
+    "source_topic": "Mobility transition"
+  },
+  {
+    "id": 420,
+    "question": "What is the total area of pulpwood plantations in Indonesia?",
+    "gold_triple": {
+      "subject": "Total area of pulpwood plantations in Indonesia",
+      "relation": "HasNumericValue",
+      "object": "1.4 million hectares"
+    },
+    "gold_numbers": [
+      "1.4"
+    ],
+    "source_topic": "Tree farm"
+  },
+  {
+    "id": 421,
+    "question": "What is the projected warming above preindustrial levels by the end of the century if emissions of these gases are eliminated?",
+    "gold_triple": {
+      "subject": "Eliminating emissions of these gases",
+      "relation": "MitigationOf",
+      "object": "0.5 degree Celsius of warming above preindustrial levels by the end of the century"
+    },
+    "gold_numbers": [
+      "0.5"
+    ],
+    "source_topic": "Kigali Amendment"
+  },
+  {
+    "id": 422,
+    "question": "By what percentage are global ecosystem services projected to decline by the year 2100?",
+    "gold_triple": {
+      "subject": "Global ecosystem services",
+      "relation": "HasTrend",
+      "object": "9% decline by 2100"
+    },
+    "gold_numbers": [
+      "9%",
+      "2100"
+    ],
+    "source_topic": "Ecosystem service"
+  },
+  {
+    "id": 423,
+    "question": "In what year was the donation to the University of California, Santa Cruz made?",
+    "gold_triple": {
+      "subject": "Donation to University of California, Santa Cruz",
+      "relation": "HasContext",
+      "object": "2014"
+    },
+    "gold_numbers": [
+      "2014"
+    ],
+    "source_topic": "Julie Packard"
+  },
+  {
+    "id": 424,
+    "question": "What is the maximum migration rate of a barchan dune in meters per year?",
+    "gold_triple": {
+      "subject": "Barchan migration rate",
+      "relation": "HasMaxValue",
+      "object": "30 meters per year"
+    },
+    "gold_numbers": [
+      "30"
+    ],
+    "source_topic": "Aeolian processes"
+  },
+  {
+    "id": 425,
+    "question": "How many people are killed worldwide annually due to indoor air pollution from solid fuel use?",
+    "gold_triple": {
+      "subject": "Indoor air pollution from using solid fuel",
+      "relation": "HasImpact",
+      "object": "1.6 million people killed worldwide annually"
+    },
+    "gold_numbers": [
+      "1.6"
+    ],
+    "source_topic": "Green-collar worker"
+  },
+  {
+    "id": 426,
+    "question": "How many deaths per year are attributed to outdoor air pollution?",
+    "gold_triple": {
+      "subject": "Outdoor Air Pollution",
+      "relation": "HasStatistic",
+      "object": "4.2 million deaths per year"
+    },
+    "gold_numbers": [
+      "4.2"
+    ],
+    "source_topic": "Air pollution"
+  },
+  {
+    "id": 427,
+    "question": "By what percentage is the seed dispersal rate in treefall gaps during the first three years lower than the rate in the nearby understory?",
+    "gold_triple": {
+      "subject": "Seed dispersal rate in treefall gaps within the first three years",
+      "relation": "HasComparison",
+      "object": "72% lower than rates in nearby understory"
+    },
+    "gold_numbers": [
+      "72%"
+    ],
+    "source_topic": "Treefall gap"
+  },
+  {
+    "id": 428,
+    "question": "How many people die annually from cooking-related pollution?",
+    "gold_triple": {
+      "subject": "Cooking-related pollution",
+      "relation": "HasStatistic",
+      "object": "3.8 million annual deaths"
+    },
+    "gold_numbers": [
+      "3.8"
+    ],
+    "source_topic": "Household air pollution"
+  },
+  {
+    "id": 429,
+    "question": "How many billion tons of carbon dioxide could be removed from the atmosphere by the end of the century through shifting to plant-based diets and re-wilding farmlands in high-income nations?",
+    "gold_triple": {
+      "subject": "Shift to plant-based diets and re-wilding of farmlands in high-income nations",
+      "relation": "MitigationOf",
+      "object": "100 billion tons of carbon dioxide removed from the air by the end of the century"
+    },
+    "gold_numbers": [
+      "100"
+    ],
+    "source_topic": "Environmental vegetarianism"
+  },
+  {
+    "id": 430,
+    "question": "What is the data rate in Mbit/s?",
+    "gold_triple": {
+      "subject": "Data rate",
+      "relation": "RateOf",
+      "object": "10 Mbit/s"
+    },
+    "gold_numbers": [
+      "10"
+    ],
+    "source_topic": "Geostationary Carbon Cycle Observatory"
+  },
+  {
+    "id": 431,
+    "question": "How much money does a Thermosiphon installation save per person per month in household operating costs in the US?",
+    "gold_triple": {
+      "subject": "Thermosiphon installation",
+      "relation": "Saves",
+      "object": "$6 per person per month in household operating costs in the US"
+    },
+    "gold_numbers": [
+      "6"
+    ],
+    "source_topic": "Solar thermal energy"
+  },
+  {
+    "id": 432,
+    "question": "What is the trend of sea ice between 2015 and 2023?",
+    "gold_triple": {
+      "subject": "Sea Ice",
+      "relation": "HasTrend",
+      "object": "decline between 2015 and 2023"
+    },
+    "gold_numbers": [
+      "2015",
+      "2023"
+    ],
+    "source_topic": "Effects of climate change"
+  },
+  {
+    "id": 433,
+    "question": "What is the total SOx emissions exposure in France in tonnes?",
+    "gold_triple": {
+      "subject": "SOx emissions exposure in France",
+      "relation": "EmissionOf",
+      "object": "5,950 tonnes"
+    },
+    "gold_numbers": [
+      "5,950"
+    ],
+    "source_topic": "Cruise ship pollution in Europe"
+  },
+  {
+    "id": 434,
+    "question": "What is the annual volume of petroleum produced by natural seepages?",
+    "gold_triple": {
+      "subject": "Petroleum from natural seepages",
+      "relation": "VolumeOf",
+      "object": "250 million litres per year"
+    },
+    "gold_numbers": [
+      "250"
+    ],
+    "source_topic": "Microbial biodegradation"
+  },
+  {
+    "id": 435,
+    "question": "What percentage of Earth's most highly threatened terrestrial insular vertebrates have improved survival prospects due to the eradication of invasive animals on 169 islands?",
+    "gold_triple": {
+      "subject": "Eradication of invasive animals on 169 islands",
+      "relation": "HasImpact",
+      "object": "improved survival prospects of 9.4% of Earth's most highly threatened terrestrial insular vertebrates"
+    },
+    "gold_numbers": [
+      "9.4%"
+    ],
+    "source_topic": "Island Conservation"
+  },
+  {
+    "id": 436,
+    "question": "How much potable water was available in Jordan as of September 2021?",
+    "gold_triple": {
+      "subject": "Jordan's available potable water",
+      "relation": "HasContext",
+      "object": "As of September 2021"
+    },
+    "gold_numbers": [
+      "2021"
+    ],
+    "source_topic": "Jordan Desalination Plant"
+  },
+  {
+    "id": 437,
+    "question": "What percentage of the annual energy costs does the savings from the Phipps Conservatory & Botanical Gardens represent?",
+    "gold_triple": {
+      "subject": "Phipps Conservatory & Botanical Gardens",
+      "relation": "Saves",
+      "object": "40-50% of annual energy costs"
+    },
+    "gold_numbers": [
+      "40",
+      "-50%"
+    ],
+    "source_topic": "Green museum"
+  },
+  {
+    "id": 438,
+    "question": "How many people globally are severely food insecure?",
+    "gold_triple": {
+      "subject": "Number of people severely food insecure globally",
+      "relation": "HasNumericValue",
+      "object": "more than 864 million"
+    },
+    "gold_numbers": [
+      "864"
+    ],
+    "source_topic": "Food security"
+  },
+  {
+    "id": 439,
+    "question": "How many tonnes of gutter oil were seized in 2011?",
+    "gold_triple": {
+      "subject": "Gutter oil seized in 2011",
+      "relation": "VolumeOf",
+      "object": "90 tonnes"
+    },
+    "gold_numbers": [
+      "90"
+    ],
+    "source_topic": "Gutter oil"
+  },
+  {
+    "id": 440,
+    "question": "What percentage of the irrigation location in Asia is accounted for in 2023?",
+    "gold_triple": {
+      "subject": "Irrigation location in Asia",
+      "relation": "HasPercentileValue",
+      "object": "71% in 2023"
+    },
+    "gold_numbers": [
+      "71%",
+      "2023"
+    ],
+    "source_topic": "Irrigation"
+  },
+  {
+    "id": 441,
+    "question": "What percentage of total anthropogenic carbon emissions is attributed to tropical deforestation?",
+    "gold_triple": {
+      "subject": "Carbon emissions from tropical deforestation",
+      "relation": "PercentageOf",
+      "object": "15% of total anthropogenic carbon emissions"
+    },
+    "gold_numbers": [
+      "15%"
+    ],
+    "source_topic": "Mangrove restoration"
+  },
+  {
+    "id": 442,
+    "question": "What is the risk of a catastrophic climate crisis by the year 2000 according to the Eni commissioned study?",
+    "gold_triple": {
+      "subject": "Eni commissioned study",
+      "relation": "RiskOf",
+      "object": "catastrophic climate crisis by 2000"
+    },
+    "gold_numbers": [
+      "2000"
+    ],
+    "source_topic": "Greenpeace v. Eni"
+  },
+  {
+    "id": 443,
+    "question": "What percentage of ethanol is mandated in Venezuelan gasoline under the E10 blending standard?",
+    "gold_triple": {
+      "subject": "Venezuela ethanol blending mandate",
+      "relation": "PolicyOf",
+      "object": "E10 (10% ethanol)"
+    },
+    "gold_numbers": [
+      "10",
+      "10%"
+    ],
+    "source_topic": "Biofuels by region"
+  },
+  {
+    "id": 444,
+    "question": "What is the average duration in millions of years for Cenozoic bivalve species?",
+    "gold_triple": {
+      "subject": "Cenozoic Bivalves",
+      "relation": "HasAverageValue",
+      "object": "10 million years"
+    },
+    "gold_numbers": [
+      "10"
+    ],
+    "source_topic": "Background extinction rate"
+  },
+  {
+    "id": 445,
+    "question": "What is the annual expansion growth rate of marine macroalgae?",
+    "gold_triple": {
+      "subject": "Marine macroalgae expansion growth rate",
+      "relation": "HasGrowthRate",
+      "object": "13.4%/yr"
+    },
+    "gold_numbers": [
+      "13.4%"
+    ],
+    "source_topic": "Carbon dioxide removal"
+  },
+  {
+    "id": 446,
+    "question": "What is the annual production capacity in pounds of the Lehigh Technologies MRP manufacturing plant?",
+    "gold_triple": {
+      "subject": "Lehigh Technologies MRP manufacturing plant",
+      "relation": "HasCapacity",
+      "object": "more than 100 million pounds annually"
+    },
+    "gold_numbers": [
+      "100"
+    ],
+    "source_topic": "Lehigh Technologies"
+  },
+  {
+    "id": 447,
+    "question": "What are the start and end years covered in the Alberta Sustainability Trends 2000: Genuine Progress Indicators Report?",
+    "gold_triple": {
+      "subject": "Alberta Sustainability Trends 2000: Genuine Progress Indicators Report",
+      "relation": "HasContext",
+      "object": "1961 to 1999"
+    },
+    "gold_numbers": [
+      "1961",
+      "1999"
+    ],
+    "source_topic": "Genuine progress indicator"
+  },
+  {
+    "id": 448,
+    "question": "What is the efficiency percentage of a light bulb when it is used for heating a room?",
+    "gold_triple": {
+      "subject": "Light bulb",
+      "relation": "EfficiencyOf",
+      "object": "98% at heating a room"
+    },
+    "gold_numbers": [
+      "98%"
+    ],
+    "source_topic": "Electrical efficiency"
+  },
+  {
+    "id": 449,
+    "question": "What percentage of American homes' natural gas needs can be met by renewable gas from waste biomass?",
+    "gold_triple": {
+      "subject": "Renewable gas from waste biomass",
+      "relation": "HasImpact",
+      "object": "enough to meet natural gas needs of 50% of American homes"
+    },
+    "gold_numbers": [
+      "50%"
+    ],
+    "source_topic": "Renewable natural gas"
+  },
+  {
+    "id": 450,
+    "question": "How many full-time equivalent positions does the Mine reclamation project in Montana generate?",
+    "gold_triple": {
+      "subject": "Mine reclamation project in Montana",
+      "relation": "HasImpact",
+      "object": "generate a total of 3,563 full-time equivalent (FTE) positions"
+    },
+    "gold_numbers": [
+      "3,563"
+    ],
+    "source_topic": "Restoration economy"
+  },
+  {
+    "id": 451,
+    "question": "What was the 5-year mean air temperature trend over the southern hemisphere between 1943 and 1975?",
+    "gold_triple": {
+      "subject": "5-year mean air temperature over the southern hemisphere",
+      "relation": "HasTrend",
+      "object": "generally rose between 1943 and 1975"
+    },
+    "gold_numbers": [
+      "1943",
+      "1975"
+    ],
+    "source_topic": "Global cooling"
+  },
+  {
+    "id": 452,
+    "question": "By what percentage does the visibility of the night sky decrease globally each year?",
+    "gold_triple": {
+      "subject": "Visibility of the night sky worldwide",
+      "relation": "Decreases",
+      "object": "10% each year"
+    },
+    "gold_numbers": [
+      "10%"
+    ],
+    "source_topic": "Ecological light pollution"
+  },
+  {
+    "id": 453,
+    "question": "What is the annual growth rate of global poultry meat production and consumption?",
+    "gold_triple": {
+      "subject": "Global production and consumption of poultry meat",
+      "relation": "HasGrowthRate",
+      "object": "more than 5% annually"
+    },
+    "gold_numbers": [
+      "5%"
+    ],
+    "source_topic": "Environmental impacts of animal agriculture"
+  },
+  {
+    "id": 454,
+    "question": "What was the average annual number of mortality and serious injury incidents attributed to ship strikes between 1999 and 2003?",
+    "gold_triple": {
+      "subject": "Incidents of mortality and serious injury attributed to ship strikes",
+      "relation": "HasAverageValue",
+      "object": "one per year from 1999 to 2003"
+    },
+    "gold_numbers": [
+      "1999",
+      "2003"
+    ],
+    "source_topic": "Environmental impact of shipping"
+  },
+  {
+    "id": 455,
+    "question": "By what percentage was the CO2 sequestered from 2017 to 2019 less than initially reported?",
+    "gold_triple": {
+      "subject": "CO2 sequestered from 2017 to 2019",
+      "relation": "HasPercentileValue",
+      "object": "30% less than initially reported"
+    },
+    "gold_numbers": [
+      "30%"
+    ],
+    "source_topic": "Sleipner gas field"
+  },
+  {
+    "id": 456,
+    "question": "What is the efficiency of the VLH turbine?",
+    "gold_triple": {
+      "subject": "VLH turbine",
+      "relation": "EfficiencyOf",
+      "object": "90"
+    },
+    "gold_numbers": [
+      "90"
+    ],
+    "source_topic": "Micro hydro"
+  },
+  {
+    "id": 457,
+    "question": "What is the source of the Global warming and global mean sea level rise projections?",
+    "gold_triple": {
+      "subject": "Global warming and global mean sea level rise projections",
+      "relation": "HasSource",
+      "object": "IPCC Fifth Assessment Report (IPCC AR5 WG1)"
+    },
+    "gold_numbers": [
+      "5",
+      "1"
+    ],
+    "source_topic": "Representative Concentration Pathway"
+  },
+  {
+    "id": 458,
+    "question": "What was the percentage increase in nationwide electricity consumption in 2013?",
+    "gold_triple": {
+      "subject": "Nationwide electricity consumption change in 2013",
+      "relation": "Increases",
+      "object": "1.76%"
+    },
+    "gold_numbers": [
+      "1.76%"
+    ],
+    "source_topic": "One Less Nuclear Power Plant"
+  },
+  {
+    "id": 459,
+    "question": "What is the efficiency percentage of the world record for solar hydrogen panels?",
+    "gold_triple": {
+      "subject": "World record for solar hydrogen panels",
+      "relation": "EfficiencyOf",
+      "object": "15"
+    },
+    "gold_numbers": [
+      "15"
+    ],
+    "source_topic": "Solar hydrogen panel"
+  },
+  {
+    "id": 460,
+    "question": "What is the minimum migration altitude of bar-headed geese in miles?",
+    "gold_triple": {
+      "subject": "bar-headed geese",
+      "relation": "HasMinValue",
+      "object": "5.2 mi migration altitude"
+    },
+    "gold_numbers": [
+      "5.2"
+    ],
+    "source_topic": "Biosphere"
+  },
+  {
+    "id": 461,
+    "question": "What is the total number of episodes of illnesses?",
+    "gold_triple": {
+      "subject": "Total episodes of illnesses",
+      "relation": "HasNumericValue",
+      "object": "$65 million"
+    },
+    "gold_numbers": [
+      "65"
+    ],
+    "source_topic": "Environmental history of the United States"
+  },
+  {
+    "id": 462,
+    "question": "What percentage of the molten salt mixture is potassium nitrate?",
+    "gold_triple": {
+      "subject": "Molten salt mixture composition",
+      "relation": "PercentageOf",
+      "object": "40% potassium nitrate"
+    },
+    "gold_numbers": [
+      "40%"
+    ],
+    "source_topic": "Concentrated solar power"
+  },
+  {
+    "id": 463,
+    "question": "What was the announced production increase percentage for the Puna Geothermal Venture in March 2018?",
+    "gold_triple": {
+      "subject": "Puna Geothermal Venture",
+      "relation": "HasContext",
+      "object": "production increase plan announced in March 2018"
+    },
+    "gold_numbers": [
+      "2018"
+    ],
+    "source_topic": "Puna Geothermal Venture"
+  },
+  {
+    "id": 464,
+    "question": "How many tonnes of PM10 particulate matter were mitigated by trees in the Chicago region in 1991?",
+    "gold_triple": {
+      "subject": "Trees in the Chicago region",
+      "relation": "MitigationOf",
+      "object": "234 tonnes of particulate matter less than 10 micrometres (PM10) in 1991"
+    },
+    "gold_numbers": [
+      "234",
+      "10",
+      "10",
+      "1991"
+    ],
+    "source_topic": "Urban forest"
+  },
+  {
+    "id": 465,
+    "question": "What percentage of the world's total water is groundwater?",
+    "gold_triple": {
+      "subject": "Groundwater",
+      "relation": "PercentageOf",
+      "object": "0.76% of the entire world's water"
+    },
+    "gold_numbers": [
+      "0.76%"
+    ],
+    "source_topic": "Groundwater"
+  },
+  {
+    "id": 466,
+    "question": "How many times more productive is irrigated land compared to rainfed land in terms of value?",
+    "gold_triple": {
+      "subject": "Productivity of irrigated land compared to rainfed land",
+      "relation": "HasComparison",
+      "object": "3.2 times more productive in value terms"
+    },
+    "gold_numbers": [
+      "3.2"
+    ],
+    "source_topic": "Hydraulic agriculture"
+  },
+  {
+    "id": 467,
+    "question": "How many times greater are the greenhouse gas emissions of the highest-earning 1% of the global population compared to the combined emissions of the lowest-earning 50%?",
+    "gold_triple": {
+      "subject": "Highest-earning 1% of global population",
+      "relation": "HasComparison",
+      "object": "more than twice the combined greenhouse gas emissions of the lowest-earning 50%"
+    },
+    "gold_numbers": [
+      "50%"
+    ],
+    "source_topic": "2020 in climate change"
+  },
+  {
+    "id": 468,
+    "question": "How many cars off the road is the CO2 emissions mitigation from Nevada Solar One equivalent to?",
+    "gold_triple": {
+      "subject": "Nevada Solar One",
+      "relation": "MitigationOf",
+      "object": "CO2 emissions equivalent to 20,000 cars off the road"
+    },
+    "gold_numbers": [
+      "2",
+      "20,000"
+    ],
+    "source_topic": "Nevada Solar One"
+  },
+  {
+    "id": 469,
+    "question": "How many studies were published annually by 2010?",
+    "gold_triple": {
+      "subject": "Studies published annually",
+      "relation": "HasNumericValue",
+      "object": "100 by 2010"
+    },
+    "gold_numbers": [
+      "100",
+      "2010"
+    ],
+    "source_topic": "Urban heat inequity"
+  },
+  {
+    "id": 470,
+    "question": "What is the efficiency of conventional electricity generation?",
+    "gold_triple": {
+      "subject": "Efficiency of conventional electricity generation",
+      "relation": "EfficiencyOf",
+      "object": "30"
+    },
+    "gold_numbers": [
+      "30"
+    ],
+    "source_topic": "Efficient energy use"
+  },
+  {
+    "id": 471,
+    "question": "By how many tons has the average material consumption per person increased since 1900?",
+    "gold_triple": {
+      "subject": "Average material consumption per person",
+      "relation": "HasGrowthRate",
+      "object": "increased by 21.7 tons since 1900"
+    },
+    "gold_numbers": [
+      "21.7",
+      "1900"
+    ],
+    "source_topic": "Environmental quality"
+  },
+  {
+    "id": 472,
+    "question": "What is the minimum number of skeletal remains found in an Ooze?",
+    "gold_triple": {
+      "subject": "Oozes skeletal remains content",
+      "relation": "HasMinValue",
+      "object": "30"
+    },
+    "gold_numbers": [
+      "30"
+    ],
+    "source_topic": "Marine sediment"
+  },
+  {
+    "id": 473,
+    "question": "What percentage of incident sunlight is embodied in the total energy of a tertiary consumer?",
+    "gold_triple": {
+      "subject": "Total energy embodied in a tertiary consumer",
+      "relation": "HasNumericValue",
+      "object": "about 0.001% of incident sunlight"
+    },
+    "gold_numbers": [
+      "0.001%"
+    ],
+    "source_topic": "Trophic level"
+  },
+  {
+    "id": 474,
+    "question": "What is the percentage point difference between the growth rate of iron ore, bauxite, copper, and nickel extraction and the growth rate of world GDP from 1990 to 2007?",
+    "gold_triple": {
+      "subject": "Extraction of iron ore, bauxite, copper and nickel",
+      "relation": "HasGrowthRate",
+      "object": "rising faster than world GDP from 1990 to 2007"
+    },
+    "gold_numbers": [
+      "1990",
+      "2007"
+    ],
+    "source_topic": "Steady-state economy"
+  },
+  {
+    "id": 475,
+    "question": "What percentage of its heating value is lost as biomass reduces during the torrefaction process?",
+    "gold_triple": {
+      "subject": "Biomass during torrefaction",
+      "relation": "Reduces",
+      "object": "10% of its heating value"
+    },
+    "gold_numbers": [
+      "10%"
+    ],
+    "source_topic": "Torrefaction"
+  },
+  {
+    "id": 476,
+    "question": "What was the volume of chemicals used in the response to the SS Torrey Canyon oil spill?",
+    "gold_triple": {
+      "subject": "Chemicals used in response to SS Torrey Canyon oil spill",
+      "relation": "VolumeOf",
+      "object": "9.5 megalitres"
+    },
+    "gold_numbers": [
+      "9.5"
+    ],
+    "source_topic": "Corexit"
+  },
+  {
+    "id": 477,
+    "question": "What is the total amount of SOx emissions exposure in Italy in tonnes?",
+    "gold_triple": {
+      "subject": "SOx emissions exposure in Italy",
+      "relation": "EmissionOf",
+      "object": "13,895 tonnes"
+    },
+    "gold_numbers": [
+      "13,895"
+    ],
+    "source_topic": "Cruise ship pollution in Europe"
+  },
+  {
+    "id": 478,
+    "question": "How many acres of forest were cleared or deforested in Indonesia between 2000 and 2012?",
+    "gold_triple": {
+      "subject": "Clearing and deforestation in Indonesia",
+      "relation": "VolumeOf",
+      "object": "15 million acres lost between 2000 and 2012"
+    },
+    "gold_numbers": [
+      "15",
+      "2000",
+      "2012"
+    ],
+    "source_topic": "Clearing (geography)"
+  },
+  {
+    "id": 479,
+    "question": "What is the percentage chance of developing cancer from an effective radiation dose of one sievert?",
+    "gold_triple": {
+      "subject": "Effective dose of one sievert (100 rem)",
+      "relation": "RiskOf",
+      "object": "5.5% chance of developing cancer"
+    },
+    "gold_numbers": [
+      "5.5%"
+    ],
+    "source_topic": "Radioactive contamination"
+  },
+  {
+    "id": 480,
+    "question": "What is the average efficiency of SOE in terms of kgO2/kw?",
+    "gold_triple": {
+      "subject": "Efficiency (SOE)",
+      "relation": "HasAverageValue",
+      "object": "2 kgO2/kw"
+    },
+    "gold_numbers": [
+      "2",
+      "2"
+    ],
+    "source_topic": "Water aeration"
+  },
+  {
+    "id": 481,
+    "question": "What is the average water capacity of a Hippo Water Roller in liters?",
+    "gold_triple": {
+      "subject": "Hippo Water Roller",
+      "relation": "HasAverageValue",
+      "object": "90 liters"
+    },
+    "gold_numbers": [
+      "90"
+    ],
+    "source_topic": "Hippo water roller"
+  },
+  {
+    "id": 482,
+    "question": "What is the gross maximum steam turbine power output of Nevada Solar One?",
+    "gold_triple": {
+      "subject": "Nevada Solar One",
+      "relation": "HasMaxValue",
+      "object": "75 MW gross maximum steam turbine power output"
+    },
+    "gold_numbers": [
+      "75"
+    ],
+    "source_topic": "Nevada Solar One"
+  },
+  {
+    "id": 483,
+    "question": "How many tonnes of carbon per hectare are stored in the soil of croplands?",
+    "gold_triple": {
+      "subject": "Croplands",
+      "relation": "HasNumericValue",
+      "object": "80 tonnes carbon per hectare in soil"
+    },
+    "gold_numbers": [
+      "80"
+    ],
+    "source_topic": "Climate-friendly gardening"
+  },
+  {
+    "id": 484,
+    "question": "How much energy, in exajoules per year, do HVAC systems consume in US commercial buildings?",
+    "gold_triple": {
+      "subject": "Energy used by HVAC systems in US commercial buildings",
+      "relation": "ConsumptionOf",
+      "object": "4.65 EJ/yr"
+    },
+    "gold_numbers": [
+      "4.65"
+    ],
+    "source_topic": "Solar energy"
+  },
+  {
+    "id": 485,
+    "question": "What is the approximate sediment concentration in Florida Bay at 5% reflectance?",
+    "gold_triple": {
+      "subject": "Sediment concentration in Florida Bay at 5% reflectance",
+      "relation": "HasNumericValue",
+      "object": "approximately 15 milligram/litre"
+    },
+    "gold_numbers": [
+      "15"
+    ],
+    "source_topic": "Ocean turbidity"
+  },
+  {
+    "id": 486,
+    "question": "What number is in the name of the tax credit contained in the Inflation Reduction Act of 2022?",
+    "gold_triple": {
+      "subject": "Inflation Reduction Act of 2022",
+      "relation": "HasAction",
+      "object": "contains the 45Q tax"
+    },
+    "gold_numbers": [
+      "45"
+    ],
+    "source_topic": "Carbon dioxide removal"
+  },
+  {
+    "id": 487,
+    "question": "In what year were the first seedlings planted in Larose Forest?",
+    "gold_triple": {
+      "subject": "First seedlings in Larose Forest",
+      "relation": "HasContext",
+      "object": "planted in 1928"
+    },
+    "gold_numbers": [
+      "1928"
+    ],
+    "source_topic": "Larose Forest"
+  },
+  {
+    "id": 488,
+    "question": "How many litres of Corexit 9527 were used after the Shen Neng grounding?",
+    "gold_triple": {
+      "subject": "Corexit 9527 used after Shen Neng grounding",
+      "relation": "VolumeOf",
+      "object": "2,000 litres"
+    },
+    "gold_numbers": [
+      "2,000"
+    ],
+    "source_topic": "Corexit"
+  },
+  {
+    "id": 489,
+    "question": "By what percentage have large 'megafish' populations decreased?",
+    "gold_triple": {
+      "subject": "Large 'megafish' populations",
+      "relation": "Decreases",
+      "object": "94%"
+    },
+    "gold_numbers": [
+      "94%"
+    ],
+    "source_topic": "Biodiversity loss"
+  },
+  {
+    "id": 490,
+    "question": "What is the efficiency of greenhouse collectors?",
+    "gold_triple": {
+      "subject": "Greenhouse collectors",
+      "relation": "EfficiencyOf",
+      "object": "25"
+    },
+    "gold_numbers": [
+      "25"
+    ],
+    "source_topic": "Solar updraft tower"
+  },
+  {
+    "id": 491,
+    "question": "What is the total energy consumption of HVAC systems in US commercial buildings in exajoules?",
+    "gold_triple": {
+      "subject": "HVAC systems in commercial buildings in the United States",
+      "relation": "ConsumptionOf",
+      "object": "4.75 EJ"
+    },
+    "gold_numbers": [
+      "4.75"
+    ],
+    "source_topic": "Solar thermal energy"
+  },
+  {
+    "id": 492,
+    "question": "By how many degrees Celsius did stratospheric aerosol injection reduce the global average surface temperature between 1850 and 2014?",
+    "gold_triple": {
+      "subject": "Stratospheric aerosol injection from 1850 to 2014",
+      "relation": "Reduces",
+      "object": "global average surface temperature by about 0.66°C"
+    },
+    "gold_numbers": [
+      "0.66"
+    ],
+    "source_topic": "Stratospheric aerosol injection"
+  },
+  {
+    "id": 493,
+    "question": "What is the estimated reduction in greenhouse gas emissions, in gigatonnes, associated with whitening all urban, flat roofs in warm climates?",
+    "gold_triple": {
+      "subject": "Whitening all urban, flat roofs in warm climates",
+      "relation": "MitigationOf",
+      "object": "warming effect of 24 gigatonnes of greenhouse gas emissions"
+    },
+    "gold_numbers": [
+      "24"
+    ],
+    "source_topic": "Reflective surfaces (climate engineering)"
+  },
+  {
+    "id": 494,
+    "question": "How many times higher than international action recommendations is the dioxin contamination level at Da Nang Air Base?",
+    "gold_triple": {
+      "subject": "Dioxin contamination at Da Nang Air Base",
+      "relation": "HasComparison",
+      "object": "350 times higher than international recommendations for action"
+    },
+    "gold_numbers": [
+      "350"
+    ],
+    "source_topic": "Agent Orange"
+  },
+  {
+    "id": 495,
+    "question": "By what percentage are average maize prices expected to rise over the next decade due to biofuel support measures?",
+    "gold_triple": {
+      "subject": "Average maize prices",
+      "relation": "Increases",
+      "object": "around 7 percent over the next 10 years due to biofuel support measures"
+    },
+    "gold_numbers": [
+      "7",
+      "10"
+    ],
+    "source_topic": "Food vs. fuel"
+  },
+  {
+    "id": 496,
+    "question": "How many times more carbon does the soil contain compared to the atmosphere and vegetation combined?",
+    "gold_triple": {
+      "subject": "Soil",
+      "relation": "HasComparison",
+      "object": "2-3x more Carbon (C) than atmosphere and vegetation combined"
+    },
+    "gold_numbers": [
+      "2",
+      "-3"
+    ],
+    "source_topic": "Soil organic matter"
+  },
+  {
+    "id": 497,
+    "question": "What percentage of lagoon production mass comes from hog farm lagoons?",
+    "gold_triple": {
+      "subject": "Hog farm lagoons",
+      "relation": "PercentageOf",
+      "object": "40% of lagoon production mass"
+    },
+    "gold_numbers": [
+      "40%"
+    ],
+    "source_topic": "Anaerobic lagoon"
+  },
+  {
+    "id": 498,
+    "question": "How many lung cancer deaths in the US are attributed to radon exposure each year?",
+    "gold_triple": {
+      "subject": "Radon-induced lung cancer deaths in the US",
+      "relation": "HasStatistic",
+      "object": "approximately 21,000 deaths per year"
+    },
+    "gold_numbers": [
+      "21,000"
+    ],
+    "source_topic": "Radon"
+  },
+  {
+    "id": 499,
+    "question": "By what percentage have millet yields in West Africa decreased due to the climate-induced intensification of extreme weather?",
+    "gold_triple": {
+      "subject": "Millet yields in West Africa",
+      "relation": "Decreases",
+      "object": "10-20% due to climate-induced intensification of extreme weather"
+    },
+    "gold_numbers": [
+      "10",
+      "-20%"
+    ],
+    "source_topic": "Effects of climate change on agriculture"
+  }
+]

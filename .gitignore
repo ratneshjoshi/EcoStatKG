@@ -1,0 +1,83 @@
+# === Environment & Secrets ===
+.env
+*.env
+codes/.env
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+
+# === Large regenerable indexes (multi-GB, rebuild via pipeline) ===
+codes/data/chromadb/
+codes/data/lightrag_kg/
+codes/data/lightrag_kg_heldout/
+codes/data/ms_graphrag_kg/
+codes/data/ms_graphrag_kg_heldout/
+codes/data/ms_graphrag_index/
+
+# === Regenerable intermediate data ===
+codes/data/corpus/
+codes/data/embeddings/
+codes/data/evaluation/
+
+# === Logs ===
+logs/
+*.log
+
+# === Raw result JSONL files (large, regenerable; keep only summary JSONs) ===
+results/**/*.jsonl
+
+# === LLM-as-judge evaluation (excluded pending regulatory approval) ===
+codes/09_llm_evaluation.py
+results/llm_evaluation/
+
+# === Convenience/runtime scripts (not part of core pipeline) ===
+codes/run_experiments.py
+codes/finish_all_experiments.py
+codes/parallel_heldout_queries.py
+codes/single_threshold_worker.py
+codes/14b_threshold_worker.py
+codes/_status.py
+codes/check_progress.sh
+codes/run_graphrag_heldout_all.sh
+codes/run_lightrag_heldout_all.sh
+codes/run_remaining.sh
+codes/README.md
+
+# === Paper source (maintained on Overleaf) ===
+ARR-paper/
+
+# === Top-level scratch logs ===
+topic_expansion_full_log.txt
+topic_expansion_log.txt
+
+# === Confidential / internal files ===
+ARR-paper/arr-review.txt
+ARR-paper/CONTENT_TRACKER.md
+docs/Siemens_LLM_API_Guide.md
+docs/TrustMod_Sample_Paper.pdf
+docs/paper_journey.md
+
+# === OS / Editor ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# === LaTeX build artifacts ===
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot

@@ -1,0 +1,13 @@
+openai>=1.0
+httpx
+chromadb
+wikipedia-api
+pandas
+numpy
+tqdm
+python-dotenv
+scikit-learn
+matplotlib
+seaborn
+tiktoken
+scipy

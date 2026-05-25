@@ -1,0 +1,11 @@
+{
+  "hpti_ecostats_devstral-24b": {
+    "n_evaluated": 500,
+    "NEM": 0.338,
+    "NF1": 0.1717487900987902,
+    "FP": 0.4916072803013981,
+    "latency_mean_ms": 1927.0423126220703,
+    "latency_p95_ms": 4005.112648010254,
+    "tokens_mean": 311.058
+  }
+}

@@ -1,0 +1,2028 @@
+sample_id,subject,relation,object,source_topic,source_sentences,score,notes
+T001,Renewable diesel consumption in California,HasPolicyTarget,"over 2 billion US gallons (7,600,000 m3) in the next ten years under Low Carbon Fuel Standard",Hydrotreated vegetable oil,"Some commercial examples of vegetable oil refining are:
+
+Repsol NEXA 100% renovable
+Neste NExBTL
+Topsoe HydroFlex technology
+Axens Vegan technology
+H-Bio, the ConocoPhilips process
+UOP/Eni Ecofining process.
+
+Manufacturers of these renewable diesels report greenhouse gas emissions reductions of 60-95% compared to fossil diesel, as well as better cold-flow properties to work in colder climates.
+
+California fleets used over 200 million US gallons (760,000 m3) of renewable diesel in 2017.
+
+The Cali",,
+T002,Sharps Fire,HasNumericValue,2018,Environmental impacts of beavers,"This project was developed in response to a 2003 Washington Department of Ecology proposal to spend as much as $10 billion on construction of several dams on Columbia River tributaries to retain storm-season runoff.
+
+One month after the Sharps Fire burned 65,000 acres (260 km2) in Idaho's Blaine County in 2018, a lone surviving green ribbon of riparian vegetation along Baugh Creek was observed, (see image) illustrating how a string of beaver ponds resists wildfires, creating an ""emerald refuge"" ",,
+T003,Deaths from air pollution in Nigeria,HasMinValue,"over 200,000",Air pollution,"In South America, about 4% of deaths are from air pollution, while in countries such as Australia, Canada, and the US, this number is under 3%.
+
+In India, it contributed to 2.1 million deaths in 2021, whereas China saw 2.4 million deaths.
+
+Nigeria, Indonesia and Pakistan each saw over 200,000 deaths resulting from air pollution.
+
+There are estimated 4.5 million annual premature deaths worldwide due to pollutants released by high-emission power stations and vehicle exhausts.
+
+The World Health Org",,
+T004,Thickness of ice ridges,HasMaxValue,20 m (65.6 ft),Arctic ice pack,"Summer ice cover in the Arctic is about 50% of winter cover.
+
+Currently, 28% of Arctic basin sea ice is multi-year ice, thicker than seasonal ice: up to 3–4 m (9.8–13.1 ft) thick over large areas, with ridges up to 20 m (65.6 ft) thick.
+
+Sea ice is highly reflective of solar radiation, reflecting about 60% of incoming solar radiation when bare and about 80% when covered with snow.
+
+This is much greater than the reflectivity of the sea (about 10%) and thus the ice also affects the absorption of s",,
+T005,Global catastrophe by 2500,RiskOf,100% chance,Human extinction,"As the United Nations Office for Disaster Risk Reduction estimated in 2023, there is a 2 to 14% chance of an extinction-level event by 2100.
+
+Bill Gates told The Wall Street Journal on January 27, 2025, that he believes there is a 10–15% chance of a natural pandemic hitting in the next four years, but he estimated that there was also a 65–97.5% chance of a natural pandemic hitting in the next 26 years.
+
+On September 11, 2025, Warp News estimated a 20% chance of global catastrophe and a 6% chance",,
+T006,North America Emission Control Area,HasNumericValue,"200 nautical miles off the Atlantic, Gulf and Pacific coasts",Emission control area,"Areas
+Baltic Sea – since 1 August 2006
+North Sea – since 11 August 2007
+North America – since August 2012; extends 200 nautical miles (370 km; 230 mi) off the Atlantic, Gulf and Pacific coasts of Canada and the United States, including Hawaii
+Caribbean Sea – since January 2014; extends 20 to 40 nautical miles (37 to 74 km; 23 to 46 mi) off the coasts of U.S.-controlled territories, including Puerto Rico and the United States Virgin Islands
+Mediterranean Sea – since 1 May 2025
+
+Proposed
+Norwegian",,
+T007,Tuna sold in January 2019,HasNumericValue,278 kilograms,Overfishing,"In January 2019, a 278 kilogram (612 pound) tuna sold for 333.6 million yen, or over US$3 million, US$4,900 per pound.
+
+Sharks and rays: The global abundance of oceanic sharks and rays has declined by 71% since 1970, owing to an 18-fold increase in relative fishing pressure.
+
+A study in 2003 found that, as compared with 1950 levels, only a remnant (in some instances, as little as 10%) of all large ocean-fish stocks are left in the seas.
+
+In the United States approximately 27% of exploited fish s",,
+T008,Elephant Reserves in India,HasContext,As of 2023,Project Elephant,"There are about 138 identified elephant corridors in India with the majority of the elephant population in India is restricted to four general areas.
+
+Elephant reserves
+As of 2023, 33 Elephant Reserves (ERs) extending nearly 80,778 square kilometres (31,189 sq mi) across 14 states have been formally notified.",,
+T009,Four-leaved allseed (Polycarpon tetraphyllum),HasNumericValue,recorded in 1939,Gugh,"Four-leaved allseed (Polycarpon tetraphyllum) was recorded by Lousley in 1939 and 1940.
+
+It was found the rats foraged on a variety of food including Scilly shrew which were found in the stomach contents of 18% of the rats trapped.
+
+Insects
+Lepidoptera
+Cocksfoot moth (Glyphipterix simpliciella), very common
+Nothris congressariella, the larvae feed between spun leaves of balm-leaved figwort (Scrophularia scorodonia) and first recorded on Gugh in May 1994
+Epagoge grotiana – recorded on 9 July 1995",,
+T010,Lawsuit against Italian government,HasNumericValue,17 minors among plaintiffs,Greenpeace v. Eni,"Background and previous cases
+In April 2019, Milieudefensie (the Dutch branch of Friends of the Earth), Greenpeace, ActionAid and four other NGOs, together with 17,379 Dutch individual claimants, filed Milieudefensie v Royal Dutch Shell, a class-action lawsuit against Shell plc, arguing that the oil corporation should change its business model to reduce their carbon emissions by 45% by 2030, in line with the goals set by Paris Agreement.
+
+Hearings at the district court of The Hague were held in ",,
+T011,Global Human Population,HasNumericValue,2.3 billion in 1940,Human overpopulation,"By 1940, this figure had increased to 2.3 billion.
+
+Even more dramatic growth beginning in 1950 (above 1.8% per year) coincided with greatly increased food production as a result of the industrialization of agriculture brought about by the Green Revolution.
+
+The rate of human population growth peaked in 1964, at about 2.1% per year.
+
+Recent additions of a billion humans happened very quickly: 33 years to reach three billion in 1960, 14 years for four billion in 1974, 13 years for five billion in",,
+T012,Total generating capacity,HasCapacity,more than 230 megawatts,Holtwood Dam,"It was constructed as the McCalls Ferry Dam between 1905 and 1910 by the Pennsylvania Water & Power (PW&P) Company.
+
+Previously used roller bearings would last about 2 months under the generator's 220 ton load, but the Kingsbury bearing has been in use since 1912.
+
+The second powerhouse added 125 MW of additional capacity, increasing total generating capacity to more than 230 megawatts.",,
+T013,Northern Jaguar Project reward,HasNumericValue,$500 per photograph,Rewilding,"New York
+Fresh Kills landfill, located on Staten Island, was once home to 150 million tons of trash.
+
+However, plans created between 2001 and 2006 reimagined it as a 2,200-acre park, the largest park built in the state of New York in over a century.
+
+Mexico
+In the Mexican state of Sonora, the Northern Jaguar Project bought 45,000 acres of land by 2007 devoted to protecting the northernmost breeding population of jaguars.
+
+The group also encouraged local people to help them monitor the population",,
+T014,Rock with absent Δ33S and Δ36S values,HasMaxValue,2.09 billion years old,Sulfur isotope biogeochemistry,"Sources of sulfur in plants
+Each year, approximately 0.3 gigatons of elemental sulfur is converted into organic matter by photosynthetic organisms.
+
+DMSP also accounts for 50–100% of bacterial sulfur demand, making it the most important source of reduced sulfur for marine bacteria.
+
+DMSP's cleavage product dimethyl sulfide (DMS) is highly volatile, escaping the ocean into the atmosphere with emissions ranging between 15 and 33 Tg S year−1 and accounting for 50–60% of the total natural reduced su",,
+T015,Carbon emissions from tropical deforestation,PercentageOf,15% of total anthropogenic carbon emissions,Mangrove restoration,"The cost of this globally is estimated to total $42 billion.
+
+During the 1970s, mangroves occupied as much as 200,000 km2, encompassing approximately 75% of the world's coastlines.
+
+Now, global mangrove area has experienced significant decline where at least 35% has been lost.
+
+Mangroves are continuing to diminish at a rate of 1-2% per year.
+
+Reducing emissions from deforestation and forest degradation
+It is estimated that approximately 15% of total anthropogenic carbon emissions a year can be a",,
+T016,SolidSail rigging wind resistance,HasMaxValue,40-knot winds,SolidSail,"Unlike traditional textile sails, this design enables very large sail areas to be achieved, up to 1,500 m2 (16,000 sq ft) per rigging units, while maintaining the structural strength necessary for navigation on large vessels.
+
+The rigging is fully automated and secured up to 40-knot winds.
+
+The SolidSail 800 version offers 800 m2 (8,600 sq ft) of sail area per rigging, intended for auxiliary propulsion on medium-sized vessels, enabling fuel reduction of approximately 500 tonnes per rigging per y",,
+T017,Philippines abacá production share,HasNumericValue,between 85% and 95% of the world's abacá,Abacá,"19th century
+By 1897, the Philippines were exporting almost 100,000 tons of abacá, and it was one of the three biggest cash crops, along with tobacco and sugar.
+
+From 1898 to 1946, the United States colonized the Philippines following the Spanish–American War.
+
+The Philippines produces between 85% and 95% of the world's abacá, and the production employs 1.5 million people.
+
+According to the Philippine Fiber Industry Development Authority, the Philippines provided 87.4% of the world's abacá in 20",,
+T018,Hectares consumed by fire in Villa Hayes,HasNumericValue,"around 500 hectares on February 5, 2026",Deforestation in Paraguay,"Anthropogenic fires and land grabs for converting the land use to agriculture
+According to data from the Instituto Forestal Nacional (INFONA), in 2019, 2,450,749 hectares were burned.
+
+In 2020, 3,494,109 hectares and in 2023, 1,119,096 hectares.
+
+On February 5, 2026, a property in Villa Hayes, which had been illegally occupied for the second time for about a week, was affected by a large fire that ultimately consumed around 500 hectares.
+
+Since 2019 to August 2021, the Paraguayan National Police",,
+T019,Rural electricity access rate in Nigeria,HasPercentileValue,less than 33%,Climate finance in Nigeria,"The installed electricity capacity is 12.5 GW, but only 3,500 to 5,000 MW is available due to significant transmission and distribution losses (28-40%).
+
+Even so, Nigeria's electricity demand far exceeds the grid's maximum capacity, at around 17,556 MWh/h in 2020, according to official data.
+
+In 2023, the electricity access rate was 61.2%, with a significant disparity between urban (89%) and rural areas (less than 33%) in a context where frequent electricity grid failures cost the economy around",,
+T020,Solar air conditioning research and development program funding,HasContext,2008 through 2012,Solar air conditioning,"Energy Independence and Security Act of 2007 created 2008 through 2012 funding for a new solar air conditioning research and development program, which should develop and demonstrate multiple new technology innovations and mass production economies of scale.
+
+A 29 kW (100,000 BTU/h) SEER 20 air conditioner would require less than 5 kW while operating.
+
+In dry arid climates with relative humidity below 45% (about 40% of the continental U.S.) indirect evaporative coolers can achieve a SEER above 2",,
+T021,Cruise ship cases,PercentageOf,4% of illegal discharge cases by foreign-flag ships,Cruise ship pollution in the United States,"GAO judged that 72% of the illegal discharges were accidental, 15% were intentional, and 13% could not be determined.
+
+The 87 cruise ship cases represented 4% of the 2,400 illegal discharge cases by foreign-flag ships (including tankers, cargo ships and other commercial vessels, as well as cruise ships) confirmed during the six years studied by GAO.
+
+A state may completely prohibit the discharge of both treated and untreated sewage from all vessels with installed toilets into some or all waters ",,
+T022,Increase in bird wing length in central Amazon area,HasMaxValue,up to 1% per decade,Climate change and birds,"Causes
+Climate change has raised the temperature of the Earth by about 1.1 °C (2.0 °F) since the Industrial Revolution.
+
+As the extent of future greenhouse gas emissions and mitigation actions determines the climate change scenario taken, warming may increase from present levels by less than 0.4 °C (0.72 °F) with rapid and comprehensive mitigation (the 1.5 °C (2.7 °F) Paris Agreement goal)  to around 3.5 °C (6.3 °F) (4.5 °C (8.1 °F) from the preindustrial) by the end of the century with very hig",,
+T023,Open waters of the lagoon,HasNumericValue,"nearly 70,000 hectares",Rewilding Europe,"The work of Rewilding Europe and its partners in Central Apennines focuses on developing large ""coexistence corridors"" by connecting the local economy with wilder nature in four corridors collectively covering more than 40,000 hectares.
+
+The transboundary region stretches over more than 250,000 hectares, of which nearly 70,000 hectares are the open waters of the lagoon.
+
+Affric Highlands of Scotland
+Iberian Highlands
+The Iberian Highlands rewilding landscape is located in the Alto Tajo Nature Re",,
+T024,Production cost of a barrel of shale oil,HasMaxValue,US$95 per barrel,Oil shale economics,"The production cost of a barrel of shale oil ranges from as high as US$95 per barrel to as low US$25 per barrel, although there is no recent confirmation of the latter figure.
+
+The United States Department of Energy estimates that the ex-situ processing would be economic at sustained average world oil prices above US$54 per barrel and in-situ processing would be economic at prices above $35 per barrel.
+
+The International Energy Agency estimates, based on the various pilot projects, that investme",,
+T025,Selenium oxide used per tonne of manganese,HasAverageValue,2 kg,Selenium pollution,"The consumption in 2010 was divided as follows: metallurgy – 30%, glass manufacturing – 30%, agriculture – 10%, chemicals and pigments – 10%, and electronics – 10%.
+
+China is the dominant consumer of selenium at 1,500–2,000 tonnes/year.
+
+For every tonne of manganese, an average 2 kg selenium oxide is used.
+
+Glass production
+The largest commercial use of selenium, accounting for about 50% of consumption, is for the production of glass.
+
+Like lead and sulfur, selenium improves the machinability of",,
+T026,Watermakers with energy recovery systems,Increases,cost by 50%,Watermaker,"Cons
+They are expensive: Indicative costs are US$2,000 for the manual type, US$3,000 for the towed water-powered type, US$4,000 or more for an engine-driven type (designed to be fitted to the inboard motor of the vessel), and about the same for an AC generator-driven type.
+
+Some manufacturers of electrically powered watermakers have energy recovery systems in their design which reduce the power consumption; however, these are typically some 50% more expensive for any similar size due to their ad",,
+T027,Observed warming in parts of the Russian European North,HasMaxValue,2 °C (3.6 °F),Permafrost carbon cycle,"Observed warming was up to 3 °C (5.4 °F) in parts of Northern Alaska (early 1980s to mid-2000s) and up to 2 °C (3.6 °F) in parts of the Russian European North (1970–2020), and active layer thickness has increased in the European and Russian Arctic across the 21st century and at high elevation areas in Europe and Asia since the 1990s.
+
+It estimated that under RCP 8.5, a scenario of continually accelerating greenhouse gas emissions, winter CO2 emissions from the northern permafrost domain would in",,
+T028,Pesticide use in low income countries,HasGrowthRate,increased 1623% over 20 years between the 1990s and 2010s,Soil sterilant,"The most common of these are herbicides, which account for approximately 50% of all pesticide use globally.
+
+Organic agriculture, which uses only non-synthetic pesticides, has grown and in 2020 represents about 1.5 per cent of the world's total agricultural land.
+
+In high income countries over 20 years between the 1990s and 2010s amounts used increased 20%, while in the low income countries amounts increased 1623%.
+
+The cost of developing a pesticide in 2024 was estimated to be 301 million US do",,
+T029,Solar project,PercentageOf,38% of Morocco's annual electricity generation,Solar power by country,"The plan aims to create 2,000 MW of solar generation capacity by the year 2020.
+
+Once completed, the solar project will provide 38% of Morocco's annual electricity generation.
+
+Somalia
+South Africa
+South Africa had 1329 MW of PV installations and 100 MW of concentrating solar thermal at the end of 2016.
+
+It is expected to reach an installed capacity 8,400 MW by 2030, along with 8,400 MW of wind power.
+
+According to the Ministry of Energy Infrastructure and Natural Resources of Armenia the countr",,
+T030,Tract of land bought by speculating land company,HasNumericValue,280 km2,Gaudineer Scenic Area,"History
+The area surrounding the GSA was thoroughly clear-cut between about 1900 and 1920 by lumbermen of the West Virginia Pulp and Paper Company, based at Cass.
+
+Maurice Brooks described the circumstances whereby a portion of the virgin forest was spared in his classic book on Appalachian natural history:
+
+Some years before the Civil War a speculating land company bought a tract of 69,000 acres [280 km2] on the slope of Shavers Mountain.
+
+His title was established, and he and his heirs found t",,
+T031,Offtake with Vaulted Deep,HasNumericValue,US$58.3 million,Frontier Climate,"On 7 December 2023, Frontier buyers signed enhanced weathering offtakes with Lithos Carbon (US$57.1 million; 154,240 tons to 2028).
+
+In 2024, Frontier announced multiple offtakes, including US$58.3 million with Vaulted Deep for 152,480 tons (2024–2027), US$48.6 million with Stockholm Exergi (BECCS) for deliveries in 2028–2030, and US$40 million with 280 Earth (DAC).
+
+The same year, Frontier buyers agreed the world’s first river-liming offtake with CarbonRun (US$25.4 million for 55,442 t CO2 to 2",,
+T032,Atmosphere fresh water,PercentageOf,2 percent condensed water,Air well (condenser),"According to Beysens and Milimouk: ""The atmosphere contains 12,900 cubic kilometres (3,100 cu mi) of fresh water, composed of 98 percent water vapour and 2 percent condensed water (clouds): a figure comparable to the renewable liquid water resources of inhabited lands (12,500 km3)."" The quantity of water vapour contained within the air is commonly reported as a relative humidity, this depends on temperature, warmer air contains more water vapour than cooler air.
+
+This is most notably the case in",,
+T033,Report on offsets in Australia,HasSource,Australian National Audit Office in 2020,Biodiversity offsetting,"As of 2019, over 100 countries had, or were developing, policies for biodiversity offsetting and more than 37 countries required biodiversity offsets by law.
+
+Offsets are applied to nearly 80% of approved actions in Australia under the legal conditions of the EPBC Act, according to a report by the Australian National Audit Office in 2020.
+
+BNG requires that, to gain planning permission from Local Planning Authorities (LPAs), developers must demonstrate a 10% net gain in biodiversity under the pr",,
+T034,Consumption rate,HasMinValue,40 kilograms per day,Whale fall,"This amount of organic material reaching the seafloor at one time creates a pulse equivalent to about 2000 years of background carbon flux in the 50 square meters of sediment immediately beneath the whale fall.
+
+Various percentages of the food fall contribution to the total carbon flux to the deep ocean have been hypothesized, ranging from 0.3% to 4%.
+
+A 2023 Scripps survey found at least 7 whale falls in an area of 135 sq mi surveyed off the California coast, with sonar evidence that may indica",,
+T035,Wavelength band width around 17 microns,HasNumericValue,approximately 1 micron,Illustrative model of greenhouse effect on climate change,"Due to the high dependence of the cross section in wavelength, the OD changes from around 0.1 at 13 microns to ~10 at 14 microns and even higher beyond 100 at 15 microns, then dropping off to ~10 at 16 microns, ~1 at 17 microns and below 0.1 at 18 microns.
+
+Thus we look at wavelengths for which the OD is between 0.5 and 9.2: This gives a wavelength band at the width of approximately 1 micron around 17 microns, and less than 1 micron around 13.5 microns.
+
+A 2-fold increase in CO2 content changes ",,
+T036,Temperature rise scenario,HasNumericValue,2 °C,Climate change in Jordan,"If the temperature rises by 2 °C, even an increase in precipitation by 20% would not compensate the increase in evaporation resulting in a decrease of surface runoff.
+
+Almost two thirds (64%) of the water is supplied for irrigation, while municipal use accounts for 30%, industry for 5% and tourism for 1%.
+
+It is implemented jointly by UNDP, WHO, FAO and UNESCO and financed by the MDG Achievement Fund which is in turn financed by the Government of Spain (US$4 billion), SIWI and UNDP Jordan (about",,
+T037,Potential CER production from China,HasPercentileValue,52% of total CERs,Clean Development Mechanism,"It is estimated that some $95 billion in clean energy investment benefitted from the CDM over the 2002-08 period.
+
+The CDM is subject to a 2% levy, which could raise between $300 million and $600 million over the 2008–12 period.
+
+By the end of 2008, over 4,000 CDM projects had been submitted for validation, and of those, over 1,000 were registered by the CDM Executive Board, and were therefore entitled to be issued CERs (Carbon Trust, 2009, p.
+
+In 2010, the World Bank estimated that in 2012, the",,
+T038,GDP drop from inaction (alternative assumption),HasNumericValue,5% a year,Stern Review,"Jerry Taylor of the Cato Institute, a United States libertarian think-tank, criticised Stern's conclusion, taking a calculation by himself:Stern's investment advice makes sense only if you think that warming will hammer GDP by 10% a year.
+
+You don't gain much at all from emission cuts, however, if you think GDP will only drop by 5% a year if we do nothing.
+
+And if you think warming will only cost the global economy 2% of GDP every year, [...] then Stern's investment advice is [sheer] lunacy.
+
+Jo",,
+T039,Land trusts,HasPercentileValue,31% reported having at least one full-time staff member in 2005,Land trust,"By 1980, more than 400 local and regional land trusts existed, most still in the North-east, three-fourths with no paid staff, and half with annual budgets under $50,000.
+
+According to the 2005 National Land Trust Census, 31% of land trusts reported having at least one full-time staff member, 54% are all volunteer, and 15% have only part-time staff.
+
+Land trusts were instrumental in the 2004 creation of Great Sand Dunes National Park in Colorado, as well as the expansion of Hawaii Volcanoes Nati",,
+T040,Illegal deforestation by Cooperativa Chortitzer,HasNumericValue,"2,600 hectares",Deforestation in Paraguay,"Between 1987 and 2012, around 44,000 square kilometers of forests were lost in Paraguay, mainly due to the expansion of cattle farms in the western part of the country.
+
+This great inequality in land distribution dates back to the Triple Allicane War, with Paraguay losing more than 334,000 square kilometers to Brazil, resulting in a consolidation of an oligarchic states and the formation of large estates.
+
+Due to the deepening of the crisis of peasant agriculture and persecution of landless peas",,
+T041,Prototype device length,HasNumericValue,24 metres,Oceanlinx,"The prototype device with a generating capacity of 1MW was completed and unveiled in October 2013.
+
+It measured 24 metres long by 21 metres wide and weighed 3,000 tonnes.",,
+T042,Pan burial depth,HasNumericValue,2 in,Pan evaporation,"As the name suggests, it is buried in the ground to within about 5 cm (2 in.) of its rim.
+
+The pan coefficient, on an annual basis, is about 0.8.
+
+found that the ""dimming"" trend had reversed since about 1990.
+
+In a different view, an analysis of pan trends in records from 154 instruments shows no coherency and pattern of statistically significant trends, with 38% decreasing, 42% no change and 20% increasing.",,
+T043,Chinese HTR-PM,HasNumericValue,"outlet temperature of 750 °C (1,380 °F)",Process heat,"Resistive heating would in theory be a possible source of process heat but even as it converts nearly 100% of the supplied electricity to heat, it is obviously less efficient to burn a fuel in a thermal power plant to produce electricity only to use that electricity for process heat than to use the fuel directly.
+
+Decarbonization
+According to the United States Department of Energy, in 2018 process heat accounted for approximately 50% of energy use in the manufacturing sector, as well as 30% of G",,
+T044,War production destroyed at Nagasaki,HasPercentileValue,68%–80%,Plutonium,"About 50 micrograms of plutonium-239 combined with uranium and fission products was produced and only about 1 microgram was isolated.
+
+According to Kate Brown, the plutonium production plants at Hanford and Mayak in Russia, over a period of four decades, ""both released more than 200 million curies of radioactive isotopes into the surrounding environment—twice the amount expelled in the Chernobyl disaster in each instance"".
+
+The weapon weighed over 4 tonnes, though it had just 6 kg of plutonium.
+",,
+T045,Countries included in the table,HasMinValue,0.1 TWh of generation,Solar power by country,"The table only includes countries with more than 0.1 TWh of generation.
+
+The distribution of solar resources across Africa is fairly uniform, with more than 85% of the continent's landscape receiving at least 2,000 kWh/(m2 year).
+
+A study indicates that a solar generating facility covering just 0.3% of North Africa could supply all of the energy required by the European Union.
+
+Algeria
+Algeria has the highest technical and economical potential for solar power exploitation in the MENA region, wit",,
+T046,Cultural or socio-political factors,HasPercentileValue,66% of cases where factor played a significant role,Habitat destruction,"According to the Geist and Lambin (2002) study, the underlying driving forces were prioritized as follows (with the percent of the 152 cases the factor played a significant role in): economic factors (81%), institutional or policy factors (78%), technological factors (70%), cultural or socio-political factors (66%), and demographic factors (61%).
+
+The main economic factors included commercialization and growth of timber markets (68%), which are driven by national and international demands; urban",,
+T047,Distance of new western larch habitat from current range,HasNumericValue,1000 kilometers,Forest migration,"Since the early 20th century, the global air and sea surface temperature has increased about 0.8 °C (1.4 °F), with about two-thirds of the increase occurring since 1980.
+
+Birch saplings were found at elevations between 1370 and 1410 m above sea level (a.s.l).
+
+Examples of human-assisted forest species migration
+Assisted migration of the western larch
+In 2010, the Government of British Columbia implemented an assisted migration program to move the western larch to a new habitat in Northern Britis",,
+T048,Methane emissions from wool and leather,PercentageOf,70–80% of fashion industry methane emissions over 20 years,Environmental impact of fashion,"The rapid growth of fast fashion has led to around 100 billion items of clothing being consumed annually 
+, with about 85% of clothes consumed in United States being sent to landfill.
+
+Indeed, one study estimates that, although wool and leather account for just 3–5% of global fashion production, they could be responsible for 70–80% of its methane emissions over 20 years.
+
+In the late 2010s it emitted 2% of world total greenhouse gases, and contributed to climate change through energy-intensive p",,
+T049,Pilot restorers planted area,HasNumericValue,"2,235 hectares",Great Green Wall (Africa),"As of 2023, about 18 million hectares, or 18% of the target had been restored.
+
+The estimated $33 billion to fund the project experienced unfulfilled promises, delays and poor coordination.
+
+As of 2024, about 30 million hectares had been restored, completing 30% of the target.
+
+Pilot restorers planted 2,235 hectares, creating opportunities for sustainable income for 32,000 people.
+
+The $8-billion project intends to restore 100 million hectares (250 million acres; 1 million km2)  of degraded land",,
+T050,Average dried weight unit,HasUnitOfMeasurement,kg/m3,Wood,"This condition occurs when the wood is at equilibrium moisture content with air at about 65% relative humidity and temperature at 30 °C (86 °F).
+
+If you know the specific gravity at 12% MC, G12 (from the Wood Handbook), then multiply by 1120 to get the average dried weight at 12% MC, ρ12, in kg/m3.
+
+For example, if G12 is 0.40, then average dried weight is ρ12 = 0.40 * 1120 = 448 kg/m3.
+
+Chemistry
+The chemical composition of wood varies from species to species, but is approximately 50% carbon, 4",,
+T051,Gear weight for a single smokejumper,HasNumericValue,39 kg,Smokejumper,"Most smokejumpers of the era were not career professionals, but seasonal employees lured by the prospect of earning as much as $1,000 over a summer.
+
+This agency represents the largest cohort of smokejumpers worldwide, employing up to 4,000 individuals who protect 2,000,000,000 acres (810,000,000 ha) of land across 11 different time zones.
+
+Between its establishment and 1981, the Airborne Detachment was deployed to fight a total of over 325 wildfires, however its fate past 1981 is currently unkn",,
+T052,Trees in the temperate zones,PercentageOf,20% of total trees,Tree,"The earliest trees evolved around 400 million years ago, and it is estimated that there are around three trillion mature trees in the world currently.
+
+Some of the tree ferns, order Cyatheales, have tall straight trunks, growing up to 20 metres (66 ft), but these are composed not of wood but of rhizomes which grow vertically and are covered by numerous adventitious roots.
+
+Distribution
+The number of trees in the world, according to a 2015 estimate, is 3.04 trillion, of which 1.39 trillion (46%) ",,
+T053,Terrestrial mammal maximum body size by the end of the Paleocene,HasNumericValue,750 kilograms,Megafauna,"Additionally, Owen-Smith coined the term megaherbivore to describe herbivores that weighed over 1,000 kilograms (2,200 lb), which has seen some use by other researchers.
+
+The actual mass minimum with this definition will vary between the individuals SPECIFY classification, like how herbivores typically reach around 1000kg to be considered whereas carnivores need only be around 13-16kg.
+
+When normalized to generation length, the maximum rate of body mass decrease was found to be over 30 times gre",,
+T054,Photocatalyst splitting water without co-catalysts,EfficiencyOf,6.5% quantum yield,Photocatalytic water splitting,"The prime measure of photocatalyst effectiveness is quantum yield (QY), which is:
+
+QY (%) = (Photochemical reaction rate) / (Photon absorption rate) × 100%
+To assist in comparison, the rate of gas evolution can also be used.
+
+Gallium-indium nitride
+A STH efficiency of 9.2% indium.
+
+This ultraviolet-based photocatalyst was reported to show water splitting rates of 9.7 mmol/h and a quantum yield of 56%.
+
+However, it can split water without the assistance of co-catalysts and gives a quantum yield o",,
+T055,Projected temperature increase by 2050,HasMaxValue,1.3 °C,Climate change in Jordan,"The annual rainfall varies from little more than 30 mm in desert areas up to 572 mm in the hilly northwest of Jordan.
+
+Concerning the past, data for the period 1961-2005 (or shorter in some cases) of 19 meteorological stations all over Jordan were evaluated with the following results:
+
+The minimum temperature increased by 0.4-2.8 °C, the maximum temperature by 0.3-1.8 °C.
+
+13 stations show a decreasing total annual precipitation by 5-20%.
+
+The number of rainy days decreased by 3-10% in most of t",,
+T056,Pakicetids,HasContext,about 53 million years ago,Megafauna,"This trend of increasing body mass appears to level off about 40 Ma ago (in the late Eocene), suggesting that physiological or ecological constraints had been reached, after an increase in body mass of over three orders of magnitude.
+
+time plot to curve downward from a linear fit.)
+Megaherbivores eventually attained a body mass of over 10,000 kilograms (22,000 lb).
+
+Terrestrial mammalian carnivores from several eutherian groups (the artiodactyl Andrewsarchus – formerly considered a mesonychid, t",,
+T057,China Hydro Power Target,HasPolicyTarget,300 GW by 2020,Renewable portfolio standard,"Policy by country
+Australia
+Renewable Energy (Electricity) Act 2000 (Cth)
+
+China
+China adopted a renewable energy target in 2006 and modified it in 2009 to the following targets:
+
+Renewable electricity – 500 GW by 2020 (300 from hydro, 150 from wind, 30 from biomass, and 20 from solar PV)
+Renewable energy – 15% by 2020 (15% non-fossil fuel, which includes nuclear)
+
+European Union
+The European Union passed the Directive on Electricity Production from Renewable Energy Sources in 2001 and expanded ",,
+T058,Net area of primary forest,Decreases,1.1 million square kilometers since 1990,Old-growth forest,"One-third (34%) of the world's forests are primary forests.
+
+As of 2025, the world has 11.3 million square kilometers (4.4 million square miles) of primary forest remaining.
+
+Brazil, Canada, and Russia have 62% of the world's primary forest.
+
+The net area of primary forest has decreased by 1.1 million square kilometers (~424,000 square miles) since 1990, but the rate of loss more than halved in 2010–2020 compared with the previous decade.
+
+These lichens reach stand-level ""hyperabundance"" only in",,
+T059,Cotton Tox MP,HasNumericValue,82,Toxaphene,"Toxaphene breaks down very slowly and has a half-life of up to 12 years in the soil.
+
+The dose necessary to induce nonfatal convulsions in humans is about 10 milligrams per kilogram body weight per day.
+
+A study conducted between 1954 and 1972 of male agricultural workers and agronomists exposed to toxaphene and other pesticides showed that there are higher proportions of bronchial carcinoma in the test group than in the unexposed general population.
+
+Trade names
+Trade names and synonyms include",,
+T060,Estimated juvenile spot fish deaths,HasNumericValue,2 million,Fish kill,"The amount of oxygen that can be dissolved in the water decreases by about 1 mg/L for each 10 °C increase in water temperature above 20 °C.
+
+For example, in 1997 a phosphate plant in Mulberry, Florida, accidentally dumped 
+60 million US gal (0.23 million kl) of acidic process water into Skinned Sapling Creek, reducing the pH from about 8 to less than 4 along 36 miles (58 km) of creek, resulting in the death of about 1.3 million fish.
+
+In January, 2011, a selective fish kill affecting an estimate",,
+T061,Workers in the Zone of Alienation,HasNumericValue,"Approximately 3,000 people",Chernobyl exclusion zone,"In 1997, the areas of Poliske and Narodychi, which had been evacuated, were added to the existing area of the Exclusion Zone, and the zone now encompasses the exclusion zone and parts of the zone of Absolute (Mandatory) Resettlement of an area of approximately 2,600 km2 (1,000 sq mi).
+
+In May 2025, it was reported that around 100 hectares of land in the Chernobyl exclusion zone had contamination drop to a level safe enough to allow farming to commence in those areas.
+
+On 27 March, Lyudmila Denis",,
+T062,Conventional gas production,HasTrend,predicted decline from about 2020,Sustainability measurement,"Brief oil interruptions in 1973 and 1979 markedly slowed – but did not stop – the growth of world GDP.
+
+Between 1950 and 1984, as the Green Revolution transformed agriculture around the globe, world grain production increased by 250%.
+
+population for a sustainable economy at 200 million.
+
+189) predicted a world ""decline in conventional gas production from about 2020"".
+
+Hubbert had recoverable coal reserves worldwide at 2500 billion metric tons and peaking around 2150 (depending on usage).",,
+T063,National Grid payments in the UK,HasNumericValue,£130 million in 2012/2013,Grid balancing,"In 2011/2012, payments  by the National Grid in the UK totaled £324 million of which £31 million went to wind.
+
+In 2012/2013, thanks to improved transmission capability, they were £130 million of which only £7 million were for wind.",,
+T064,Total number of mining areas in Taiwan,HasNumericValue,217,Eco-nationalism,"In 2018, a member of the New Power Party stated that 80% of Taiwan's 217 mining areas were located in aboriginal territories.
+
+In 2017 they passed a climate emergency declaration through the Catalan parliament that would have taken radical actions such as banning fracking, planning a closure of all nuclear facilities by 2027 and a reduction in CO2 emissions of 27% at a minimum by 2030.
+
+In addition to their work in the Catalan parliament, the ERC (Esquerra Republicana de Catalunya) have been pra",,
+T065,Water processing in California,ConsumptionOf,~48 TWh/year of electricity in 2001,Water-energy nexus,"US (California)
+In 2001, operating water systems in the US consumed approximately 3% of the total annual electricity (~75 TWh).
+
+The California's State Water Project (SWP) and Central Valley Project (CVP) are together the largest water system in the world with the highest water lift, over 2000 ft.
+
+Consequently, the SWP and CVP are the single largest consumers of electricity in California consuming approximately 5 TWh of electricity each per year.
+
+In 2001, 19% of the state's total electricity u",,
+T066,Pure seawater salinity,HasMaxValue,40 ppt,Marine habitat,"Coastlines fringe the land for nearly 380,000 kilometres.
+
+Worldwide, continental shelves occupy a total area of about 24 million km2 (9 million sq mi), 8% of the ocean's total area and nearly 5% of the world's total area.
+
+Coastlines run for 380,000 kilometres, and the total volume of the ocean is 1,370 million cu km.
+
+Sand is a sediment made from small grains or particles with diameters between about 60 μm and 2 mm.
+
+The saline conditions tolerated by various species range from brackish water,",,
+T067,Ivanpah Solar Power Facility,HasNumericValue,3500 acres,Ivanpah Solar Power Facility,"Description
+The Ivanpah system consists of three solar thermal power plants on 3,500 acres (1,400 ha) of public land near the California–Nevada border in the Southwestern United States.
+
+Initially it was planned with 440 MW gross on 4,000 acres (1,600 ha) of land, but then downgraded by 12%.
+
+For the first plant, the largest-ever fully solar-powered steam turbine generator set was ordered, with a 123 MW Siemens SST-900 single-casing reheat turbine.
+
+The project also received an investment of $16",,
+T068,Planting mangroves,Reduces,storm surge heights by approximately 40–50 cm per km of forest width,Floodplain restoration,"Increased flora biodiversity provides surface roughness that can reduce wave energy by approximately 70% in salt marshes and 65% in mangrove fields during floods.
+
+Planting mangroves is a common NbS as they can reduce storm surge heights by approximately 40–50 cm per km of forest width.
+
+Coastal floodplain protection and restoration
+NbS are relevant for coastal wetlands because they are significant sinks of blue carbon, storing approximately 30% of all Earth's soil organic carbon.
+
+On the Elbe R",,
+T069,Travertine deposits in Italy,HasNumericValue,about 100 locations,Travertine,"Tivoli travertine was deposited in a body 20 square kilometers (7.7 sq mi) in area and 60 meters (200 ft) thick along a north-trending fault near the dormant Colli Albani volcano.
+
+Deposits of travertine are found in about 100 other locations in Italy, including Rapalino near Pisa.
+
+Clinging to moss and rocks in the water, the travertine has built up over several millennia to form waterfalls up to 70 m (230 ft) in height.
+
+The Ronald Reagan UCLA Medical Center is clad with over 3 million pounds ",,
+T070,Siemens-Gamesa thermal storage near Hamburg,HasNumericValue,1.5 MW electric output,Thermal energy storage,"Siemens-Gamesa built a 130 MWh thermal storage near Hamburg with 750 °C in basalt and 1.5 MW electric output.
+
+A similar system was scheduled for Sorø, Denmark, with 41–58% of the stored 18 MWh heat returned for the town's district heating, and 30–41% returned as electricity, but not retained.
+
+""Brick toaster"" is a recently (August 2022) announced innovative heat reservoir operating at up to 1,500 °C (2,732 °F).
+
+It was expected to reduce carbon emissions from the local heating network by as muc",,
+T071,People exposed to environmental noise levels above 65 dB(A) during daytime,HasPercentileValue,20,Environmental noise,"Within the European Union 40% of people are exposed to environmental noise in their daily commutes on the road which exceeds 55 dB(A).
+
+During the daytime, approximately 20% of people are exposed to environmental noise levels above 65 dB(A) and during the nighttime, 30% of people are exposed to environmental noise above 55 dB(A).
+
+Paris was the biggest with 9.6 million inhabitants and 272 square kilometres.
+
+Previously it was estimated that 10% of the population, approximately 2 million people, ",,
+T072,Density of typical seawater brine,HasNumericValue,1088 kg/m3,Seawater,"Density
+The density of surface seawater ranges from about 1020 to 1029 kg/m3, depending on the temperature and salinity.
+
+At a temperature of 25 °C, the salinity of 35 g/kg and 1 atm pressure, the density of seawater is 1023.6 kg/m3.
+
+Deep in the ocean, under high pressure, seawater can reach a density of 1050 kg/m3 or higher.
+
+Brines generated by seawater desalination plants can have salinities up to 120 g/kg.
+
+The density of typical seawater brine of 120 g/kg salinity at 25 °C and atmospheric ",,
+T073,Geological stability of Nini West area,HasNumericValue,20 million years,Carbon storage in the North Sea,"One scheme slated to be worked from the St Fergus Gas Terminal in Scotland, would save £730 million by pumping the CO2 back through the redundant pipelines, saving on investment in transportation.
+
+The depleted reservoir lies underneath the Captain Sandstone Formation, and if CO2 was injected from two points simultaneously, the reservoir has the capacity to store 360,000,000 tonnes (400,000,000 tons) in just 1/6 of its area.
+
+This is the amount of CO2 emitted by Scotland over 23 years.
+
+The susb",,
+T074,Spacing of Bunds,HasMaxValue,30 meters apart,Rainwater harvesting in the Sahel,"Banking rainwater (through techniques often summarized by the epigram ""slow it, spread it, sink it"") is possible with site-appropriate techniques and as more water becomes ""available for ecosystems...their capacity to perform their functions is improved."" Furthermore, soil restoration is possible and would potentially open up more than 700,000,000 acres (280,000,000 ha) of land in Africa for additional cultivation, which could in turn reduce deforestation for agricultural uses.
+
+Niger has implem",,
+T075,Upokongaro population change since 2018,HasPercentileValue,14.3%,Upokongaro,"Upokongaro had a population of 120 in the 2023 New Zealand census, an increase of 15 people (14.3%) since the 2018 census, and an increase of 18 people (17.6%) since the 2013 census.
+
+There were 15 people (12.5%) aged under 15 years, 21 (17.5%) aged 15 to 29, 54 (45.0%) aged 30 to 64, and 27 (22.5%) aged 65 or older.
+
+The results were 87.5% European (Pākehā), 32.5% Māori, and 2.5% Pasifika.
+
+English was spoken by 97.5%, Māori by 7.5%, and other languages by 2.5%.
+
+The percentage of people born o",,
+T076,Viruses contribution to freshwater ecosystems carbon cycle,HasPercentileValue,17.8%,Carbon cycle,"The pump transfers about 11 billion tonnes of carbon every year into the ocean's interior.
+
+An ocean without the biological pump would result in atmospheric CO2 levels about 400 ppm higher than the present day.
+
+About 1% of the particles leaving the surface ocean reach the seabed and are consumed, respired, or buried in the sediments.
+
+The average contribution of viruses to the Earth ecosystem carbon cycle is 8.6%, of which its contribution to marine ecosystems (1.4%) is less than its contributi",,
+T077,Minol,PercentageOf,40% TNT,Pink water,"Examples of explosive blends containing TNT include:
+
+Amatex (ammonium nitrate and RDX)
+Amatol (ammonium nitrate)
+Baratol (67% barium nitrate and 33% TNT)
+Composition B (RDX and paraffin wax)
+Composition H6
+Cyclotol (RDX)
+Ednatol
+Hexanite (hexanitrodiphenylamine)
+Minol (40% TNT, 40% ammonium nitrate, 20% aluminium)
+Octol (75% HMX and 25% TNT)
+Pentolite
+Picratol
+Tetrytol
+Torpex
+Tritonal
+
+Explosive character
+Upon detonation, TNT undergoes a decomposition equivalent to the reaction
+
+plus some of th",,
+T078,Panther population estimate context,HasContext,late 19th century,Restoration of the Everglades,"Because of requirements that reduced power plant and incinerator emissions, the levels of mercury found in larger animals decreased as well: approximately a 60% decrease in fish and a 70% decrease in birds, though some levels still remain a health concern for people.
+
+The panther is most threatened by urban encroachment, because males require approximately 200 square miles (520 km2) for breeding territory.
+
+Fish and Wildlife Service were responsible for maintaining the Clean Water Act and the En",,
+T079,On-site electricity generation through solar energy,HasMinValue,12,Green building on college campuses,"Generate at least 12% electricity on site through solar energy.
+
+Use rainwater or re-circulated gray water to reduce potable water use for building sewage conveyance by 80%.
+
+Recycle or salvage 50% to 70% of non-hazardous construction debris.
+
+The concrete and steel frame structure was complete in 2002 and cost approximately $27,500,000.
+
+Waterless urinals were also installed and it is estimated that each waterless urinal will save approximately 45,000 gallons of water per year.",,
+T080,Coal emissions,HasMaxValue,almost 15.5 Gt in 2023,Politics of climate change,"In 2020, renewable energy generated 29% of world electricity.
+
+Urgency
+As of 2021, CO2 levels have already increased by about 50% since the pre-industrial era, with billions of tons more being released each year.
+
+Centrality of fossil fuel
+Energy from fossil fuels remains central to the worlds economy, accounting for about 80% of its energy generation as of 2019.
+
+According to a 2023 report by the International Energy Agency, coal emissions grew 243 Mt to a new all-time high of almost 15.5 Gt.
+
+",,
+T081,Share of affected coral reefs worldwide by the first bleaching event,HasPercentileValue,20,Coral bleaching,"This event has led to severe damage, with coral mortality reaching up to 93% in areas like the Pacific coast near Mexico.
+
+The economic implications are profound, as coral reefs contribute approximately $2.7 trillion annually to the global economy, including $36 billion from tourism alone.
+
+The share of affected coral reefs worldwide by each of the four bleaching events has been estimated to be 20%, 35%, 56% and 54%.
+
+A similar event occurred after bleaching in 2014 with a white-plague disease p",,
+T082,Facility dismantling period in US decommissioning,HasNumericValue,10 years,Nuclear decommissioning,"The process typically takes about 15 to 30 years, or many decades more when an interim safe storage period is applied for radioactive decay.
+
+The complete process usually takes about 20 to 30 years.
+
+In the US, the decommissioning must be completed within 60 years of the plant ceasing operations, unless a longer time is necessary to protect public health and safety; up to 50 years are for radioactive decay and 10 years to dismantle the facility.
+
+With this method, the cost of decommissioning for",,
+T083,People displaced globally under exclusionary conservation regimes,HasNumericValue,more than 20 million,Community-based conservation,Estimates suggest that more than 20 million people have been displaced globally under exclusionary conservation regimes.,,
+T084,Hydroelectric power station in Honduras,Saves,around 73 tons of CO2 per day,Atmosfair,"Wind, water and sun: renewable energy projects saved 549,900 tons of carbon emissions between 2007 and 2017.
+
+The hydroelectric power station in Honduras saves around 73 tons of CO2 per day and the solar and wind energy stations save around 1,1 tons of CO2 per year.",,
+T085,Large single-cycle gas turbine,HasCapacity,100 to 400 megawatts,Gas-fired power plant,"The 605 MW General Electric 9HA achieved a 62.22% efficiency rate with temperatures as high as 1,540 °C (2,800 °F).
+
+For 2018, GE offers its 826 MW HA at over 64% efficiency in combined cycle due to advances in additive manufacturing and combustion breakthroughs, up from 63.7% in 2017 orders and on track to achieve 65% by the early 2020s.
+
+In March 2018, GE Power achieved a 63.08% gross efficiency for its 7HA turbine.
+
+A large single-cycle gas turbine typically produces 100 to 400 megawatts of e",,
+T086,Value of predicted methane volume,HasNumericValue,US$4.37 trillion,Coalbed methane in the United States,"The 2017 production of coalbed methane in the United States was 0.98 trillion cubic feet (TCF), 3.6 percent of all US dry gas production that year.
+
+Geological Survey predicts more than 700 trillion cubic feet (20 trillion cubic metres) of methane within the US.
+
+At a natural gas price of US$6.05 per million Btu (US$5.73/GJ), that volume is worth US$4.37 trillion.
+
+At least 100 trillion cubic feet (2.8 trillion cubic metres) of it is economically viable to produce.
+
+The EIA reports 2017 reserves",,
+T087,Total area of pulpwood plantations in Indonesia,HasNumericValue,1.4 million hectares,Tree farm,"The remaining 93% of the loss is land being converted to agriculture and other uses.
+
+Worldwide, an estimated 15% of plantations in tropical countries are established on closed canopy natural forest.
+
+Ownership
+As of 2019, an estimated 49% of forests in the United States are owned by families.
+
+Typically, trees grown in plantations are harvested after 10 to 60 years, rarely up to 120 years.
+
+From 1980 to 2000, about 50% of the 1.4 million hectares of pulpwood plantations in Indonesia have been e",,
+T088,Water production per square meter,HasAverageValue,110 ml,Fog collection,"Fog collectors can harvest from 2% up to 10% of the moisture in the air, depending on their efficiency.
+
+Between the two, 11 litres (2½ gallons) of water was produced on average per day over the 14-month study, which is 110 ml of water for every square meter (⅓ fl.
+
+The project was able to yield on average 0.5 litre of water for every square meter (1½ fl.
+
+ft), or 33L (8 gallons) for each of the 300 villagers, each day.
+
+This type of netting can capture 10% of the moisture in the air.",,
+T089,Concordia University study,HasNumericValue,2012,Reflective surfaces (climate engineering),"This is because a 93-square-metre (1,000 sq ft) white roof will offset 10 tons of carbon dioxide over its 20-year lifetime.
+
+A 2012 study by researchers at Concordia University included variables similar to those used in the Stanford study (e.g., cloud responses) and estimated that worldwide deployment of cool roofs and pavements in cities would generate a global cooling effect equivalent to offsetting up to 150 gigatonnes of carbon dioxide emissions – enough to take every car in the world off t",,
+T090,Net vehicle weight threshold for motor homes exemption,HasMinValue,3500 kg,AirCare,"For example, in 2013 AirCare was charging $45 per test, but at the start of 2014 demand and therefore cost for the AirCare emissions test dropped to $36.
+
+In 2014, the price continued to drop $2 a month, and  by December 2014, as the program was about to be cancelled, the price had dropped to $14.
+
+Such vehicles included:
+
+vehicle models newer than 2006
+vehicles with vintage or collector plates
+motorcycles, snowmobiles, amphibious vehicles and ATVs
+farm fleet and agricultural vehicles
+motor home",,
+T091,The Water Project,HasImpact,"helped over 569,000 people improve access to clean water and sanitation",Water issues in developing countries,"Studies have shown treatment to point of use sources reduces child mortality by diarrhea by 29%.
+
+The Water Project has funded or completed over 2,500 projects and 1,500 water sources that have helped over 569,000 people improve their access to clean water and sanitation.
+
+In 2008, 88% of the population had access and was using improved drinking water sources.
+
+This is in part due to large inefficiencies in the water infrastructure in which up to 40% of water leaks out.
+
+In UNICEF's 2008 report,",,
+T092,United States nuclear weapons testing in the Marshall Islands,HasContext,1944 to 1979,Downwinders,"Now known officially as the Republic of the Marshall Islands, it was a United Nations Trust Territory administered by the United States from 1944 to 1979, years during which the United States tested 66 nuclear weapons in the Marshall Islands.
+
+In 2023, the United States finalized a new 20 year agreement of aid for the Marshall Islands, totaling in $2.3 billion in funds.
+
+Negotiations had been stalled due to disputes over how the United States would remedy the environmental and health related con",,
+T093,Global daily freshwater produced through desalination,HasNumericValue,22 million m3,Solar desalination,"In the 1960s and 1970s several distillation plants were constructed on the Greek isles with capacities ranging from 2000 to 8500 m3/day.
+
+In Italy, an open source design called ""the Eliodomestico"" by Gabriele Diamanti was developed for personal costing $50.Of the estimated 22 million m3 daily freshwater produced through desalination worldwide, less than 1% uses solar energy.
+
+It is estimated that desalination plants powered by conventional fuels consume the equivalent of 203 million tons of fuel",,
+T094,Seals in polar regions,HasNumericValue,25 million,Polar ecology,"Seals are also found in polar regions and number around 2.5 million.
+
+In the Arctic, 95% of the birds breeding here consists of only four different species.
+
+Of the 14,000,000 km2 (5,400,000 sq mi) of land that makes up Antarctic, less than 2% of it does not have snow or ice.
+
+It has been estimated that 40 tonnes of krill per hour were caught during this time.
+
+He goes on to say that the temperature in the Arctic region has increased by 3–4 °C (5–7 °F) within the last half-century.",,
+T095,EPA regulations projected impact,MitigationOf,7 billion metric tons of emissions by 2032,United States Environmental Protection Agency,"In 2015, the EPA discovered extensive violations by Volkswagen Group in its manufacture of Volkswagen and Audi diesel engine cars, for the 2009 through 2016 model years.
+
+In August 2015, the EPA finalized the Clean Power Plan to regulate emissions from power plants, projecting a 15-year cut of 32%, or 789 million metric tons of carbon dioxide.
+
+In 2017, the Presidency of Donald Trump proposed a 31% cut to the EPA's budget to $5.7 billion from $8.1 billion and to eliminate a quarter of the agency",,
+T096,Nutrients from symbionts for corals,HasPercentileValue,up to 90%,Coral reef,"Pulley Ridge—deepest photosynthetic coral reef, Florida
+Numerous reefs around the Maldives
+The Philippines coral reef area, the second-largest in Southeast Asia, is estimated at 26,000 square kilometres.
+
+They are populated by over 900 reef fish species and 400 scleractinian coral species, 12 of which are endemic.
+
+Corals get up to 90% of their nutrients from their symbionts.
+
+Reefs discovered in Hecate Strait, British Columbia, have grown to up to 7 kilometres long and 20 metres high.
+
+Hexactin",,
+T097,Seawater boiling point elevation,HasMaxValue,1 K,Vapor-compression evaporation,"MVR evaporators with 10 tons or more evaporating capacity are common.
+
+A compression ratio of 2 is possible (and sometimes more) but unless the motive steam is at a reasonably high pressure (say, 16 bar g - 250 psig - or more), the motive steam consumption will be in the range of 2 kg per kg of suction vapors.
+
+While this cannot compete in the marketplace with reverse osmosis or demineralization, vapor compression chiefly differs from these thanks to its ability to make clean water from saturate",,
+T098,Terrestrial and freshwater animal families studied,HasNumericValue,Over 600,Carboniferous rainforest collapse,"The Carboniferous rainforest collapse (CRC) was a minor extinction event that occurred around 305 million years ago in the Carboniferous period.
+
+One study tabulate the rates of origination and extinction of over 600 terrestrial and freshwater animal families.
+
+After the late Bashkirian glacial maximum of the Late Paleozoic Ice Age I, around 318 Ma, frequent shifts in seasonality from humid to arid times began.
+
+Sea levels dropped by about 100 metres (330 ft), and glacial ice covered most of the",,
+T099,Species abundance decline due to illegal trade,HasPercentileValue,60% decline in 2021,Wildlife conservation,"Deforestation causes many threats to wildlife as it not only causes habitat destruction for the many animals that survive in forests, as more than 80% of the world's species live in forests but also leads to further climate change.
+
+The Queensland ""shark control"" program alone has killed about 50,000 sharks — it has also killed more than 84,000 marine animals.
+
+This illegal trading is worth an estimate of 7-23 billion and an annual trade of around 100 million plants and animals.
+
+In 2021 it was ",,
+T100,Study period at Kagoshima tea station,HasNumericValue,1961 to 2012,Pest insect population dynamics,"The overall mortality rate was 94.8%, but this is probably an underestimate because the study collected the pupae in cups, and these may have protected them from birds, mice, harsh weather, and so on.
+
+The data consisted of counts of adult moths captured with light traps every 5–6 days at the Kagoshima tea station in Japan from 1961 to 2012.
+
+The authors found that when temperatures first increased above about 15 °C (59 °F) in the spring, the population dynamics crossed a Hopf bifurcation from s",,
+T101,Voluntary market-based projects in Africa (2013 study),HasNumericValue,78 projects,African carbon market,"In a 2013 study of 78 voluntary market-based projects, located in 23 countries in Africa, 42% of projects were energy efficiency projects, 40% afforestation/reforestation, 7% solar projects, 4% biomass energy projects, and the remaining percent makes up smaller types of projects (such as hydro and wind).
+
+In a 2013 study of 78 voluntary market-based projects, located in 23 countries in Africa, of the project developers 59% were private international businesses, 28% were international non-profit ",,
+T102,Arthropod biomass measurement period in El Yunque National Forest,HasNumericValue,36-year period,Decline in insect populations,"Scientists stated in 2019: ""In 2017, a 27-year long population monitoring study revealed a shocking 76% decline in flying insect biomass at several of Germany's protected areas (Hallmann et al., 2017).
+
+This represents an average 2.8% loss in insect biomass per year in habitats subject to rather low levels of human disturbance, which could either be undetectable or regarded statistically non-significant if measurements were carried out over shorter time frames.
+
+Puerto Rico
+A 2018 study of the E",,
+T103,Prohibited substances to be tested for,HasNumericValue,240,New Frontiers Science Park,"150 scientists from King's College London and the World Anti-Doping Agency would be there, to take around 6,000 samples.
+
+240 prohibited substances would be tested for, with about 400 samples per day.",,
+T104,Annual loss of original forest habitat,HasNumericValue,approximately 1%,Habitat destruction,"In the U.S., less than 25% of native vegetation remains in many parts of the East and Midwest.
+
+Only 15% of land area remains unmodified by human activities in all of Europe.
+
+From the approximately 16 million square kilometers of tropical rainforest habitat that originally existed worldwide, less than 9 million square kilometers remain today.
+
+The current rate of deforestation is 160,000 square kilometers per year, which equates to a loss of approximately 1% of original forest habitat each year",,
+T105,Mangrove forests,RateOf,174 g C m−2 yr−1 carbon burial rate,Blue carbon,"Global mangrove canopy cover is estimated as between 83,495 km2 and 167,387 km2 in 2012 with Indonesia containing approximately 30% of the entire global mangrove forest area.
+
+Mangrove forests are responsible for approximately 10% of global carbon burial, with an estimated carbon burial rate of 174 g C m−2 yr−1.
+
+They account for 3% of the global carbon sequestration by tropical forests and 14% of the global coastal ocean's carbon burial.
+
+A 2023 global meta-analysis of more than 370 restoration",,
+T106,Americans aged 35 to 54 worrying about global warming,HasPercentileValue,62,Climate movement,"These initiatives have sometimes included expansive group efforts, such as Climate Action 100+ - a coalition over 300 institutional investors (including some of the largest greenhouse emitters).
+
+Climate Mobilization
+Since 2014, growing portions of the climate movement, especially in the United States have been organizing for an international economic response to climate change on the scale of the mobilization of the American home front during World War II, with the goal of rapidly slashing carb",,
+T107,Panda habitat inside protected areas in Sichuan Province,HasPercentileValue,11.7% had no practical restriction on either activity,Gap analysis (conservation),"In Sichuan Province alone, 11.7% of panda habitat inside protected areas had no practical restriction on either activity.
+
+Another issue was that up to 50% of sequences in some taxonomic groups existed only as private data within BOLD, unavailable to researchers and monitoring agencies without access.
+
+Global Projects
+The Kunming-Montreal Global Biodiversity Framework, adopted by 196 countries at COP15 in December 2022, includes Target 3, commonly referred to as “30x30,” which calls for protecti",,
+T108,Muskox arrival at Pleistocene Park,HasNumericValue,September 2010,Pleistocene Park,"(Numbers in park in November 2021: approximately 40)
+
+Muskox (Ovibos moschatus)
+ Muskoxen arrived at the park in September 2010.
+
+(Numbers in park in September 2023: approximately 14) In September 2025 they caught 15 muskox calves from Begichev Island.
+
+(Numbers in park in November 2021: approximately 8)
+Edilbaevskaya sheep (a domestic breed of sheep)
+ 30 domestic sheep acquired in Irkutsk Oblast were introduced in Pleistocene Park in October 2017.
+
+Year-round 10% of their diet necessarily consi",,
+T109,Coptic Christians in Zabbaleen community in Mokattam village,HasPercentileValue,Over 90 percent,Zabbaleen,"During the beginning decades of the Mokattam settlement, the community suffered from ""high mortality and morbidity rates (especially among children), poor environmental conditions, and low income."" In 1983, the average household income per month was estimated at LE 70 (approximately US$11.50 in January 2005), within the lowest 10th percentile of national urban income levels, with an average large household size of 8 persons.
+
+In 1981, infant mortality was estimated at about 240 deaths per thousa",,
+T110,Soybean areas expansion in Legal Amazon,HasNumericValue,"39,100 km2",Indirect land use change impacts of biofuels,"The Arima study is based on 761 municipalities located in the Legal Amazon of Brazil and found that between 2003 and 2008, soybean areas expanded by 39,100 km2 in the basin's agricultural areas, mainly in Mato Grosso.
+
+The model showed that a 10% (3,910 km2) reduction of soy in old pasture areas would have led to a reduction in deforestation of up to 40% (26,039 km2) in heavily forested municipalities of the Brazilian Amazon.
+
+EISA explicitly mandated EPA to include ""direct emissions and signifi",,
+T111,Peak temperature lag in shallow layer,HasNumericValue,about 6 months after the surface peak temperature,Ground source heat pump,"The thermal properties of the ground near the surface can be described as follows:
+
+In the surface layer to a depth of about 1 meter, the temperature is very sensitive to sunlight and weather.
+
+In the shallow layer to a depth of about 8–20 meters (depending on soil type), the thermal mass of the ground causes temperature variation to decrease exponentially with depth until it is close to the local annual average air temperature; it also lags behind the surface temperature, so that the peak tempe",,
+T112,Supercolony beneath Melbourne,HasContext,found in 2004,Ant colony,"For example, in the ant Dolichoderus mariae, one colony can shift from around 300 workers in the summer to over 2,000 workers per queen in the winter.
+
+Different ant species, even those in the same genus, may have enormous colony size disparities: Formica yessensis has colony sizes that are reported to be 306 million workers while Formica fusca colonies sometimes comprise only 500 workers.
+
+The colony was estimated to contain 306 million worker ants and one million queen ants living in 45,000 ne",,
+T113,Near-surface slumps and faulting,HasMaxValue,164 ft subsurface depth,Cold seep,"The densest aggregations of chemosynthetic organisms have been found at water depths of around 500 metres (1,600 feet) and deeper.
+
+The seep site is a small knoll that rises about 40 metres (130 feet) above the surrounding seafloor in about 580-metre (1,900-foot) water depth.
+
+At deeper depths (>1,000 metres (3,300 feet)), the bottom-water temperature is colder (by approximately 3 °C) and undergoes less fluctuation.
+
+High-resolution seismic profiles near the shelf edge show evidence of near-surf",,
+T114,Heavy-duty diesel engines GVW threshold,HasMinValue,3500 kg,Bharat stage emission standards,"This huge step was taken due to the heavy problem of air pollution faced by Delhi which became worse around 2019.
+
+Exposure to air pollution can lead to respiratory and cardiovascular diseases, which is estimated to be the cause for 620,000 early deaths in 2010, and the health cost of air pollution in India has been assessed at 3% of its GDP.
+
+The initial BSI (BS1) standard was first introduced in mid 1999, with the second and third iteration first introduced in mid 2000 and 2005 named BSII (BS2",,
+T115,Biržai Forest,HasNumericValue,"17,050 ha",Biržai Forest,"The forest is recognised as a Key Biodiversity Area of international significance, with about 99.96% of its area under protection.
+
+Ecology
+The Biržai Forest ecosystem consists predominantly of forest habitat (98 % of the total area), with a small portion (2%) classified as artificial terrestrial habitat.The forest lies at an elevation of roughly 60 to 70 metres above sea level and covers an area of about 170.5 square kilometres (17,050 ha).
+
+The forest includes areas characterised as Fennoscand",,
+T116,Debris from 2007 Chinese anti-satellite missile test (golf-ball size or larger),HasNumericValue,"over 2,300 pieces",Space debris,"Impact velocity peaks at about 1.5 km/s (0.93 mi/s).
+
+By 21 February 2007, over 1,000 fragments were identified.
+
+The second stage of the Zenit-2, called the SL-16 by western governments, along with the second stages of the Vostok and Kosmos launch vehicles, make up about 20% of the total mass of launch debris in Low Earth Orbit (LEO).
+
+The United States has conducted over 30 anti-satellite weapons tests (ASATs), the Soviet Union/Russia has performed at least 27, China has performed 10 and India",,
+T117,Distance from Vancouver to Stockholm via the Panama Canal,HasNumericValue,"15,500 km",Pellet fuel,"A report by CORRIM (Consortium On Research on Renewable Industrial Material) for the Life-Cycle Inventory of Wood Pellet Manufacturing and Utilization estimates the energy required to dry, pelletize and transport pellets is less than 11% of the energy content of the pellets if using pre-dried industrial wood waste.
+
+If the pellets are made directly from forest material, it takes up to 18% of the energy to dry the wood and additional 8% for transportation and manufacturing energy.
+
+An environment",,
+T118,Engine operating output for optimal ratio,HasMaxValue,80% of nominal output,Bi-fuel vehicle,"There usually two type of conversions – low-speed (below 1000 RPM) and high-speed (between 1200 and 1800 RPM).
+
+This conversion is for low-speed engines up to 1000 RPM.
+
+The system converts industrial diesel engine to bi-fuel operation by substitution of 70–90% natural gas for diesel or HFO.
+
+Suitable for all high-speed engines, 1200–1800 RPM
+The system converts industrial diesel engine to bi-fuel operation by substitution of 50–80% natural gas for diesel.
+
+If the operating output of the engine ",,
+T119,Tropical deforestation,PercentageOf,15% of global carbon dioxide emissions,Climate governance,"With the end of the Kyoto Protocol's first commitment period in 2012, between 2013 and 2015 there was no legally binding global climate regime.
+
+For example, recent advances in carbon cycle research, remote sensing and carbon accounting techniques have revealed that tropical deforestation accounts for 15% of global carbon dioxide emissions.
+
+The view of climate governance stakeholders that climate action was a costly burden has somehow changed in recent years: According to the Global Commission ",,
+T120,Equivalent thickness of the atmosphere,HasNumericValue,9 km,Air mass (solar energy),"Description
+The overall intensity of solar radiation is like that of a black body radiator of the same size at about 5,800 K.
+
+However, it is reasonably accurate for values of 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+  
+ up to around 75°.
+
+At sea level the air mass towards the horizon (
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+  
+ = 90°) is approximately 38.
+
+If x is the distance along the light ray from where it meets the ground, divided by the equivalent th",,
+T121,Primary forest area in Europe,HasNumericValue,311 million ha,Old-growth forest,"The island of Tasmania, just off the southeast coast of Australia, has the largest amount of temperate old-growth rainforest reserves in Australia, with around 12,390 km2 (4,780 sq mi) in total.
+
+Only 22% of Tasmania's original tall-eucalypt forests managed by Forestry Tasmania have been reserved.
+
+In 2006, about 610 km2 (240 sq mi) of tall-eucalypt RFA old-growth forests remained unprotected.
+
+Locations of remaining tracts
+Primary forests, which include old growth forests, cover at least 1.18 b",,
+T122,Italy,HasCapacity,"between 6,000 and 7,000 MW",Wind farm,"Europe
+In 2011 the European Union had a total installed wind capacity of 93,957 MW.
+
+Germany had the third-largest capacity in the world (after China and the United States), with an installed capacity of 29,060 MW at the end of 2011.
+
+Spain had 21,674 MW, and Italy and France each had between 6,000 and 7,000 MW.
+
+By January 2014, the UK installed capacity was 10,495 MW.
+
+But energy production can be different from capacity – in 2010, Spain had the highest European wind power production with 43 T",,
+T123,Deaths attributable to air pollution worldwide,HasNumericValue,7.9 million in 2023,Particulate matter,"During 2024, domestic wood burning was responsible for 20% of PM2.5 and 11% of PM10 in the UK.
+
+Approximately 80% of the surface of the Southern Hemisphere is oceanic, and the average concentration of SSAs is generally higher there than in the Northern Hemisphere.
+
+Approximately 85% of the world's population lives in the Northern Hemisphere, where human activities are the dominant sources of organic matter and fine particulate matter (PM25).
+
+Water-soluble inorganic ions account for 30% to 50% o",,
+T124,2023 compliance report,HasPercentileValue,99.996% compliance rate,Cap-and-Invest (Washington state),"Required reporting entities had to submit documentation to the Department of Ecology that showed they had compliance instruments (allowances or offsets) covering at least 30% of their 2023 emissions.
+
+The 2023 compliance report showed a 99.996% compliance rate.
+
+The Department of Ecology fined Climate Care Innovations, an offset project operator, $425,000 for falsely claiming that it owned over 3 million allowances.
+
+On November 1, 2025, compliance entities were required to surrender instruments",,
+T125,Global retail sales of apparel,HasNumericValue,1.9 trillion U.S. dollars in 2019,Environmental impact of fashion,"The rapid growth of fast fashion has led to around 100 billion items of clothing being consumed annually 
+, with about 85% of clothes consumed in United States being sent to landfill.
+
+Indeed, one study estimates that, although wool and leather account for just 3–5% of global fashion production, they could be responsible for 70–80% of its methane emissions over 20 years.
+
+In the late 2010s it emitted 2% of world total greenhouse gases, and contributed to climate change through energy-intensive p",,
+T126,Predicted total cooling capacity,HasCapacity,"23,000 GW by 2050",Air conditioning,"Air conditioner adoption tends to increase above around $10,000 (circa 2021) annual household income in warmer areas.
+
+Global GDP growth explains around 85% of increased air condition adoption by 2050, while the remaining 15% can be explained by climate change.
+
+Use by region
+As of 2016, an estimated 1.6 billion air conditioning units were used worldwide, with over half of them in China and the United States, and with a total cooling capacity of 11,675 gigawatts.
+
+The International Energy Agency",,
+T127,Number of EGS demonstration projects supported by Infrastructure Investment and Jobs Act,HasNumericValue,4,Enhanced geothermal system,"The site is planned to supply 20% of the campus' annual heating load.
+
+The goal of the Earthshot is to reduce the cost of EGS by 90%, to $45/megawatt hour by 2035.
+
+Other federal funding and support
+The Infrastructure Investment and Jobs Act authorized $84 million to support EGS development through four demonstration projects.
+
+The report offered several significant conclusions:
+
+Resource size: The report calculated United States total EGS resources at 3–10 km of depth to be over 13,000 zettajou",,
+T128,China General Nuclear Power Group,HasPolicyTarget,200 GW by 2035,Energy transition,"The ""Electricity Grids and Secure Energy Transitions"" report by the IEA emphasizes the necessity of increasing grid investments to over $600 billion annually by 2030, up from $300 billion, to accommodate the integration of renewable energy.
+
+By 2040, the grid must expand by more than 80 million kilometers to manage renewable sources, which are projected to account for over 80% of the global power capacity increase over the next two decades.
+
+100% renewable energy
+Nuclear power
+In the 1970s and 1",,
+T129,percentage of bicarbonate in seawater solutes,HasPercentileValue,0.14,Seawater,"pH value
+The pH value at the surface of oceans in pre-industrial time (before 1850) was around 8.2.
+
+Since then, it has been decreasing due to a human-caused process called ocean acidification that is related to carbon dioxide emissions: Between 1950 and 2020, the average pH of the ocean surface fell from approximately 8.15 to 8.05.
+
+There is no universally accepted reference pH-scale for seawater and the difference between measurements based on different reference scales may be up to 0.14 units",,
+T130,USDA biofuel research funding,HasNumericValue,$881 million,Algae fuel in the United States,"In accordance with this legislation, the Department of Energy dedicated $125 million to biofuel research in 2014 and brought the United States to use 45% of the world's biofuels, according to a 2014 article by Delia Gallinaro.
+
+The United States Department of Agriculture has also been ordered to fund $881 million of biofuel research, so the organization partnered with the U.S.
+
+Current economic assessments cite large-scale pond-cultivated algae fuel prices ranging from at $0.42 to $7.50 per Lite",,
+T131,Common modern small round balers bale weight,HasMinValue,40 pounds,Baler,"Variable-chamber large round balers typically produce bales from 48 to 72 inches (120 to 180 cm) in diameter and up to 60 inches (150 cm) in width.
+
+The bales can weigh anywhere from 1,100 to 2,200 pounds (500 to 1,000 kg), depending upon size, material, and moisture content.
+
+Common modern small round balers (also called ""mini round balers"") produce bales 20 to 22 inches (51 to 56 cm) in diameter and 20.5 to 28 inches (52 to 71 cm) in width, generally weighing from 40 to 55 pounds (18 to 25 kg)",,
+T132,Oceans,HasNumericValue,pH 8.2–8.5,Carbon dioxide,"The oceans, being mildly alkaline with typical pH = 8.2–8.5, contain about 120 mg of bicarbonate per liter.
+
+When carbon dioxide dissolves in desalinated water, the electrical conductivity increases significantly from below 1 μS/cm to nearly 30 μS/cm.
+
+At standard temperature and pressure, the density of carbon dioxide is around 1.98 kg/m3, about 1.53 times that of air.
+
+This form of glass, called carbonia, is produced by supercooling heated CO2 at extreme pressures (40–48 GPa, or about 400,000 ",,
+T133,Climate Change (Emissions Reduction Targets) (Scotland) Act 2019,HasAction,remove the target of a reduction in greenhouse gas emissions of 75% for 2030,Climate Change (Scotland) Act 2009,"The act requires that a 42% cut in greenhouse gas emissions by 2020 and 80% by 2050.
+
+Amendments
+The act was amended by the Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15) to remove the target of a reduction in greenhouse gas emissions of 75% for 2030, compared to 1990 levels.",,
+T134,Potassium carbonate,HasNumericValue,5,Activated carbon,"The chemical is typically an acid, strong base, or a salt (phosphoric acid 25%, potassium hydroxide 5%, sodium hydroxide 5%, potassium carbonate 5%, calcium chloride 25%, and zinc chloride 25%).
+
+Haycarb, a Sri Lankan coconut shell-based company, controls 16% of the global market share.
+
+PAC is made up of crushed or ground carbon particles, 95–100% of which will pass through a designated mesh sieve.
+
+20 sieve (0.84 mm) (generally specified as 85% passing) but be retained on a U.S.
+
+40 sieve (0.4",,
+T135,Patent grant to Robert Fitzgerald,HasNumericValue,1683,Desalination,"According to a 2019 review in Science of the Total Environment, around 95 million cubic meters per day of desalinated water is produced worldwide, and the demand for desalinated water is expected to grow significantly to help close the global water supply gap.
+
+As of 2020, global desalination capacity stood at roughly 97 million m3 /day from over 16,800 operating plants, with contracted projects pushing total potential capacity beyond 114 million m3 /day worldwide.
+
+In 2018, the global energy in",,
+T136,Private cars parking duration,HasAverageValue,22.5 hours a day,Mobility transition,"In traffic, such subsidies with harmful effects even increased from 2012 to 2018.
+
+On average, private cars were parked for around 22,5 hours a day, because they were used for only 1 hour and 19 to 28 minutes a day.
+
+In 2002 and 2008, vehicles in Germany were occupied by an average of 1.5 people.
+
+Urgenda Foundation court case was decided in favour of its plaintiff Urgenda (initially in June 2015, upheld on appeal in October 2018, and finally confirmed by the Supreme Court of the Netherlands on ",,
+T137,Climate adaptation,HasNumericValue,$215 - US$387 billion per year,Disaster risk reduction,"Recent global costs have averaged above US$330 billion/year (over 2015-2021).The insurance sector estimated that weather- and climate-related disasters contributed to $165 billion of economic losses worldwide in 2018 and $210 billion in 2020.
+
+However an indication of the costs for developing countries is given by the $215 - US$387 billion per year (up to 2030) estimated costs for climate adaptation.
+
+For many countries, less than 1% of the national budget is available for DRR activities.
+
+Finan",,
+T138,Total aviation demand in 2019,HasNumericValue,almost 1 trillion ton-kilometer equivalent,Air travel demand reduction,"Total aviation demand in 2019 was almost 1 trillion ton-kilometer equivalent with 78% representing passenger flights and 22% freight.
+
+The ICCT estimates that 3% of the global population take regular flights.
+
+Stefan Gössling of the Western Norway Research Institute estimates 1% of the world population emits half of commercial aviation's CO2, while close to 90% does not fly in a given year.
+
+In early 2022, the European Investment Bank published the results of its 2021–2022 Climate Survey, showin",,
+T139,Svalbard Global Seed Vault construction cost,HasContext,2008,Svalbard Global Seed Vault,"The Norwegian government entirely funded the Seed Vault's approximately 45 million kr (US$8.8 million in 2008) construction cost.
+
+This 4 t (3.9-long-ton; 4.4-short-ton) shipment brought the total number of seeds stored in the Seed Vault to over 20 million.
+
+According to The Independent the COVID-19 pandemic did not pose a risk to the vault ""as there are no permanent staff at the Svalbard facility.""
+In 2019, the Seed Vault cost about 2.4 million kr (US$282,000) to maintain.
+
+The number of seeds ",,
+T140,Ammonium amount in the ocean relative to nitrate,HasComparison,3 orders of magnitude less than nitrate,Nitrogen cycle,"The majority of Earth's atmosphere (78%) is atmospheric nitrogen, making it the largest source of nitrogen.
+
+Between 5 and 10 billion kg per year are fixed by lightning strikes, but most fixation is done by free-living or symbiotic bacteria known as diazotrophs.
+
+Today, about 30% of the total fixed nitrogen is produced industrially using the Haber-Bosch process, which uses high temperatures and pressures to convert nitrogen gas and a hydrogen source (natural gas or petroleum) into ammonia.
+
+With",,
+T141,Time of self-sustaining nuclear chain reactions,HasNumericValue,about 2 billion years ago,Natural nuclear fission reactor,"Further, as fissile material is the reason for mining uranium in the first place, the missing 17% was also of direct economic concern.
+
+Further investigations into this uranium deposit discovered uranium ore with a 235U concentration as low as 0.44% (almost 40% below the normal value).
+
+Other observations led to the same conclusion, and on 25 September 1972, the CEA announced their finding that self-sustaining nuclear chain reactions had occurred on Earth about 2 billion years ago.
+
+Fission prod",,
+T142,Payments received by generators in 2020–21,HasNumericValue,"£114,480",Smart Export Guarantee,"From 1 August 2011 the rate for installations over 50 kW was to range from 19p/kWh to 8.5p/kWh for the largest qualifying installations (5MW), with the Government claiming that this would prevent the scheme from becoming 'overwhelmed'.
+
+A further reason is that the cost of installing PV panels has reduced by around 50% and therefore the FITs had become less of an encouragement to install PV panels and more of an incitement to profit from excessive subsidies.
+
+In addition, generators with more th",,
+T143,"Borehole depth in Brædstrup, Denmark",HasNumericValue,160 ft,Seasonal thermal energy storage,"The world's largest pit store (200,000 m3 (7,000,000 cu ft)) was commissioned in Vojens, Denmark, in 2015, and allows solar heat to provide 50% of the annual energy for the world's largest solar-enabled district heating system.
+
+EnerStock 2018 was held in April 2018 in Adana, Turkey, with over 220 participants from 24 countries.
+
+The IEA-ECES programme continues the work of the earlier International Council for Thermal Energy Storage which from 1978 to 1990 had a quarterly newsletter and was ini",,
+T144,Emissions in South Australia,HasGrowthRate,15% drop in the five years preceding 2011,Sustainable city,"Wind power
+South Australia went from zero wind power in 2002 to wind power making up 26% of its electricity generation by October 2011.
+
+In the five years preceding 2011 there was a 15% drop in emissions, despite strong economic growth.
+
+Waste recycling
+For Adelaide the South Australian government also embraced a Zero Waste recycling strategy, achieving a recycling rate of nearly 80% by 2011 with 4.3 million tonnes of materials diverted from landfill to recycling.
+
+In 2009 non-reusable plastic b",,
+T145,"Non-functional community ponds in Chum Kiri District, Cambodia",HasPercentileValue,1.1% of 94 community ponds in 2014,Failures of water supply and sanitation systems,"Benin
+12% of 13,003 handpumps were found to be non-functional in 2016
+
+Bolivia
+In over 100 communities visited in the rural municipality of Tiraque, fewer than ten had no water system, 17 were functioning per Bolivia government norms, and the rest were providing sub-par services, requiring anywhere from complete rehabilitations to minor repairs to ensure water of adequate quantity, quality, and continuity was being provided to all citizens (2007).
+
+Burkina Faso
+11%  of 52,596 handpumps were foun",,
+T146,Cars in the United States,HasImpact,32.5 trillion insect deaths per year,Roadkill,"Roadkill is estimated to be responsible for 50% of deaths of Florida panthers, and is the largest cause of badger deaths in England.
+
+By category, the fatalities were: 81% mammals, 15% bird, 3% reptiles and amphibians, 1% indiscernible.
+
+Extrapolating these data nationwide, Merritt Clifton (editor of Animal People Newspaper) estimated that the following animals are being killed by motor vehicles in the United States annually: 41 million squirrels, 26 million cats, 22 million rats, 19 million Vir",,
+T147,Annual return of haze,HasContext,"between 2004 and 2010, and again in 2013, 2014 and 2015",ASEAN Agreement on Transboundary Haze Pollution,"Satellite images confirmed the presence of hot spots throughout Kalimantan/Borneo, Sumatra, the Malay Peninsula and several other places, with an estimated 45,000 square kilometres of forest and land burnt.
+
+Achievements
+In October 2013 ASEAN leaders approved a joint haze monitoring system at a cost of US$100,000.
+
+The treaty did not prevent the annual return of the haze between 2004 and 2010, and again in 2013, 2014 and 2015.
+
+Recently Indonesia has ranked among the world's largest greenhouse g",,
+T148,Domestic water use,PercentageOf,3.6% of total water use,Water footprint,"The largest share (76%) of the virtual water flows between countries is related to international trade in crops and derived crop products.
+
+Trade in animal products and industrial products contributed 12% each to the global virtual water flows.
+
+The global water footprint in the period 1996–2005 was 9.087 billion m3/yr (billion cubic metres per year, or 9,087,000,000,000,000 liters/year), of which 74% was and green, 11% blue, 15% grey.
+
+This is an average amount per capita of 1.385 billion m3/yr",,
+T149,1500 kPa suction,HasNumericValue,pF = 4.2,Soil moisture,"Water is essential to plants for four reasons:
+
+It constitutes 80–95% of the plant's protoplasm.
+
+Water potential or suction is expressed in units of kPa (103 pascal), bar (100 kPa), or cm H2O (approximately 0.098 kPa).
+
+But as the droplet is drawn down, the forces of adhesion of the water for the soil particles produce increasingly higher suction, finally up to 1500 kPa (pF = 4.2).
+
+The available water for the silt loam might be 20% whereas for the sand it might be only 6% by volume, as shown i",,
+T150,Portland cement,HasPercentileValue,90,Eternit,Principally he mixed 90% Portland cement and 10% asbestos fibres with water and ran it through a cardboard machine.,,
+T151,Alstom acquisition of AWS stake date,HasContext,2011,AWS Ocean Energy,"Between 2015 and 2022, AWS received three rounds of funding through the Wave Energy Scotland Novel Wave Energy Convertor programme to develop a series of small-scale prototypes, the largest scale device was tested at EMEC in 2022, demonstrating a power output of 16 kW.
+
+The full-scale AWS-III device was projected to be 60 m diameter, with a rated power of 2.5 MW per unit.
+
+In 2011, Alstom acquired a 40% stake in AWS, complementing their investment in tidal and offshore wind.
+
+In January 2012, SS",,
+T152,Survival rates of fish due to cold water releases,HasMaxValue,75% drop,Thermal pollution,"Sources and control of thermal pollution
+Industrial wastewater
+In the United States about 75 to 80 percent of thermal pollution is generated by power plants.
+
+A large power plant may withdraw and export as many as 500 million gallons per day.
+
+For example, the Potrero Generating Station in San Francisco (closed in 2011), used OTC and discharged water to San Francisco Bay approximately 10 °C (20 °F) above the ambient bay temperature.
+
+Over 1,200 facilities in the United States use OTC systems as ",,
+T153,British Airways load factor,HasPercentileValue,82,Fuel economy in aircraft,"That same year, Cathay Pacific and Cathay Dragon consumed 4,571,000 tonnes of fuel to transport 123,478 million revenue passenger kilometers, or 37 g/RPK, 25% better than in 1998: 4.63 L/100 km (50.8 mpg‑US).
+
+Again in 2016, the Aeroflot Group fuel consumption is 22.9g/ASK, or 2.86 L/100 km (82 mpg‑US) per seat, 3.51 L/100 km (67.0 mpg‑US) per passenger at its 81.5% load factor.
+
+The most fuel-efficient airline was Norwegian Air Shuttle with 44 pax-km/L (2.27 L/100 km [104 mpg‑US] per passenger)",,
+T154,Powerplant,HasNumericValue,400-meter diameter,Energy tower (downdraft),"Pumping the water requires about 50% of the turbine's output.
+
+Zaslavsky claims that the Energy Tower would achieve up to 70-80% [3] of the Carnot limit.
+
+Actual measurements on the 50 kW Manzanares pilot solar updraft tower found a conversion efficiency of 0.53%, although SBP believe that this could be increased to 1.3% in a large and improved 100 MW unit.[8] This amounts to about 10% of the theoretical limit for the Carnot cycle.
+
+A 400-meter diameter powerplant producing wind velocity of 22 m",,
+T155,Jiangxia Tidal Power Station,HasNumericValue,1985,Tidal power,"Current and future tidal power schemes
+The Rance tidal power plant built over a period of six years from 1960 to 1966 at La Rance, France.
+
+254 MW Sihwa Lake Tidal Power Plant in South Korea is the largest tidal power installation in the world.
+
+The Jiangxia Tidal Power Station, south of Hangzhou in China has been operational since 1985, with current installed capacity of 3.2 MW.
+
+In 2006 it was upgraded with a 1.2 MW experimental advanced orthogonal turbine.
+
+Jindo Uldolmok Tidal Power Plant in",,
+T156,Cost of discontinuing support for ELA,HasNumericValue,50 million,Experimental Lakes Area,"While Vallentyne was Scientific Leader of the Eutrophication Section from 1966 to 1972, he attracted a stellar staff of scientists from around the world in the late 1960s and early 1970s.
+
+Schindler, who would become one of the world's leading limnologists, would direct ELA projects from 1968 to 1989.
+
+Fisheries Act
+In 2012, the Department of Fisheries and Oceans announced that it planned to discontinue supporting the site at the end of the financial year, March 31, 2013, at a cost of $50 millio",,
+T157,Modern utility-scale wind turbines,HasMaxValue,9 MW rated power,Renewable energy,"PV grew fastest in China between 2016 and 2021, adding 560 GW, more than all advanced economies combined.
+
+Modern utility-scale wind turbines range from around 600 kW to 9 MW of rated power.
+
+Wind-generated electricity met nearly 4% of global electricity demand in 2015, with nearly 63 GW of new wind power capacity installed.
+
+In Denmark, wind energy met more than 40% of its electricity demand while Ireland, Portugal and Spain each met nearly 20%.
+
+As offshore wind speeds average ~90% greater tha",,
+T158,Real GDP growth in South Africa,HasNumericValue,-0.72% associated with El Niño shock,El Niño–Southern Oscillation,"As a result of this change tropical cyclones are 50% less likely to make landfall on Queensland, while the risk of a tropical cyclone is elevated for island nations like Niue, French Polynesia, Tonga, Tuvalu, and the Cook Islands.
+
+The 2023 El Niño also disrupted weather patterns globally, with drought reducing maize production by up to 70% in some of Zimbabwe, Zambia and Malawi.
+
+In a one-year time horizon, an El Niño shock is associated with changes in real GDP growth of -1.01% in Indonesia, -",,
+T159,Target for fossil-free investments,HasPolicyTarget,100% by 2050,Business action on climate change,"In 1997, when the US Senate overwhelmingly passed a resolution against ratifying the Kyoto Protocol, the industry funded a $13 million industry advertising blitz in the run-up to the vote.
+
+By 2007, the CDP published the emissions data for 2400 of the largest corporations in the world, and represented major institutional investors with $41 trillion combined assets under management.
+
+Investors with a capital of 5 trillion dollars pledged to have 100% fossil free investments by the year 2050.
+
+A 2",,
+T160,Total generated mercury released in gaseous form,HasPercentileValue,60,Natural resource and waste management in Tanzania,"The expected exposure level for a typical person is about 10 ppm.
+
+Approximately 60% of the total generated mercury is released in a gaseous form and exposes the miners via inhalation or absorption through the skin.
+
+Fishermen, their families, and residents of Mwanza City were also test subjects to exhibit the far-reaching effects of the remaining 40% of the mercury released from the mines.
+
+Approximately 40% of the site’s surrounding soil was saturated with pesticides.
+
+The country's profile in",,
+T161,PS10,HasCapacity,10 MW,Solnova Solar Power Station,"300 MW:
+Completed and operating:
+
+PS10 (10 MW)
+PS20 (20 MW)
+Solnova 1 (50 MW)
+Solnova 3 (50 MW)
+Solnova 4 (50 MW)
+total: 180 MW.
+
+Three more plants are planned:
+
+AZ20 (20 MW)
+Solnova 2 (50 MW)
+Solnova 5 (50 MW)
+Total 120 MW.
+
+PS20 and AZ20 are twin 20 MWe tower plants based on the same concept as PS10.
+
+It took four years to build and so far has cost €35 million (US$46 million).
+
+PS10 produces about 23,400 megawatt-hours (MW·h) per year, for which it receives €271 (US$360) per MW·h under its pow",,
+T162,Rakhine State coast,HasMaxValue,up to 5.5 metres (220 in) of rain,Rain shadow,"The zone designated the trade winds is the zone between about 30° N and 30° S, blowing predominantly from the northeast in the Northern Hemisphere and from the southeast in the Southern Hemisphere.
+
+In Western Cape Province, the Breede River Valley and the Karoo region lie in the rain shadow of the Cape Fold Mountains and are arid; whereas the wettest parts of the Cape Mountains can receive 1,500 millimetres (59 in), Worcester receives only around 200 millimetres (8 in) and is useful only for gr",,
+T163,Storage depot depths,HasNumericValue,"800, 850, 1000, 1100, 1200, and 1300 m",Konrad mine,"The energy companies initially bring in 30 million euros with further payments over an initial period of 30 years of service.
+
+The federal government will contribute from 2009 to 2043 700,000 euros per year.
+
+In total, up to nine storage depots are projected on the existing main soles on 800, 850, 1000, 1100, 1200 and 1300 m depth.
+
+The storage chambers are created with a diameter of about 40 m2 with a bottom width of about 7 meters and a height of about 6 meters.",,
+T164,Cretaceous–Paleogene extinction event (K–Pg),HasContext,66 million years ago,Extinction,"Mass extinctions
+There have been at least five mass extinctions in the history of life on earth, and four in the last 350 million years in which many species have disappeared in a relatively short period of geological time.
+
+A massive eruptive event that released large quantities of tephra particles into the atmosphere is considered to be one likely cause of the ""Permian–Triassic extinction event"" about 250 million years ago, which is estimated to have killed 90% of species then existing.
+
+The C",,
+T165,Participants in anti-nuclear protests at Nevada Test Site,HasNumericValue,"37,488",Toxic hotspot,"From 1986 through 1994, two years after the United States put a hold on full-scale nuclear weapons testing, 536 anti-nuclear protests were held at the Nevada Test Site involving 37,488 participants and 15,740 arrests, according to government records.
+
+The scientific buildings for the test site were located around 150 km west of the town of Semipalatinsk (later renamed Semey), near the border of East Kazakhstan Province and Pavlodar Province with most of the nuclear tests taking place at various ",,
+T166,Thames Water losses by theft,HasContext,2017,Water theft,"Thames Water estimated losses by theft to amount to 2 to 3 million litres (660,000 imp gal; 790,000 US gal) per year in 2017, flowing through 734 unauthorized connections.",,
+T167,Produce contributed by UIS Community Garden,HasNumericValue,Over 600 pounds,Community gardening in the United States,"Over 700 pounds of produce were donated to local churches and pantries in 2015.
+
+Since it began as a student group project in 2016, the UIS Community Garden and its volunteers have contributed over 600 pounds of produce to the local community.
+
+Vigo County
+Over 3500 pounds of produce were donated in 2020 by the ISU Community Garden in Terra Haute, Indiana.
+
+Since inception in 2008, the community garden has grown to over 160 plots available to the community.
+
+Louisiana
+Massachusetts
+Boston
+In the",,
+T168,Total aggregate GHG emissions for Annex I Parties,HasContext,1990–2008 period,Kyoto Protocol,"As of May 2013, 191 countries and one regional economic organization (the EC) have ratified the agreement, representing over 61.6% of the 1990 emissions from Annex I countries.
+
+Canada was committed to cutting its greenhouse emissions to 6% below 1990 levels by 2012, but in 2009 emissions were 17% higher than in 1990.
+
+Country types and their emissions
+Annex I countries
+Total aggregate GHG emissions excluding emissions/removals from land use, land use change and forestry (LULUCF, i.e., carbon st",,
+T169,Americans without access to safe drinking water and basic sewage treatment,HasNumericValue,4.1 million,Wellhead protection program,"As of 2022, 4.1 million Americans still did not have access to safe drinking water and basic sewage treatment.
+
+The lack of treatment resulted in roughly 900 billion gallons annually of untreated sewage to infiltrate the U.S.
+
+For example, a community successfully blocked a proposed $12 million travel plaza/welcome center from endangering their water supply by local land use zoning that prohibits petroleum underground storage tanks (USTs) in a wellhead protection area.
+
+seq), an aquifer can be d",,
+T170,Global flood damages,HasNumericValue,US$51.3B in 2020,Urban flooding,"In 2020, floods caused an estimated 6,000 deaths and caused US$51.3B in damages globally.
+
+In the US, industry experts estimate that wet basements can lower property values by 10%-25% and are cited among the top reasons for not purchasing a home.
+
+According to the U.S Federal Emergency Management Agency (FEMA), almost 40% of small businesses never reopen their doors following a flooding disaster.
+
+In the UK, urban flooding is estimated to cost £270 million a year in England and Wales; 80,000 hom",,
+T171,Ancient drainage systems,HasNumericValue,"over 5,000 years old",Sustainable drainage system,"History of drainage systems
+Drainage systems have been found in ancient cities over 5,000 years old, including Minoan, Indus, Persian, and Mesopotamian civilizations.
+
+With high volumes of rain, downspouts on buildings can send 12 gallons of water a minute into the sewer system, which increases the risk of basement backups and sewer overflows.
+
+According to the EPA, the average size of a 100-year floodplain is likely to increase by 45% in the next ten years.
+
+Philadelphia found that its new gree",,
+T172,Rainforest preserved by Paul Alan Cox,HasNumericValue,47 sq mi,Seacology,"The operations are low-cost, averaging around US$20,000 to $25,000.
+
+By 2020, Seacology had initiated more than 320 projects globally, and helped preserve 760,879 acres (3,079 km2; 1,189 sq mi) of marine habitat and 579,700 acres (2,346 km2; 905.8 sq mi) of terrestrial habitat.
+
+History
+Seacology was founded in 1991 by ethnobotanist Paul Alan Cox and his wife Barbara in 1991 resulting from his efforts to preserve 30,000 acres (120 km2; 47 sq mi) of rainforest outside the village of Falealupo on ",,
+T173,Tree seedlings per public green belt in 1980s,HasNumericValue,1000,Green Belt Movement,"Since Wangari Maathai started the movement in 1977, more than 51 million trees have been planted, and more than 30,000 women have been trained in forestry, food processing, bee-keeping, and other trades that help them earn income while preserving their lands and resources.
+
+1980s: The Green Belt Movement established approximately 2,000 public green belts carrying 1,000 tree seedlings on each green belt.
+
+They ended up planting more than 4.6 million trees throughout Kenya.
+
+2007
+2007 alone, GBM c",,
+T174,Manure produced by animal feeding operations,HasComparison,100 times more than human sewage sludge processed in US municipal waste water plants each year,Agricultural pollution,"Animal feeding operations produce about 100 times more manure than the amount of human sewage sludge processed in US municipal waste water plants each year.
+
+EPA suggests that one dairy farm with 2,500 cows produces as much waste as a city with around 411,000 residents.
+
+Liquids (4–8% dry matter) can be used easily in pump systems for convenient spread over crops and the solid fraction (15–30% dry matter) can be used as stall bedding, spread on crops, composted or exported.
+
+Methane is about 20 ",,
+T175,Visible to infrared light energy wavelengths,HasMaxValue,2000 nm,Ocean color,"Blue light, in comparison, can penetrate up to 200 meters (656 ft).
+
+How underwater absorption and scattering vary spectrally, or across the spectrum of visible to infrared light energy (about 400 nm to 2000 nm wavelengths) determines what ""color"" the water will appear to a sensor.
+
+The signal from the water itself is less than 10% of the total signal of light leaving Earth's surface.",,
+T176,People living under light-polluted skies,HasPercentileValue,83,Light pollution,"It has been estimated that 83% of the world's people live under light-polluted skies and that 23% of the world's land area is affected by skyglow.
+
+Globally, it has increased by at least 49% from 1992 to 2017, and between 2014 and 2022 by 16%, with uneven development, e.g.
+
+France reducing through policy its light pollution by 33% in that time period.
+
+About 83% of people, including 99% of Europeans and Americans, live under light-polluted skies that are more than 10% brighter than natural darkn",,
+T177,Nitrous Oxide,PercentageOf,4% of global anthropogenic greenhouse gas emissions in 2019,Causes of climate change,"Global anthropogenic greenhouse gas emissions in 2019 were equivalent to 59 billion tonnes of CO2.
+
+Of these emissions, 75% was CO2, 18% was methane, 4% was nitrous oxide, and 2% was fluorinated gases.
+
+The last time when it reached this level was 2.6–5.3 million years ago.
+
+In November, 2025 Global Carbon Budget predicted CO2 emissions from burning coal, oil and gas would be a record 38.1 billion tonnes in 2025, up 1.1 percent from the prior year.
+
+From 1961 to 1990, a gradual reduction in the ",,
+T178,Battery reserve,HasNumericValue,approximately 3–4 weeks,Solar-powered waste compacting bin,"A solar-powered waste compactor is a smart device that reads a waste bin's fill-level in real-time and triggers an automatic compaction of the waste, effectively increasing the bin's capacity by up to 5-8 times.
+
+Fully charged, the battery reserve lasts for approximately 3–4 weeks, depending on the compaction frequency and usage patterns.",,
+T179,Meso-halophytes,HasMinValue,0.1% NaCl in soil,Halophyte,"Relatively few plant species are halophytes—perhaps only 2% of all plant species.
+
+Oligo-halophytes (amount of NaCl in the soil is 0.01 to 0.1%)
+Meso-halophytes (amount of NaCl in the soil is 0.1 to 1%)
+Euhalophytes (amount of NaCl in the soil is >1%)
+For comparison, seawater has a salinity of about 3.5%.
+
+Beans and rice can tolerate about 1–3 g/L, and are considered glycophytes (as are most crop plants).
+
+Plants such as barley (Hordeum vulgare) and the date palm (Phoenix dactylifera) can tolera",,
+T180,Annual contribution of coral reefs to the global economy,HasNumericValue,$27 trillion,Coral bleaching,"This event has led to severe damage, with coral mortality reaching up to 93% in areas like the Pacific coast near Mexico.
+
+The economic implications are profound, as coral reefs contribute approximately $2.7 trillion annually to the global economy, including $36 billion from tourism alone.
+
+The share of affected coral reefs worldwide by each of the four bleaching events has been estimated to be 20%, 35%, 56% and 54%.
+
+A similar event occurred after bleaching in 2014 with a white-plague disease p",,
+T181,Annual world population growth peak,HasPercentileValue,21,Human overpopulation,"The 2024 UN projections report estimated that world population would peak at 10.29 billion in 2084 and decline to 10.18 billion by 2100, which was 6% lower than the UN had estimated in 2014.
+
+According to the Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report (2022), both GDP per capita and population growth remained the strongest drivers of CO₂ emissions from fossil fuel combustion during 2010–2019; population growth increased emissions by about 1.2% per year, GDP per capi",,
+T182,South-North Water Transfer Project,HasNumericValue,estimated investment exceeding 500 billion yuan,South–North Water Transfer Project,"The South–North Water Transfer Project, also translated as the South-to-North Water Diversion Project, is a multi-decade infrastructure mega-project in China that aims to channel 44.8 cubic kilometers (44.8 billion cubic meters) of fresh water each year from the Yangtze River in southern China to the more arid and industrialized north through three canal systems:
+
+The Eastern Route through the course of the Grand Canal;
+The Central Route from the upper reaches of the Han River (a tributary of th",,
+T183,Cellulose/konjac gum-based desiccant demonstration year,HasNumericValue,2022,Atmospheric water generator,"In February 2021 General Electric was awarded 14 million dollars to continue development of their device.
+
+In 2022, a cellulose/konjac gum-based desiccant was demonstrated that produced 13 L/kg/day (1.56 US gal/lb/day) of water at 30% humidity, and 6 L/kg/day (0.72 US gal/lb/day) at 15% humidity.
+
+The fins become saturated in air with 30% humidity once per hour.
+
+As a rule of thumb, cooling condensation AWGs do not work efficiently when the ambient temperature falls below 65 °F (18 °C) or the re",,
+T184,Organic agriculture area in Australia,PercentageOf,More than 50% of global certified organic agriculture area in 2019,Organic farming,"In 2019, the global area dedicated to certified organic agriculture amounted to 70 million hectares (170 million acres), with more than half of this area being in Australia.
+
+Since 1990, the market for organic food and other products has grown rapidly, reaching $150 billion worldwide in 2022 – of which more than $64 billion was earned in North America and EUR 53 billion in Europe.
+
+This demand has driven a similar increase in organically managed farmland, which grew by 26.6 percent from 2021 to ",,
+T185,Solar constant (S0),HasNumericValue,1360 W/m^2,Illustrative model of greenhouse effect on climate change,"The average energy per unit time radiated out is equal to the average energy per unit time absorbed from sunlight, so:
+
+  
+    
+      
+        4
+        π
+        
+          R
+          
+            2
+          
+        
+        ⋅
+        j
+        =
+        π
+        
+          R
+          
+            2
+          
+        
+        ⋅
+        (
+        1
+        −
+        a
+        )
+        ⋅
+        
+          S
+          
+            0
+          
+        
+      
+    
+    {\displaystyle 4\pi R",,
+T186,Effluent guidelines and New Source Performance Standards,HasNumericValue,over 50 industrial categories,Pollutant,"National standards for industrial dischargers are called Effluent guidelines (for existing sources) and New Source Performance Standards, and currently cover over 50 industrial categories.",,
+T187,Naturally occurring nitrogen (N2),PercentageOf,approximately 80% of the Earth's atmosphere,Fertigation,Naturally occurring nitrogen (N2) is a diatomic molecule which makes up approximately 80% of the Earth's atmosphere.,,
+T188,Electro-chemical DAC offtake with Phlair,HasContext,By 2030,Frontier Climate,"On 7 December 2023, Frontier buyers signed enhanced weathering offtakes with Lithos Carbon (US$57.1 million; 154,240 tons to 2028).
+
+In 2024, Frontier announced multiple offtakes, including US$58.3 million with Vaulted Deep for 152,480 tons (2024–2027), US$48.6 million with Stockholm Exergi (BECCS) for deliveries in 2028–2030, and US$40 million with 280 Earth (DAC).
+
+The same year, Frontier buyers agreed the world’s first river-liming offtake with CarbonRun (US$25.4 million for 55,442 t CO2 to 2",,
+T189,Deaths in settlement with dense mangrove and scrub forest,HasNumericValue,2,Ecological values of mangroves,"Two people died in the settlement with dense mangrove and scrub forest, while up to 6,000 people died in the village without similar vegetation  This study proves that mangroves provide a natural wall, which is necessary in high impact natural disasters areas such as this one.
+
+Of the approximately 100 countries that have mangrove vegetation, around 20 have undertaken rehabilitation initiatives, establishing nurseries and attempting afforestation and re-planting in degraded areas.
+
+Around 110 co",,
+T190,Motorcycles in Tehran,EmissionOf,"149,952 tons/year",Air pollution in Iran,"However, December, November, and January saw AQI levels exceeding 100 for over 50% of the days, with December having the most unhealthy air.
+
+Emission sources
+The emission inventory released on Atmospheric air on Tehran showed that vehicular sources are responsible for a significant portion of the city's total pollution, contributing approximately 84%, compared to 16% from stationary sources.
+
+Among stationary sources, power plants are the largest emitter, releasing 40,650 tons of pollutants ann",,
+T191,Sterculia foetida,HasMaxValue,115 feet,Sterculia foetida,"Sterculia foetida is a soft-wooded tree that can grow up to 35 metres (115 feet) tall.
+
+The pollens are oval in shape, approximately 40 microns in length.",,
+T192,HVAC systems in commercial buildings in northern cities in the United States,HasPercentileValue,50% of energy used,Solar thermal energy,"High-temperature collectors concentrate sunlight using mirrors or lenses and are generally used for fulfilling heat requirements up to 300 °C (600 °F) / 20 bar (300 psi) pressure in industries, and for electric power production.
+
+In the United States, heating, ventilation, and air conditioning (HVAC) systems account for over 25% (4.75 EJ) of the energy used in commercial buildings (50% in northern cities) and nearly half (10.1 EJ) of the energy used in residential buildings.
+
+According to Solar ",,
+T193,Life cycle GHG emissions reduction requirement for new facilities,HasMinValue,20,Low-carbon fuel standard,"The final rule revises the annual renewable fuel standards, and the required renewable fuel volume continues to increase reaching 36 billion gallons (136.3 billion liters) by 2022.
+
+For 2010, EISA set a total renewable fuel standard of 12.95 billion gallons (49.0 billion liters).
+
+EPA's analysis determined that both ethanol produced from corn starch and biobutanol from corn starch comply with the 20% GHG emission reduction threshold required to classify as a renewable fuel.
+
+corn ethanol plants,",,
+T194,Rating of transformed space as good or very good,HasNumericValue,94%,Street reclamation,"The share of street space dedicated to people rose from 21% to 73%, and the pedestrian numbers in the area grew by 350%.
+
+The proportion of local residents who described themselves as feeling safe crossing the street jumped from 11% to 80%, with 94% rating the transformed space as good or very good, all while vehicle throughput across the neighborhood remained unchanged.",,
+T195,Wind speed threshold for rotational speed control,HasNumericValue,10 m/s,Wind-turbine aerodynamics,"At wind speeds above about 10m/s (where a turbine running a tip speed ratio of 9 would reach 90m/s tip speed), turbines usually do not continue to increase rotational speed for this reason, which slightly reduces efficiency.
+
+Shown below are the above momentum equations with the most common application of F:
+
+  
+    
+      
+        
+          
+            
+              
+                F
+              
+              
+                
+                =
+                
+                  
+       ",,
+T196,Cockfield Hall,HasNumericValue,40 acres,Wilderness Reserve,"Wilderness Reserve is a private estate of 8,000 acres (3,200 ha) in Suffolk's Yox Valley assembled by Jon Hunt since 1995 incorporating estates of Sibton Park, 4,500 acres (1,800 ha), Heveningham Hall, 467 acres (189 ha), Cockfield Hall, 40 acres (16 ha) and other land acquisitions within the catchments of the River Yox and Blyth Valley.
+
+The first purchase was Heveningham Hall in 1994 of 467 acres (189 ha), however but it was the later purchase of the nearby 4,500 acres (1,800 ha) Sibton Park e",,
+T197,Evolution of nitrogenase,HasNumericValue,1.5-2.2 billion years ago,Nitrogen fixation,"Evolution of nitrogenase
+Nitrogenase is thought to have evolved sometime between 1.5-2.2 billion years ago (Ga), although there is some isotopic support for nitrogenase evolution as early as around 3.2 Ga.
+
+For example, nitrogen fixation by red clover can range from 50 to 200 lb/acre (56 to 224 kg/ha).
+
+The Haber process requires high pressures (around 200 atm) and high temperatures (at least 400 °C), which are routine conditions for industrial catalysis.
+
+The ammonia product has resulted in an ",,
+T198,AC hay balers production end date,HasNumericValue,1960,Baler,"Variable-chamber large round balers typically produce bales from 48 to 72 inches (120 to 180 cm) in diameter and up to 60 inches (150 cm) in width.
+
+The bales can weigh anywhere from 1,100 to 2,200 pounds (500 to 1,000 kg), depending upon size, material, and moisture content.
+
+Common modern small round balers (also called ""mini round balers"") produce bales 20 to 22 inches (51 to 56 cm) in diameter and 20.5 to 28 inches (52 to 71 cm) in width, generally weighing from 40 to 55 pounds (18 to 25 kg)",,
+T199,Colombia ethanol mandate,PolicyOf,"10% ethanol in all gasoline sold in cities with populations exceeding 500,000",Biofuels by region,"Americas
+Brazil
+The government of Brazil hopes to build on the success of the Proálcool ethanol program by expanding the production of biodiesel which must contain 2% biodiesel by 2008, and 5% by 2013.
+
+Canada
+The government of Canada aims for 45% of the country's gasoline consumption to contain 10% ethanol by 2010.
+
+Colombia and Venezuela
+Colombia mandates the use of 10% ethanol in all gasoline sold in cities with populations exceeding 500,000.
+
+In Venezuela, the state oil company is supporting",,
+T200,Sale of Apollinaris business to Frederick Gordon (2020 equivalent),HasNumericValue,very approximately £260 million,Apollinaris (water),"Steinkopff and his co-partners sold the business in 1897 to the hotelier Frederick Gordon for nearly £2,000,000, (very approximately £260 million in 2020) receiving £1,500,000 (£200m) himself.
+
+By 1913 the company was producing 40 million bottles a year, 90% of which were exported worldwide.",,
+T201,Costs paid from reserves,HasNumericValue,4 million,Tidal power,"There were three sites determined to be financially feasible: Shepody Bay (1550 MW), Cumberland Basin (1085 MW), and Cobequid Bay (3800 MW).
+
+The project was initially budgeted at a total cost of $10 million, with half of that funding provided by the PUD out of utility reserve funds, and half from grants, primarily from the US federal government.
+
+The PUD paid for part of this project from reserves and received a $900,000 grant in 2009 and a $3.5 million grant in 2010 in addition to using reserv",,
+T202,Nurdles manufactured annually in the United States,HasNumericValue,27 million tonnes,Plastic pellet pollution,"About 230,000 tonnes of nurdles are thought to be deposited in the oceans each year, where they are often mistaken for food by seabirds, fish and other wildlife.
+
+Approximately 27 million tonnes (60 billion pounds) of nurdles are manufactured annually in the United States.
+
+One pound of pelletized HDPE contains approximately 25,000 nurdles (approximately 20 mg per nurdle).
+
+Worldwide, about 230,000 tonnes of nurdles are thought to be deposited in the oceans each year.
+
+Primary microplastics make",,
+T203,Length of the road stretch,HasNumericValue,3 blocks,Rain garden,"The street has 11% less impervious surface than a regular street.
+
+There are 100 evergreen trees and 1100 shrubs along this 3-block stretch of road, and a 2-year study found that the amount of stormwater which leaves the street has been reduced by 99%.
+
+In New Jersey, the Rutgers Cooperative Extension Water Resources Program has installed over 125 demonstration rain gardens in suburban and urban areas.
+
+According to the Massachusetts Department of Environmental Protection, rain gardens may remov",,
+T204,Variable-chamber large round balers bale weight,HasMinValue,500 kg,Baler,"Variable-chamber large round balers typically produce bales from 48 to 72 inches (120 to 180 cm) in diameter and up to 60 inches (150 cm) in width.
+
+The bales can weigh anywhere from 1,100 to 2,200 pounds (500 to 1,000 kg), depending upon size, material, and moisture content.
+
+Common modern small round balers (also called ""mini round balers"") produce bales 20 to 22 inches (51 to 56 cm) in diameter and 20.5 to 28 inches (52 to 71 cm) in width, generally weighing from 40 to 55 pounds (18 to 25 kg)",,
+T205,Cascade beginning estimate,HasContext,"Richard Crowther, 2002",Space debris,"As of January 2019, more than 128 million pieces of debris smaller than 1 cm (0.4 in), about 900,000 pieces of debris 1–10 cm, and around 34,000 of pieces larger than 10 cm (3.9 in) were estimated to be in orbit around the Earth.
+
+However, known debris with a collision chance over 1/10,000 are avoided by maneuvering the station.
+
+By the late 1990s, it was thought that most of the 28,000 launched objects had already decayed and about 8,500 remained in orbit.
+
+A 2006 NASA model suggested that if n",,
+T206,Global population comprising countries from the Global North (Atmospheric colonization concept),HasPercentileValue,19,Climate change and poverty,"According to the United Nations Development Programme, developing countries suffer 99% of the casualties attributable to climate change.
+
+Different countries' impact on climate change also varies based on their stage of development; the 50 least developed countries of the world account for a 1% contribution to the worldwide emissions of greenhouse gasses, which are a byproduct of global warming.
+
+Additionally, 92% of accumulated greenhouse gas emissions can be attributed to countries from the Gl",,
+T207,Proportion of greenhouses destroyed in Khan Younis,HasPercentileValue,around 40,Environmental impact of the Gaza war,"After 33 weeks of conflict, more than 70,000 homes in Gaza had been destroyed, leaving 1.7 million displaced people crammed into overcrowded, unsanitary areas.
+
+Despite the massive clean-up required, UNMAS has only $5 million in funding.
+
+Destruction of farmland, orchards and forests
+Before 7 October 2023, around 170 km2 (66 sq mi) of the Gaza strip was farms and orchards, 47% of Gaza's total land area.
+
+By the end of February 2024 satellite data showed that the Israeli military had destroyed mo",,
+T208,Collective contribution of SF6 and similar man-made halogenated gases to global warming,HasNumericValue,about 10% as of 2020,Sulfur hexafluoride,"Average global SF6 concentrations increased by about 7% per year during the 1980s and 1990s, mostly as the result of its use in magnesium production, and by electrical utilities and electronics manufacturers.
+
+Given the small amounts of SF6 released compared to carbon dioxide, its overall individual contribution to global warming is estimated to be less than 0.2%, however the collective contribution of it and similar man-made halogenated gases has reached about 10% as of 2020.
+
+It was reported i",,
+T209,Soviet Union denial of Mayak accident,HasNumericValue,nearly 30 years,Mayak,"Reactors
+Notes
+History
+Built in total secrecy between 1945 and 1948, the Mayak plant was the first reactor used to create plutonium for the Soviet atomic bomb project.
+
+The most notable accident occurred on 29 September 1957, when the failure of the cooling system for a tank storing tens of thousands of tons of dissolved nuclear waste resulted in a chemical (non-nuclear) explosion having an energy estimated at 75 tons of TNT (310 gigajoules).
+
+This released 740 PBq (20 MCi) of fission products, ",,
+T210,World population growth rate,HasMaxValue,2.09% in 1968,The Population Bomb,"For the 14 years prior the book's appearance, the world population had been growing at accelerating rates, but immediately after the book's publication, the world population growth rate coincidentally began a continuing downward trend, from its 1968 peak of 2.09% to 1.09% in 2018.
+
+Ehrlich observed that since about 1930 the population of the world had doubled within a single generation, from 2 billion to nearly 4 billion, and was on track to do so again.
+
+Meanwhile, the population of the world h",,
+T211,Irrigated area in the United States of America,HasNumericValue,27 million ha,Hydraulic agriculture,"India (76 million ha) and China (75 million ha) have the largest irrigated area, far ahead of the United States of America (27 million ha).
+
+China and India also had the largest net gains in equipped area between 2000 and 2020 (+21 million ha in China and +15 million ha in India).
+
+All regions saw increases in irrigated area, with Africa growing the fastest (+29%), followed by Asia (+25%), Oceania (+24%), the Americas (+19%), and Europe (+2%).
+
+The field water efficiency of drip irrigation is ty",,
+T212,Brazil wind and solar share of electricity in 2020,HasPercentileValue,10,2020 in climate change,"High northern latitudes:
+Siberia recorded its second warmest January–June temperatures on record—more than 5°C (9°F) above average—including up to 10°C (18°F) above average in June.
+
+The fire season in Sakha (Siberia) was unprecedented in the 20-year MODIS record in terms of an earlier start and northern extent, with some fires burning only about 11 km from the Chukchi Sea.
+
+April 2020 Northern Hemisphere sea ice volume was approximately 1,000 km3 below the 2010-2019 average, and October 2020 se",,
+T213,Wood industry residues,HasMinValue,79% emission savings,Biomass (energy),"Biofuels are considered traditional if they achieve up to 20% GHG emission reduction compared to the petrochemical equivalent, advanced if they save at least 50%, and cellulosic if the save more than 60%.
+
+The EU's Renewable Energy Directive (RED) states that the typical greenhouse gas emissions savings when replacing fossil fuels with wood pellets from forest residues for heat production varies between 69% and 77%, depending on transport distance: When the distance is between 0 and 2500 km, emi",,
+T214,Grain sorghum cultivation area in Africa,HasNumericValue,23.4 million hectares,Sustainable biofuel,"With grain sorghum currently grown on over 11 million hectares (ha) in Asia and on 23.4 million ha in Africa, a switch to sweet sorghum could have a considerable economic impact.
+
+According to the research, if cultivated properly, ""jatropha can deliver many benefits in Latin America and greenhouse gas reductions of up to 60 percent when compared to petroleum-based jet fuel"".
+
+As of June 2011, revised international aviation fuel standards officially allow commercial airlines to blend conventional",,
+T215,"Multnomah County, Oregon lawsuit seeking amount for past damages",HasNumericValue,50 million,Climate change litigation,"As of July 1, 2020, the number of cases has almost doubled to at least 1,550 climate change cases filed in 38 countries (39 including the courts of the European Union), with approximately 1,200 cases filed in the US and over 350 filed in all other countries combined.
+
+As of July 1, 2020, the number of cases has almost doubled to at least 1,550 climate change cases filed in 38 countries (39 including the courts of the European Union), with approximately 1,200 cases filed in the US and over 350 fi",,
+T216,Peak levels of fine particulate matter (PM) in Delhi,HasContext,2013-14,Summer smog,"One study, published in Nature magazine, found that smog episodes in the city of Jinan, a large city in eastern China, during 2011–15, were associated with a 5.87% (95% CI 0.16–11.58%) increase in the rate of overall mortality.
+
+Risk of certain birth defects
+A study examining 806 women who had babies with birth defects between 1997 and 2006, and 849 women who had healthy babies, found that smog in the San Joaquin Valley area of California was linked to two types of neural tube defects: spina bif",,
+T217,Hypoxia depth in 10-meter water column,HasMaxValue,2 meters below the surface,Hypoxia (environmental),"A ""healthy"" aquatic environment should seldom experience less than 80% saturation.
+
+It usually extends throughout 20–50% of the water column, but depends on the water depth and location of pycnoclines (rapid changes in water density with depth).
+
+For example, in a 10-meter water column, it can reach up to 2 meters below the surface.
+
+In a 20-meter water column, it can extend up to 8 meters below the surface.
+
+For most POC of phytoplankton, the k is around 12.8 years-1, or about 28 days for nearl",,
+T218,Mercury emissions baseline,HasNumericValue,48 tons annually,Mercury and Air Toxics Standards,"The Clean Air Mercury Rule (CAMR) was designed to reduce emissions of mercury from stationary power plants through a cap-and-trade system of regulations, with the goal of a 70% reduction, from 48 to 15 tons annually.
+
+The proposed cap was set to be phased in two distinct phases, the first set at 38 tons annually while the second phase, set to commence 2018, required a cap of 15 tons annually.
+
+Specifically, the proposal aims to reduce emissions from new and existing coal and oil-fired EGUs by 91",,
+T219,Cellulosic ethanol,Reduces,greenhouse gas emissions by 85% over reformulated gasoline,Cellulosic ethanol,"Cellulosic ethanol can reduce greenhouse gas emissions by 85% over reformulated gasoline.
+
+It involved the use of dilute acid to hydrolyze the cellulose to glucose, and was able to produce 7.6 liters of ethanol per 100 kg of wood waste (18 US gal (68 L) per ton).
+
+The Germans soon developed an industrial process optimized for yields of around 50 US gallons (190 L) per ton of biomass.
+
+Bush announced a proposed mandate for 35 billion US gallons (130×10^9 L) of ethanol by 2017.
+
+Later that year, t",,
+T220,Coal seam thickness criteria,HasMinValue,more than 5 metres (16 ft),Underground coal gasification,"Between 1928 and 1939, underground tests were conducted in the Soviet Union by the state-owned organization Podzemgaz.
+
+In total 6,000 tons of coal were combusted by 1953 in these experiments.
+
+The Newman Spinney project was authorised in 1957 and comprised a steam boiler and a 3.75 MW turbo-alternator to generate electricity.
+
+The high pressure combustion is conducted at temperature of 700–900 °C (1,290–1,650 °F), but it may reach up to 1,500 °C (2,730 °F).
+
+According to Andrew Beath of CSIRO E",,
+T221,Wheat yields in cropping systems,Increases,10 kg/ha for every extra millimetre of rain that is able to infiltrate due to soil structure,Soil structure,"The New South Wales Department of Land and Water Conservation suggests that in cropping systems, wheat yields can be increased by 10 kg/ha for every extra millimetre of rain that is able to infiltrate due to soil structure.",,
+T222,Basic contribution transferred to Bundesbank,HasNumericValue,€ 17.9 billion,Nuclear Waste Disposal Fund,"The fund
+On July 3, 2017, the four German nuclear power plant operators E.ON, EnBW, RWE and Vattenfall have transferred the legally stipulated basic contribution of € 17.9 billion as well as a 35 percent risk premium of € 6.2 billion to the Bundesbank.
+
+The resulting sum of € 24.1 billion euros represents the capital stock of the nuclear fund.
+
+Investments
+As of July 2018, the fund has invested about 10% of its assets.
+
+€2.5 billion had been invested in highly liquid government bonds.
+
+The remai",,
+T223,Costa Rica literacy rate,HasPercentileValue,95,Ecotourism in Costa Rica,"The tourism boom began in 1987, with the number of visitors up from 329,000 in 1988, through 1.03 million in 1999, to a historical record of 2.34 million foreign visitors in 2012.
+
+In 2012 international tourist receipts reached US$2.4 billion.
+
+In addition, American travelers make up 20% of the world’s tourism market; Costa Rica is an ideal place for Americans to visit.
+
+With its favourable climate and advantageous access by the North American market, it illustrates why 49% of foreign visitors c",,
+T224,People at risk of flooding in Bangladesh,HasNumericValue,80 million as of 2020,Climate change in Bangladesh,"Sea levels in Bangladesh are predicted to rise by up to 0.30 metres by 2050, resulting in the displacement of 0.9 million people, and by up to 0.74 metres by 2100, resulting in the displacement of 2.1 million people.
+
+As of 2020, the it was seen falling short of most of its initial targets, still leaving 80 million people at risk of flooding where it should have been reduced to 60 million people.
+
+Between 1980 and 2008, it experienced 219 natural disasters.
+
+Among them, 1987, 1985 and 1998 were ",,
+T225,El Silencio reserve expansion plot,HasNumericValue,58 hectares,This Is My Earth,"TiME raised US$35,515 on Indiegogo by August 13, 2015; 819 people from over 40 countries donated.
+
+The El Toro forest campaign, designed to purchase land in the Peruvian Amazon to protect the habitat of the Critically Endangered yellow-tailed woolly monkey (Oreonax flavicauda), managed to raise US$30,000.
+
+TiME's purchase of 700 hectares for US$17,000 inside the U-shape of the reserve was transferred to the local indigenous community of La Primavera and the local NGO, Asociación Neotropical Prim",,
+T226,Stage 2 model testing,HasContext,2013-14,CorPower Ocean,"CorPack Arrays
+CorPower plan to install arrays of about 25 devices, in what they call CorPack wave clusters.
+
+These will have a power output of about 10 MW, comparable to modern offshore wind turbines.
+
+Stages 1 and 2 comprised 1:30 and 1:16 scale model testing in 2012 and 2013-14, plus dry rig testing of a 1:3 scale power take off.
+
+The timescales for these were initially 2019 to 2022, and 2022 to 2024 respectively, however this appears to have slipped somewhat, as stage 5 has not commenced as ",,
+T227,Soil voids,HasPercentileValue,50% occupied by water,Derelict soil,"Composition
+A typical soil is about 50% solids (45% mineral and 5% organic matter), and 50% voids (or pores) of which half is occupied by water and half by gas.
+
+Atmospheric CO2 concentration is 0.04%, but in the soil pore space it may range from 10 to 100 times that level, thus potentially contributing to the inhibition of root respiration.
+
+A recent study suggested that soil is likely home to 59 ± 15% of the species on Earth.
+
+Enchytraeidae (potworms) have the greatest percentage of their spec",,
+T228,Physical half-life of uranium-238,HasNumericValue,4.468 billion years,Uranium in the environment,"The biological half-life (the average time it takes for the human body to eliminate half the amount in the body) for uranium is about 15 days.
+
+Uranium is weakly radioactive and remains so because of its long physical half-life (4.468 billion years for uranium-238).
+
+Seawater contains about 3.3 parts per billion (3.3 μg/kg of uranium by weight or 3.3 micrograms per liter).
+
+During a three-week period of conflict in 2003 in Iraq, 1,000 to 2,000 tonnes of DU munitions were used.
+
+In 2020, there we",,
+T229,Philippines installed geothermal capacity,HasCapacity,1.9 GW,Renewable energy commercialization,"There are now three hydroelectricity plants larger than 10 GW: the Three Gorges Dam in China, Itaipu Dam across the Brazil/Paraguay border, and Guri Dam in Venezuela.
+
+Estimates for the world potential capacity for geothermal power generation vary widely, ranging from 40 GW by 2020 to as much as 6,000 GW.
+
+Geothermal power capacity grew from around 1 GW in 1975 to almost 10 GW in 2008.
+
+The United States is the world leader in terms of installed capacity, representing 3.1 GW.
+
+Other countries wi",,
+T230,Earth's resource usage,HasPercentileValue,171% of capacity,Ecological footprint,"The increase of biocapacity averaged at only 0.5% per year (SD = 0.7).
+
+Because of agricultural intensification, biocapacity was at 9.6 billion gha in 1961 and grew to 12.2 billion gha in 2016.
+
+According to the Global Footprint Network's calculations, currently people use Earth's resources at approximately 171% of capacity.
+
+Currently, more than 85% of humanity lives in countries that run an ecological deficit.
+
+In some cases, countries are running an ecological deficit because their per capita",,
+T231,Funding for the nine Catapults,HasGrowthRate,35% increase,Energy Systems Catapult,"The UK Government subsequently funded Innovate UK (then the Technology Strategy Board and now part of UK Research and Innovation) to establish what became known as the Catapult Network, setting up a total of nine centres between 2011 and 2018.
+
+Funding
+In August 2018, the Government announced funding totalling £780 million to be provided to several of the centres, over the next five years.
+
+In November 2022, during the Autumn Statement, the Government announced a 35% increase in funding for the ",,
+T232,Planet's terrestrial surface,HasPercentileValue,3% ecologically and faunally intact,Defaunation,"In 2016, it was estimated that by 2020, 68% of the world's wildlife would be lost.
+
+A 2021 study found that only around 3% of the planet's terrestrial surface is ecologically and faunally intact, with healthy populations of native animal species and little to no human footprint.
+
+In November 2017, over 15,000 scientists around the world issued a second warning to humanity, which, among other things, urged for the development and implementation of policies to halt ""defaunation, the poaching crisi",,
+T233,Bulgaria initial PMR implementation project,HasNumericValue,58 small protected areas,Plant micro-reserve,"A micro-reserve centers around a single habitat or plant habitat, and is usually smaller than 20 hectares.
+
+In Latvia, the existing program of Woodland Key Habitats (WKHs) was adapted into a network of PMRs that received funding to purchase private land for reserves from 2001 to 2011.
+
+In Crete and Spain, they are considered to be reserves with an area of less than 20 hectares, while elsewhere in the Mediterranean the upper limit is 100 hectares.
+
+Around 12% of the reserves are PMRs dedicated to",,
+T234,Cuban coffee grown without chemicals,HasPercentileValue,72,Organopónicos,"Overall, however, approximately 16% of food is imported from abroad.
+
+No chemicals are used in 68% of Cuban corn, 96% of cassava, 72% of coffee and 40% of bananas.
+
+Between 1998 and 2001, chemicals were reduced by 60% in potatoes, 89% in tomatoes, 28% in onion and 43% in tobacco.
+
+State farms of various kinds hold 75% of Cuba's 6.7m hectares of agricultural land.
+
+In 2007 some 45% of this was lying idle, much of it overrun by marabú, a tenacious weed.",,
+T235,Global area dedicated to certified organic agriculture,HasNumericValue,70 million hectares in 2019,Organic farming,"In 2019, the global area dedicated to certified organic agriculture amounted to 70 million hectares (170 million acres), with more than half of this area being in Australia.
+
+Since 1990, the market for organic food and other products has grown rapidly, reaching $150 billion worldwide in 2022 – of which more than $64 billion was earned in North America and EUR 53 billion in Europe.
+
+This demand has driven a similar increase in organically managed farmland, which grew by 26.6 percent from 2021 to ",,
+T236,Domestication of plant species by humans,HasContext,"began about 10,000 years ago",Germplasm,"However, only about 5% of current germplasm resources are living samples.
+
+Conservation efforts
+About 10,000 years ago is when humans began to domesticate plant species for the purpose of food, seeds, and vegetation.",,
+T237,Gap between Forest raven populations at Dorrigo,HasNumericValue,30 km,Forest raven,"Description
+The largest of the Australian corvids, the adult forest raven is 50–53 cm (20–21 in) long with a wingspan of 91–113 cm (36–44 in) and weighing approximately 650 g (1.43 lb).
+
+The gap between the two populations is around 70 km (43 mi), shrinking to 30 km (19 mi) at Dorrigo.
+
+A single breeding pair and their brood occupy a territory of variable size – areas of 40 to 400 ha (99 to 988 acres) have been recorded – and remains there year-round, though groups of ravens may enter this area ",,
+T238,Thermal Energy Storage,HasNumericValue,400 °C storage temperature,Andasol solar power station,"Each unit fully loaded storage system holds 1,010 MW·ht of heat, enough to run the turbine and produce electricity for about 7.5 hours at full-load, in case of overcast skies or after sunset.
+
+Andasol 1 is able to supply environmentally friendly solar electricity for up to 200,000 people.
+
+The total cost of building the three projects was estimated at €900 million.
+
+Rationale
+Andasol 1 cost around €300 million (US$380 million) to build.
+
+Thermal energy storage costs roughly US$50 per kWh of capa",,
+T239,Deboullie Public Land,HasNumericValue,"21,871 acres",Deboullie Public Lands,"Deboullie Public Land is a 21,871 acres (8,851 ha) public land reserve in northwestern Aroostook County, Maine.
+
+370 million years ago molten rock emerged through layers of slate to create the mountain tops.",,
+T240,Afedena exclosure area,HasNumericValue,70 ha,EthioTrees,"In 2018, it managed 18 million exclosures comprising over 1500 ha.
+
+EthioTrees’ exclosures
+The EthioTrees project manages these exclosures:
+
+Addi Lihtsi, near the village of Addi Lihtsi (412 ha)
+Addi Meles, near the village of Migichi (65 ha)
+Addilal, near the village of Addilal (144.81 ha)
+Afedena, near the village of Afedena (70 ha)
+Ch'elaqo, near the village of Ch'elaqo (50 ha)
+Gemgema, near the village of Tsigaba (92 ha)
+Kidmi Gestet, near the village of Gestet (46 ha)
+Lafa, near the village",,
+T241,Gross value added by crofting,HasNumericValue,£588 million,Crofting,"There were 770,000 hectares under crofting tenure, roughly 25% of the agricultural land area in the Crofting Counties.
+
+Crofters held around 20% of all beef cattle (120,000 head) and 45% of breeding ewes (1.5 million sheep).
+
+A report prepared for the Crofting Commission concluded in September 2024 that crofting created approximately £588 million in gross value added and supported 30,385 jobs.
+
+The staff is of approximately 70 civil servants with their Chief Executive appointed by the Scottish M",,
+T242,Debris avalanche speed,HasMinValue,>5 m/s,Landslide classification,"If the weight of the particles with a diameter greater than 2 mm is less than 20%, the material will be defined as earth; in the opposite case, it is debris.
+
+The lower boundary of displaced mass may be a surface along which appreciable differential movement has taken place or a thick zone of distributed shear (Cruden & Varnes, 1996)
+
+Flows in rock
+Rock Flow
+Description: ""Flow movements in bedrock include deformations that are distributed among many large or small fractures, or even microfractur",,
+T243,Difference between high and low fuel economy values,HasNumericValue,8 or 9%,Fuel efficiency,"In a number of countries still using other systems, fuel economy is expressed in miles per gallon (mpg), for example in the US and usually also in the UK (imperial gallon); there is sometimes confusion as the imperial gallon is 20% larger than the US gallon so that mpg values are not directly comparable.
+
+The difference between the high and low values is significant, about 8 or 9%.
+
+(This is given by the change in Gibbs free energy, and is around 45.7 MJ/kg for gasoline.) The actual amount of me",,
+T244,ECE 15/05 norms (cars 1.4-2.0 liters),HasContext,applied in October 1991 and October 1993,Emission standard,"Three years later Japan enacted their first emissions rules, followed between 1970 and 1972 by Canada, Australia, and several European nations.
+
+Regulations on nitrogen oxide emissions (NOx) were introduced in the United States, Japan, and Canada in 1973 and 1974, with Sweden following in 1976 and the European Economic Community in 1977.
+
+The grace period depends on the vehicle type, as follows:
+
+Light commercial vehicles (GVW ≤ 2500 kg): 8 years
+Heavy commercial vehicles (GVW > 2500 kg): 9 year",,
+T245,Solana Generating Station electricity output,HasNumericValue,"enough to meet the needs of approximately 70,000 homes",Solana Generating Station,"The Solana Generating Station is a solar power plant near Gila Bend, Arizona, about 70 miles (110 km) southwest of Phoenix.
+
+Built by the Spanish company Abengoa Solar, the project can produce up to 280 megawatts (MW) gross, supplied by two 140 MW gross (125 MW net) steam turbine generators: enough electricity to meet the needs of approximately 70,000 homes and obviate the emission of roughly 475,000 tons of CO2 every year.
+
+Technology
+The plant employs a proprietary concentrating solar power (C",,
+T246,Albumin,PercentageOf,13% of total protein content in hemp seeds,Hemp,"In the UK, the Department for Environment, Food and Rural Affairs treats hemp as a purely non-food crop, but with proper licensing and proof of less than 0.3% THC concentration, hemp seeds can be imported for sowing or for sale as a food or food ingredient.
+
+Nutrition
+Hulled hemp seeds are 5% water, 5% carbohydrates, 49% fat, and 32% protein (table).
+
+In a reference amount of 100 grams (3.5 oz), hulled hemp seeds supply 533 calories of food energy, and are a rich source (20% or more of the Daily",,
+T247,Kyoto Protocol (1997),HasNumericValue,160 countries,Climate target,"Targets for 2008 to 2012: In the Kyoto Protocol of 1997, 160 countries committed to reducing their greenhouse gas emissions by an average of 5.2 percent over the period 2008 to 2012 compared to 1990 levels.
+
+Targets for 2013 to 2020: In the Doha amendment to the Kyoto Protocol, slightly fewer I countries committed to reducing their emissions by at least 18 percent in the period 2013 to 2020 compared to 1990.
+
+2030 National Greenhouse Gas Reduction Target (NDC)
+When the Paris Agreement was adopte",,
+T248,Lucens reactor,HasCapacity,6 MW,Lucens reactor,"The Lucens reactor was a 6 MW experimental nuclear power reactor built next to Lucens, Vaud, Switzerland.
+
+It produced 28 MW of heat, which was used to generate 6 MW of electricity, and it became critical 29 December 1966.
+
+It was fueled by 0.96% enriched uranium alloyed with chromium cased in magnesium alloy (magnesium with 0.6% zirconium) inserted into a graphite matrix.",,
+T249,Additional damages ordered,HasNumericValue,US$92,Make the World Greta Again,"She was found guilty for the earlier incident and ordered to pay fines totalling SEK 4,500 (equivalent to $414).
+
+We strongly believe that Baillie Gifford are part of the solution to the climate emergency."" In its response, Baillie Gifford said that it was not a significant fossil fuel investor, with 2% of its clients' money being invested in companies with some business related to fossil fuels while the market average was 11%.
+
+A Swedish court convicted her and she was fined kr 6,000 (equivalen",,
+T250,Measurement network,HasNumericValue,about 10 snow pits,Glacier mass balance,"Currently this measurement network comprises about 10 snow pits and about 50 ablation stakes distributed across the glacier.
+
+In terms of the cumulative specific balances, Hintereisferner experienced a net loss of mass between 1952 and 1964, followed by a period of recovery to 1968.
+
+Hintereisferner reached an intermittent minimum in 1976, briefly recovered in 1977 and 1978 and has continuously lost mass in the 30 years since then.
+
+The data was used to show that between 1976 and 2005 there was ",,
+T251,Countries with sites identified by TSIP investigators,HasNumericValue,Over 50,Pure Earth,"The program has trained over 500 pollution investigators and 90 government representatives worldwide, who have identified and mapped over 5000 toxic hotspots in communities around the world.
+
+In 2020, Pure Earth and UNICEF issued an urgent call to protect 800 million children poisoned by lead, following the publication of their joint report: The Toxic Truth: Children’s exposure to lead pollution undermines a generation of potential.
+
+To date, TSIP investigators have identified more than 3,100 si",,
+T252,Power delivery duration,HasNumericValue,24 hours a day,Copiapó Solar Project,"The Copiapó Solar Project is a 390 megawatt (MW) net solar thermal power project to be located near Copiapó, about 65 kilometers east of the coastal town of Caldera.
+
+The Copiapó project will comprise two 120 megawatt (MW), 130 MW gross) solar thermal towers with up to 14 hours thermal storage, combined with 150 MW of PV.
+
+The hybrid project will deliver over 1,700 gigawatt-hours (GW·h) annually, as non-intermittent baseload power, 24 hours a day.
+
+At the 2017-01 auction, SolarReserve bid $63/MW",,
+T253,Yearly crop yield of 30-storey vertical farming building,HasComparison,"analogous to 2,400 acres of traditional farming",Vertical farming,"Globally some 30% of harvested crops are wasted due to spoilage and infestation, though this number is much lower in developed nations.
+
+Despommier suggests that once dwarf versions of crops (e.g., dwarf wheat which is smaller in size but richer in nutrients), year-round crops and ""stacker"" plant holders are accounted for, a 30-storey building with a base of a building block (2 hectares or 5 acres) would yield a yearly crop analogous to that of 1,000 hectares (2,400 acres) of traditional farming",,
+T254,Thylacine genome,HasNumericValue,99.9% accuracy,Colossal Biosciences,"In October 2024, the company announced that it had rebuilt a 99.9% accurate genome of the thylacine, using a ""pickled"" 110-year-old fossilized Tasmanian tiger skull.
+
+Save the Elephants has already tracked over 900 elephants in the area, using drones equipped with high-resolution infrared cameras.",,
+T255,Decay heat of spent nuclear fuel,HasPercentileValue,0.2% after one week,Spent nuclear fuel,"After a day, the decay heat falls to 0.4%, and after a week it will be 0.2%.
+
+The half-life is long, around 30 years, and is classified as high-level waste.
+
+For example 10 years after removal from a reactor, the surface dose rate for a typical spent fuel assembly still exceeds 10,000 rem/hour—far greater than the fatal whole-body dose for humans of about 500 rem received all at once.",,
+T256,Combined peak power of windmills in Denmark,HasCapacity,about 30 MW,History of wind power,"The connected dynamo was used either to charge a bank of batteries or to operate up to 100 incandescent light bulbs, three arc lamps, and various motors in Brush's laboratory.
+
+In Denmark there were about 2,500 windmills by 1900, used for mechanical loads such as pumps and mills, producing an estimated combined peak power of about 30 MW.
+
+In the American midwest between 1850 and 1900, a large number of small windmills, perhaps six million, were installed on farms to operate irrigation pumps.
+
+By",,
+T257,Time to reach 4 billion humans,HasNumericValue,14 years,Human overpopulation,"By 1940, this figure had increased to 2.3 billion.
+
+Even more dramatic growth beginning in 1950 (above 1.8% per year) coincided with greatly increased food production as a result of the industrialization of agriculture brought about by the Green Revolution.
+
+The rate of human population growth peaked in 1964, at about 2.1% per year.
+
+Recent additions of a billion humans happened very quickly: 33 years to reach three billion in 1960, 14 years for four billion in 1974, 13 years for five billion in",,
+T258,Identified plant and animal species,HasNumericValue,More than 2 million,Nature,"More than 2 million species of plant and animal life have been identified to date, and estimates of the actual number of existing species range from several million to well over 50 million.
+
+Evolution
+The origin of life on Earth is not well understood, but it is known to have occurred at least 3.5 billion years ago, during the hadean or archean eons on a primordial Earth that had a substantially different environment than is found at present.
+
+And according to a 2021 study published in Frontiers",,
+T259,EU mandatory reduction targets for plastic packaging,HasPolicyTarget,15% by 2040,Waste minimisation,"More generally, the EU has set mandatory reduction targets for plastic packaging have been set as follows: 5% by 2030, 10% by 2035 and 15% by 2040.",,
+T260,"Marine debris in Halifax Harbour, Nova Scotia",PercentageOf,14% from sewage disposal,Marine debris,"In Halifax Harbour, Nova Scotia, 52% of items were generated by recreational use of an urban park, 14% from sewage disposal and only 7% from shipping and fishing activities.
+
+In 2013, debris from six beaches in Korea was collected and analyzed:  56% was found to be ""ocean-based"" and 44%  ""land-based"".
+
+On the remote sub-Antarctic island of South Georgia, fishing-related debris, approximately 80% plastics, are responsible for the entanglement of large numbers of Antarctic fur seals.
+
+Thirteen com",,
+T261,Earth's land area covered by agricultural land,HasPercentileValue,34,Causes of climate change,"Land surface changes
+According to Food and Agriculture Organization, around 30% of Earth's land area is largely unusable for humans (glaciers, deserts, etc.), 26% is forests, 10% is shrubland and 34% is agricultural land.
+
+Deforestation is the main land use change contributor to global warming, Between 1750 and 2007, about one-third  of anthropogenic CO2 emissions were from changes in land use - primarily from the decline in forest area and the growth in agricultural land.
+
+Between 2001 and 2018",,
+T262,Isotope 224Rn half-life,HasNumericValue,1.8 hours,Radon,"About 2,900 of these deaths occur among people who have never smoked.
+
+At standard temperature and pressure, it forms a monatomic gas with a density of 9.73 kg/m3, about 8 times the density of the Earth's atmosphere at sea level, 1.217 kg/m3.
+
+A trace amount of the (highly unstable) isotope 218Rn (half-life about 35 milliseconds) is also among the daughters of 222Rn.
+
+Three other radon isotopes have a half-life of over an hour: 211Rn (about 15 hours), 210Rn (2.4 hours) and 224Rn (about 1.8 hours",,
+T263,Available osmotic power in Norway (Statkraft calculation),HasMaxValue,2.85 GW,Osmotic power,"Efficiency
+A 2012 study on efficiency from Yale University concluded that the highest extractable work in constant-pressure PRO with a seawater draw solution and river water feed solution is 0.75 kWh/m3 (2.7 kJ/L) while the free energy of mixing is 0.81 kWh/m3 (2.9 kJ/L) — a thermodynamic extraction efficiency of 91.0%.
+
+This method is being specifically studied by the Norwegian utility Statkraft, which has calculated that up to 2.85 GW would be available from this process in Norway.
+
+The team c",,
+T264,Non-transmittable diseases among Chinese,HasStatistic,cause at least 80% of 10.3 million annual deaths,Environmental protection,"Another issue is that non-transmittable diseases among Chinese, which cause at least 80% of 10.3 million annual deaths, are worsened by air pollution.
+
+China has taken initiatives to increase its protection of the environment and combat environmental degradation:
+
+China's investment in renewable energy grew 18% in 2007 to $15.6 billion, accounting for ~10% of the global investment in this area;
+In 2008, spending on the environment was 1.49% of GDP, up 3.4 times from 2000;
+The discharge of CO (ca",,
+T265,Water flow rate,HasNumericValue,41 tonnes of water per second,Energy tower (downdraft),"Pumping the water requires about 50% of the turbine's output.
+
+Zaslavsky claims that the Energy Tower would achieve up to 70-80% [3] of the Carnot limit.
+
+Actual measurements on the 50 kW Manzanares pilot solar updraft tower found a conversion efficiency of 0.53%, although SBP believe that this could be increased to 1.3% in a large and improved 100 MW unit.[8] This amounts to about 10% of the theoretical limit for the Carnot cycle.
+
+A 400-meter diameter powerplant producing wind velocity of 22 m",,
+T266,Swimming pool at Diana hotel in Goris,VolumeOf,180 cubic meters,Solar power in Armenia,"A 55 MW utility-scale solar power plant will be built near Mets Masrik in Gegharkunik province, requiring an investment of about $50 million.
+
+Consumers are allowed to install solar panels with total power of up to 150 kW, and may sell any surplus to electricity distribution company Electric Networks of Armenia (ENA).
+
+Thermal solar
+In Armenia, solar thermal collectors, or water-heaters, are produced in standard sizes (1.38-4.12 square meters).
+
+The biggest solar water-heater in Armenia is locat",,
+T267,Yard trimmings used in the mound,HasNumericValue,over 11 tons,Hügelkultur,"The beds are usually about 3 by 6 feet (0.91 by 1.83 m) in area and about 3 feet (0.91 m) high.
+
+It was found that over 11 tons of yard trimmings were used in the mound, and no evidence of macronutrient deficiency could be detected in the crops in the short term.
+
+Over 3 months of measurements, water concentration in hügel mounds remained high.
+
+It was suggested that 1 ha (2+1⁄2 acres) of hügels has 3-10 times more water than a flat plot affected by karst rocky desertification.
+
+This gives the b",,
+T268,Energy slaves per capita,HasNumericValue,17,Energy slave,"For a world population of just over two billion people (2 125 000 000 exactly), Fuller estimates that there are thirty-six billion energy slaves at the time, representing 17 per capita.
+
+In 1940, these energy slaves were not equitably distributed around the world: the United States owned twenty billion of them (54% of the world total).
+
+He produces an average power output of 100 W (876 kWh per year).""
+In France, the term energy slave is used by Jean-Marc Jancovici and has been studied by the his",,
+T269,Renewable Energy,HasPercentileValue,almost 80% of the world's energy supply within four decades,Renewable Energy Sources and Climate Change Mitigation,"The IPCC said that if governments were supportive, and the full range of renewable technologies were deployed, renewable energy could account for almost 80% of the world's energy supply within four decades.
+
+Rajendra Pachauri, chairman of the IPCC, said the necessary investment in renewables would cost only about 1% of global GDP annually.",,
+T270,S100 prototype model,HasCapacity,"10,800 liters of drinking water per day",Omni processor,"An omni processor mitigates unsafe methods in developing countries of capturing and treating human waste, which annually result in the spread of disease and the deaths of more than 1.5 million children.
+
+This system demonstrated a significant reduction in greenhouse gas emissions while reducing solids volume by over 90% and producing biochar.
+
+The S100 prototype model can produce 10,800 liters of drinking water per day and 100 kW net electricity.
+
+A larger model under development, the S200, is d",,
+T271,Children's petition sent by Humboldt County Federation of Women’s Clubs,HasContext,1908,Save the Redwoods League,"The League has protected more than 200,000 acres (810 km2) of forestland.
+
+It was in 1908 that the Humboldt County Federation of Women’s Clubs sent a children's petition with over 2,000 signatures to the U.S.
+
+Major League acquisitions and projects the League supported in the 1930s included the 9,400-acre Rockefeller Forest addition to Humboldt Redwoods State Park, Calaveras North Grove of giant sequoias for Calaveras Big Trees State Park, and 8,252 acres for Prairie Creek Redwoods State Park.
+
+",,
+T272,"Average per capita calorie consumption in Canada, USA, and Europe",HasAverageValue,around 3400 calories daily,Geography of food,"At the infections peak, there were over 1000 larvae per square meter.
+
+Agricultural practices use the bulk of the Earth's fresh water – up to 70 percent – and those numbers are predicted to rise by 50-100 percent by 2025.
+
+Canada, USA, and Europe consume the highest amount of calories with an average per capita consumption of around 3400 calories daily.
+
+The recommended daily caloric intake for men and women living in these areas is 2500 and 2000 respectively.
+
+In the world today, there are over",,
+T273,United States gross virtual water import,HasNumericValue,234 billion m3/year,Water footprint,"The global water footprint related to producing goods for export is 1.762 billion m3/y.
+
+In absolute terms, India is the country with the largest water footprint in the world, a total of 987 billion m3/yr.
+
+Italy, Germany, the UK and the Netherlands—have external water footprints that constitute 50–80% of their total water footprint.
+
+The top 10 gross virtual water exporting nations, which together account for more than half of the global virtual water export, are the United States (314 billion ",,
+T274,Peoples' Climate Vote 2024 survey,HasNumericValue,15 questions on climate change,Public opinion on climate change,"A 2021 survey conducted by the Institute of Economic Affairs (IEA) found that 75% of young British (16-24) respondents agreed with the view that climate change was a specifically capitalist problem.
+
+Over 73,000 people speaking 87 different languages across 77 countries were asked 15 questions on climate change for the Peoples' Climate Vote 2024, a public opinion survey on climate change, which was conducted for the UN Development Programme (UNDP) with the University of Oxford and GeoPoll.
+
+This",,
+T275,Plautus,HasNumericValue,254-184 BCE,Cloacina,"Unlike modern sewers, the system very likely did not receive human waste from private or public latrines
+
+Functions
+Worship of Cloacina is attested to as early as Plautus (254-184 BCE) in his play Curculio, which was likely written around 197-194 BCE.
+
+The structure very likely dates to Sulla's reign, around 80 BCE.",,
+T276,Coal consumption in China,HasContext,2013,Coal phase-out,"Since this decline in coal consumption was achieved despite economic growth of 7.3% and 6.9%, respectively, thereby decoupling growth from coal consumption, some researchers regard this decline as a permanent trend reversal in Chinese energy policy and an important step in global climate protection efforts.
+
+In 2013, a total of approximately 1.6 million people died in China from air pollution, a large proportion of which was caused by energy supply.
+
+This was particularly evident after the 'poll",,
+T277,Spent wash usage for 100 meters of windrow,HasNumericValue,415 m³,Windrow composting,"For each liter of alcohol produced, around 8 liters of effluent is generated.
+
+Sugar factories generate pressmud / cachaza during the process and the same has about 30% fibers as carbon and has large amounts of water.
+
+These machines help consume spent wash of about 2.5 times of the volume of the pressmud, which means that 100 meters of windrow accommodates about 166 MT of pressmud and uses about 415 m³ of spent wash in 50 days.
+
+Microbial Culture (organic solution) TRIO COM-CULT is used about 1",,
+T278,"Vessels covered by regulations (Navy, Coast Guard, Marine Corps, Army, Military Sealift Command, and Air Force)",HasNumericValue,"over 7,000",Vessels General Permit,"Navy, but the regulations also cover vessels of the Coast Guard, Marine Corps, Army, Military Sealift Command, and Air Force, totalling over 7,000 vessels.
+
+The ship operator pleaded guilty to violating APPS and was fined $1.65 million US and ordered to ""implement a comprehensive Environmental Compliance Plan."" The first assistant engineer was convicted of violating APPS, obstruction and witness tampering; and sentenced to a $2,500 fine, along with three years of probation and 200 hours of commu",,
+T279,Effective area latitude,HasNumericValue,around 60 degrees off the equator,Illustrative model of greenhouse effect on climate change,"For comparison, in the northern hemisphere, the arctic sea ice has shrunk between 1979 and 2015 by 1.43×1012 m2 at maxima and 2.52×1012 m2 at minima, for an average of almost 2×1012 m2, which is 0.4% of Earth's total surface of 510×1012 m2.
+
+The areas of inland glaciers combined (not including the antarctica ice sheet), the antarctic sea ice, and the arctic sea ice are all comparable, so one may expect the change in ice of the arctic sea ice is roughly a third of the total change, giving 1.2% of",,
+T280,Lower Churchill Project original estimated cost,HasNumericValue,$40 billion,Boondoggle,"Target Canada opened 133 stores starting in 2013 but shut down completely after two years, producing a write-down for its parent company of over 5 billion US dollars.
+
+The fiasco was set into motion by Target acquiring almost $2 billion worth of leases from the defunct retailer Zellers, which compelled Target to hurriedly open more than 100 stores without a working supply chain in place.
+
+The Lower Churchill Project in Newfoundland and Labrador, slated for completion in 2021, overran its initial",,
+T281,MARPOL 73/78 treaty adoption years,HasNumericValue,1973 and 1978,Marine pollution,"The EPA reports that in 2014 Americans generated about 258 million tons of waste, and only a third was recycled or composted.
+
+In 2015, there was over 8 million tons of plastic that made it into the ocean.
+
+In 1973 and 1978, MARPOL 73/78 was a treaty written to control vessel pollution, especially regarding oil.",,
+T282,Projected installed capacity from French solar canopy law,HasCapacity,6.75–11.25 gigawatts,Solar canopy,"Solar canopy parking lots
+The mounting structure makes solar canopy parking lots 50% to twice as expensive to build as traditional grass field solar arrays, but as distributed energy resources they avoid transmission congestion and losses.
+
+A French law passed in 2023 will require parking lots larger than 50,000 square feet (4,600 m2) to build solar canopies covering half their area.
+
+This could result in installed capacity of 6.75–11.25 gigawatts, at a cost of $8.7–14.6 billion.
+
+In 2022, the w",,
+T283,Chemicals used in response to SS Torrey Canyon oil spill,VolumeOf,9.5 megalitres,Corexit,"An estimated 2.5 million US gallons (9.5 megalitres) of chemicals were used in response to the supertanker SS Torrey Canyon oil spill in the United Kingdom in 1967.
+
+and the Enjay Chemical Company (a subsidiary of the Standard Oil Company of New Jersey) each announced the development of Corexit 7664, describing it as non-toxic to marine life- even to shrimp at concentrations of 1% per volume of seawater.
+
+45,000 litres of Corexit 9500 and 9527 were used in the response to the Montara oil spill o",,
+T284,Nuclear fuel bank facility funding,HasNumericValue,150 million,Nuclear fuel bank,The facility was wholly funded by IAEA member states and other contributions for a total of $150 million.,,
+T285,Target for stemming loss of coral reefs,HasPolicyTarget,50 percent by 2030,Ecosystem valuation,"He and his colleagues calculated that such services were worth $33 trillion annually ($44 trillion present dollars).
+
+The continued over-exploitation of ecosystems thus comes at the expense of the livelihood of the poor and future generations.""
+The Economics of Ecosystems and Biodiversity (TEEB), in one of its first large, cumulative reports, also found that ecosystem services start at roughly $100/hectare/year for open ocean, and top off to more than $1,000,000/hectare/year for the most lucrati",,
+T286,China (PRC) PV additions,HasCapacity,276.8 GW,Statute of the International Renewable Energy Agency,"In 2024, Asia added 413.2 GW of renewable capacity – a 24.9% increase that brought the region's total to 2.37 TW.
+
+China (PRC) accounted for 61.2% of global PV additions (+ 276.8 GW) and 69.4% of new wind installations (+ 79.4 GW).
+
+91% of new renewable power projects commissioned in 2024 were more cost-effective than any fossil fuel-fired alternative.
+
+2026
+The 2026 report found that renewables accounted for 85.6% of new electricity generation capacity globally in 2025, 692 GW, with PV providin",,
+T287,Particles with positive charge,HasMinValue,diameter over 500 μm,Evolution of deserts,"These grains of sand, up to about 0.5 mm (0.020 in) in diameter are jerked into the air but soon fall back to earth, ejecting other particles in the process.
+
+The sand streams along above the surface of the ground like a fluid, often rising to heights of about 30 cm (12 in).
+
+Such electric fields, which range in size up to 80 kV/m, can produce sparks and cause interference with telecommunications equipment.
+
+The mechanism is little understood but the particles usually have a negative charge when",,
+T288,Demand reduction by services like Zipcar in the United States,HasNumericValue,"about 500,000 cars",Car dependency,"By the dawn of the 1940s, America had fully embraced the automobile, with 88% of US households owning a car by 1941.
+
+In the United States, for instance, registered vehicles increased from 8,000 in 1900 to more than 20 million in 1927.
+
+Research has shown that in the United States, services like Zipcar have reduced demand by about 500,000 cars.
+
+Car use was also higher in superblocks, where 33% of trips were by car, compared with less than 8% in other areas.",,
+T289,Price of agricultural products such as beef and dairy,Decreases,by almost 1%,Environmental finance,"The New Zealand Emissions Trading Scheme of 2008 was modelled to increase annual household energy expenditure to 0.8% and increase fuel prices by approximately 6%.
+
+The price of agricultural products such as beef and dairy were modelled to decrease by almost 1%.
+
+In 2016, the Québec Cap-and-trade scheme was responsible for an 11% reduction in emissions compared to 1990 emission levels.
+
+Due to the associated increased energy costs, fuel prices rose 2-3 cents per litre over the duration of the ca",,
+T290,People who only spoke English at home,HasPercentileValue,86.2%,Duffys Forest,"70.5% of people were born in Australia and 86.2% of people only spoke English at home.
+
+The most common responses for religion were No Religion 43.4%, Catholic 23.4% and Anglican 18.1%.",,
+T291,Global renewable energy market,HasNumericValue,$881.7 billion in 2020,Renewable energy industry,"In 2020, the global renewable energy market was valued at $881.7 billion  and consumption grew 2.9 EJ.
+
+Overview
+Global efforts towards achieving net-zero emissions and transitioning to 100% renewable energy have accelerated growth across renewable sectors, particularly solar, wind, and lithium-ion battery manufacturing.
+
+In 2022, China produced 2,673,556 GW of energy from renewable sources, followed by the United States with 981,697 GW.
+
+biofuel producers VeraSun Energy, Aventine and Pacific Et",,
+T292,CO2 emissions caused by human cultivation of peatlands (1750-2018),HasGrowthRate,increased by 18%,2021 in climate change,"20 May: The Arctic Monitoring and Assessment Programme reported that, from 1971 to 2019, the annually averaged Arctic near-surface air temperature increased by 3.1 °C, three times faster than the global average.
+
+21 May: a study published in Geophysical Research Letters reported that, despite greater raw warming in high latitudes, the tropics have greater normalized warming and actually experienced more record-breaking heat events from 1960 to 2019.
+
+24 May: a study published in Nature Geoscienc",,
+T293,Ethiopia tree planting event,HasNumericValue,353 million trees,Trillion Tree Campaign,"Currently, forests in the country absorb 15% of its carbon emissions.
+
+This can rise to 27% with responsible reforestation.
+
+See also
+Ecosia
+
+References
+Bibliography
+Ian Horswill — Ethiopia plants 353 million trees in 12 hours, published by CEO Magazine 30 July 2019
+Project Drawdown (see also: Drawdown (climate))
+
+External links
+Official website
+Plant-for-the-Planet official website
+Plant-for-the-Planet Foundation.",,
+T294,EU ETS allowance,HasNumericValue,1 ton of CO2 (tCO2),European Union Emissions Trading System,"A 2020 study showed that between 2008 and 2016 the ETS reduced CO2 emissions by 11.5% in covered sectors despite low carbon price.
+
+A 2024 study estimate the emission reduction effect at 7%.
+
+According to a 2023 study the ETS, reduced emissions by 10% between 2005 and 2012 with no impacts on profits or employment for regulated firms.
+
+Setup
+The EU Emission Trading System follows the cap and trade model where one allowance permits the holder to emit 1 ton of CO2 (tCO2).
+
+The scheme was said to co",,
+T295,Global catchment areas with lower than normal river discharges,HasPercentileValue,More than 50% for 3 years in a row,Effects of climate change on the water cycle,"Fundamental laws of physics explain how the saturation vapor pressure in the atmosphere increases by 7% when temperature rises by 1 °C.
+
+This relation between temperature and saturation vapor pressure is described in the Clausius–Clapeyron equation, which states that saturation pressure will increase by 7% when temperature rises by 1 °C.
+
+The IPCC AR5 concludes that tropospheric water vapor has increased by 3.5% over the last 40 years, which is consistent with the observed temperature increase o",,
+T296,Recommended international carbon dioxide equivalent concentration,HasNumericValue,450 ppm,Garnaut Climate Change Review,"The ETS could have a transitional phase from 2010 to 2012
+Permits could be sold at a ""low, fixed"" price during the transitional phase.
+
+$3 billion per year or 20% of the revenue raised from auctioning permits (whichever is greatest) should be allocated to low-emissions technology R&D
+The Building Australia Fund should also be used for energy infrastructure.
+
+The report recommended that Australia push internationally for a carbon dioxide equivalent concentrations of 450 ppm, which would commit Au",,
+T297,Water required to produce one pound of beef in California,HasNumericValue,"2,464 gallons",Environmental vegetarianism,"Livestock as a whole is estimated to be responsible for around 15% of global greenhouse gas emissions.
+
+The FAO report estimates that the livestock (including poultry) sector (which provides draft animal power, leather, wool, milk, eggs, fertilizer, pharmaceuticals, etc., in addition to meat) contributes about 18 percent of global GHG emissions expressed as 100-year CO2 equivalents.
+
+A 2009 study by the Worldwatch Institute argued that the FAO's report had underestimated impacts related to metha",,
+T298,Output losses of the steam turbine due to normal fouling,HasMinValue,5 MW,Fouling,"This process is usually most important for colloidal particles, i.e., particles smaller than about 1 μm in at least one dimension  (but which are much larger than atomic dimensions).
+
+For example, one estimate puts the losses due to fouling of heat exchangers in industrialized nations to be about 0.25% of their GDP.
+
+Another analysis estimated (for 2006) the economical loss due to boiler and turbine fouling in China utilities at 4.68 billion dollars, which is about 0.169% the country GDP.
+
+For e",,
+T299,Relative copper content per MW in solar field (100 MW plant),Reduces,30,Copper in renewable energy,"A plant of this size and storage capacity can generate 160 GWh/year in a region like Spain.
+
+A 50 MW plant with 7.5 hours of storage contains approximately 196 tonnes of copper, of which 131,500 kg are in cables and 64,700 kg are in various equipment (generators, transformers, mirrors, and motors).
+
+This translates to about 3.9 tonnes/MW, or, in other terms, 1.2 tonnes/GWh/year.
+
+A plant of the same size without storage can have 20% less copper in the solar field and 10% less in the electronic e",,
+T300,Stockholm Exergi (BECCS),HasContext,deliveries 2028–2030,Frontier Climate,"Lithos Carbon (enhanced weathering): US$57.1 million for 154,240 tons (2024–2028).
+
+Vaulted Deep (BiCRS): US$58.3 million for 152,480 tons (2024–2027).
+
+Stockholm Exergi (BECCS): US$48.6 million (deliveries 2028–2030).
+
+280 Earth (DAC): US$40 million for 61,571 tons (2024–2030).
+
+Hafslund Celsio (waste-to-energy BECCS): US$31.6 million for 100,000 tons (2029–2030).",,

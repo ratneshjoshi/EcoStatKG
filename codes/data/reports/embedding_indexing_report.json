@@ -1,0 +1,11 @@
+{
+  "triples_loaded": 49510,
+  "include_structural": false,
+  "collections": {
+    "coarse": 4394
+  },
+  "elapsed_seconds": 458.4,
+  "embedding_model": "qwen3-embedding-8b",
+  "embedding_dimensions": 4096,
+  "chroma_dir": "C:\\Users\\z0059dem\\Documents\\work-work\\paper-submissions\\Hallucination-KBS\\codes\\data\\chromadb"
+}
