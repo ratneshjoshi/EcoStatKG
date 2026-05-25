@@ -176,15 +176,6 @@ print(benchmark[0]['gold_numbers'])
 - **NF1 (Numerical F1):** Token-level F1 between predicted and gold numerical tokens.
 - **FP (Factual Precision):** Fraction of predicted numbers that match gold numbers.
 
-## Citation
-
-```bibtex
-@inproceedings{ecostatskg2026,
-  title={EcoStatKG: A Domain-Specific Statistical Knowledge Graph and Benchmark for Evaluating Numerical Hallucination in LLMs},
-  author={Anonymous},
-  year={2026}
-}
-```
 
 ## License
 
