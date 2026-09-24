@@ -224,10 +224,12 @@ print(benchmark[0]['gold_numbers'])
 ## Citation
 
 ```bibtex
-@inproceedings{ecostatskg2026,
-  title={EcoStatKG: A Domain-Specific Statistical Knowledge Graph and Benchmark for Evaluating Numerical Hallucination in LLMs},
-  author={Anonymous},
-  year={2026}
+@inproceedings{joshi2026ecostatkg,
+  title={{EcoStatKG}: A Domain-Specific Statistical Knowledge Graph and Benchmark for Evaluating Numerical Hallucination in {LLMs}},
+  author={Joshi, Ratnesh and Sengupta, Sagnik and Ekbal, Asif},
+  booktitle={Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-IJCNLP 2026)},
+  year={2026},
+  note={To appear}
 }
 ```
 
