@@ -121,6 +121,22 @@ SKIP_PATTERNS = [
 ]
 
 
+# === Optional per-domain override (for cross-domain runs) ===
+# If data_<domain>/domain_config.json exists, override the environmental defaults
+# without changing behavior for the default (environmental) run.
+_DOMAIN_CFG_PATH = DATA_DIR / "domain_config.json"
+if _DOMAIN_CFG_PATH.exists():
+    _dc = json.load(open(_DOMAIN_CFG_PATH, encoding="utf-8"))
+    ROOT_CATEGORIES = _dc.get("root_categories", ROOT_CATEGORIES)
+    DOMAIN_ANCHOR_TITLES = _dc.get("anchor_titles", DOMAIN_ANCHOR_TITLES)
+    for _p in _dc.get("unskip", []):
+        if _p in SKIP_PATTERNS:
+            SKIP_PATTERNS.remove(_p)
+    SKIP_PATTERNS = SKIP_PATTERNS + _dc.get("extra_skip", [])
+    print(f"[domain] Loaded overrides from {_DOMAIN_CFG_PATH.name}: "
+          f"{len(ROOT_CATEGORIES)} roots, {len(DOMAIN_ANCHOR_TITLES)} anchors")
+
+
 def wiki_api_call(params: dict, max_retries: int = 4) -> dict | None:
     """Wikipedia API call with retry + exponential backoff."""
     params["format"] = "json"

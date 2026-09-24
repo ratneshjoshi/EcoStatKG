@@ -9,16 +9,18 @@
 Large language models frequently produce **numerical hallucinations**—incorrect quantities, percentages, or statistics—yet existing benchmarks focus primarily on entity-level factuality. This repository provides:
 
 1. **EcoStatKG** — A knowledge graph of **50,746 statistical triples** (29 relation types) and **306,231 structural triples** extracted from 6,871 Wikipedia articles on environmental sustainability.
-2. **NumHallu** — A benchmark of **500 numerical questions** with verified gold answers derived from held-out KG topics.
+2. **NumHallu** — A benchmark of **500 numerical questions** with KG-derived gold answers from held-out topics. A 100-question subset was separately checked against primary sources.
 3. **Evaluation of 8 retrieval strategies** across 6 LLMs (~170 experimental runs), with full results and analysis.
 
 ## Key Findings
 
 | Finding | Detail |
 |---------|--------|
-| **Coverage > Sophistication** | Simple cosine retrieval achieves 0.989 NEM when the gold triple is in the index—matching graph-based methods |
-| **Retrieval as Distractor** | When gold triples are excluded, *all* retrieval methods drop below zero-shot (0.506), as retrieved distractors override parametric knowledge |
-| **Confidence Gating** | Threshold filtering at t=0.20 recovers held-out performance from 0.327 → 0.511 |
+| **Oracle coverage** | In the full-index upper-bound condition, KG Cosine reaches 0.989 NEM and is statistically indistinguishable from Graph RAG (0.992) |
+| **Held-out diagnostic** | When answer-bearing triples are removed by design, direct retrieval methods fall below zero-shot (0.506); CoNLI and CoVe remain near baseline |
+| **Threshold filtering** | At t=0.20, KG Cosine rises from 0.327 to 0.511, near zero-shot; this is damage control, not a state-of-the-art improvement |
+
+A bounded clinical/public-health proof of concept (5,174 triples, 120 questions, three models, six methods) reproduces the coverage and distractor patterns. Its KG is not released pending expert medical validation.
 
 ## Repository Structure
 
@@ -38,6 +40,7 @@ EcoStatKG/
 │   ├── 05_embedding_indexing.py        # Stage 4: Triple embedding + ChromaDB indexing
 │   ├── 06_retrieval_methods.py         # Stage 5: All 8 retrieval strategies
 │   ├── 07_evaluation.py               # Stage 6: Benchmark generation + NEM/NF1/FP evaluation
+│   ├── run_experiments.py              # Main comparison and secondary experiments
 │   ├── 08_ablation.py                 # Stage 7: Retrieval granularity × top-k ablation
 │   │                                  # Stage 8: Human quality validation (no code; see data/annotation/)
 │   ├── 10_significance.py             # Stage 9: Statistical significance tests (bootstrap, McNemar)
@@ -72,8 +75,8 @@ EcoStatKG/
 │       └── statistical_relations.json         # 29-relation schema definition
 │
 ├── results/                                   # Experiment result summaries
-│   ├── exp1_full_index/exp1_summary.json      # Full-index: 8 methods × 7 models
-│   ├── exp1_main/exp1_summary.json            # Held-out: 8 methods × 7 models
+│   ├── exp1_full_index/exp1_summary.json      # Full-index results
+│   ├── exp1_main/exp1_summary.json            # Held-out results
 │   ├── exp3_reranker/                         # Reranker ablation
 │   ├── exp4_pareto/pareto_data.json           # Latency–accuracy Pareto data
 │   ├── exp5_errors/                           # Error taxonomy (3 models)
@@ -90,16 +93,21 @@ EcoStatKG/
 
 ### Requirements
 
+Use Python 3.12. Install the packages listed in `codes/requirements.txt`:
+
 ```bash
-pip install -r codes/requirements.txt
+python -m pip install -r codes/requirements.txt
 ```
 
-The pipeline uses API-accessible LLMs (no GPU required). Configure your API keys in `codes/.env`:
+The requirements file lists package names without pinned versions. The pipeline uses API-accessible LLMs and embeddings; no local GPU is required. Create `codes/.env` from `codes/.env.example` and set the credentials and OpenAI-compatible endpoint for your provider:
 
 ```env
-OPENAI_API_KEY_1=your_key_here
+OPENAI_API_KEY=your_key_here
 LLM_BASE_URL=https://your-api-endpoint/v1
+LLM_VERIFY_SSL=true
 ```
+
+Do not commit `codes/.env` or provider credentials. Multi-key variables (`OPENAI_API_KEY_1`, etc.) are optional for scripts that parallelize API calls.
 
 ### Running the Pipeline
 
@@ -124,10 +132,47 @@ python 04_entity_normalization.py
 # Stage 4: Embed triples and build ChromaDB index
 python 05_embedding_indexing.py
 
-# Stage 5–6: Run retrieval experiments and evaluate
-python 06_retrieval_methods.py
-python 07_evaluation.py
+# Stage 5: Build the triple and text indices
+python 05_embedding_indexing.py
+
+# Stage 6: Run the six-method main comparison for one model
+python run_experiments.py --exp 1 --mode both --model mistral-small-24b
 ```
+
+The published benchmark is included in `codes/data/ecostats/ecostats_benchmark.json`; use it as-is to reproduce the paper. Regenerating it with `python 07_evaluation.py --generate-benchmark --n-samples 500` creates a new LLM-phrased sample and will not reproduce the published questions exactly.
+
+### Reproducing the Main Evaluation
+
+Run the six models reported in the paper from the `codes/` directory. The command resumes completed query files and makes API calls that may incur provider charges.
+
+```bash
+for model in mistral-small-24b ministral-14b qwen-27b deepseek-v4-flash glm-5 gpt-oss-120b; do
+    python run_experiments.py --exp 1 --mode both --model "$model"
+done
+```
+
+LightRAG and MS GraphRAG use separate runners. Build each full-index, then query all six models:
+
+```bash
+python 13_graph_baselines.py insert-lightrag
+python 13_graph_baselines.py insert-graphrag
+
+for model in mistral-small-24b ministral-14b qwen-27b deepseek-v4-flash glm-5 gpt-oss-120b; do
+    python 13_graph_baselines.py query --method lightrag --model "$model"
+    python 13_graph_baselines.py query --method ms_graphrag --model "$model"
+done
+```
+
+Build held-out graph indices and query them separately:
+
+```bash
+python 15_graph_heldout.py build-lightrag
+python 15_graph_heldout.py build-graphrag
+python 15_graph_heldout.py query-all --method lightrag
+python 15_graph_heldout.py query-all --method ms_graphrag
+```
+
+The held-out threshold sweep is run with `python 14_threshold_experiment.py`. Results are written below `results/`; evaluation summaries can be regenerated with `python 07_evaluation.py --evaluate PATH_TO_RESULTS.jsonl`.
 
 ### Using Pre-built Resources
 
@@ -176,6 +221,15 @@ print(benchmark[0]['gold_numbers'])
 - **NF1 (Numerical F1):** Token-level F1 between predicted and gold numerical tokens.
 - **FP (Factual Precision):** Fraction of predicted numbers that match gold numbers.
 
+## Citation
+
+```bibtex
+@inproceedings{ecostatskg2026,
+  title={EcoStatKG: A Domain-Specific Statistical Knowledge Graph and Benchmark for Evaluating Numerical Hallucination in LLMs},
+  author={Anonymous},
+  year={2026}
+}
+```
 
 ## License
 

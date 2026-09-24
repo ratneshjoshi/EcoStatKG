@@ -18,7 +18,12 @@ load_dotenv(Path(__file__).parent / ".env")
 PROJECT_ROOT = Path(__file__).resolve().parent
 PROJECT_BASE = PROJECT_ROOT.parent          # Hallucination/
 SCHEMA_PATH = PROJECT_ROOT / "schema" / "statistical_relations.json"
-DATA_DIR = PROJECT_ROOT / "data"
+
+# Optional domain namespacing (for cross-domain runs). Default (unset) keeps the
+# original environmental-sustainability paths untouched.
+DOMAIN = os.getenv("ECOSTATKG_DOMAIN", "").strip()
+_DOM = f"_{DOMAIN}" if DOMAIN else ""
+DATA_DIR = PROJECT_ROOT / f"data{_DOM}"
 CORPUS_DIR = DATA_DIR / "corpus"
 TRIPLES_DIR = DATA_DIR / "triples"
 EMBEDDINGS_DIR = DATA_DIR / "embeddings"
@@ -27,7 +32,7 @@ ECOSTATS_DIR = DATA_DIR / "ecostats"
 EVALUATION_DIR = DATA_DIR / "evaluation"
 REPORTS_DIR = DATA_DIR / "reports"
 SEED_TOPICS_PATH = DATA_DIR / "seed_topics.txt"
-RESULTS_DIR = PROJECT_BASE / "results"
+RESULTS_DIR = PROJECT_BASE / f"results{_DOM}"
 
 LOGS_DIR = PROJECT_BASE / "logs"
 
