@@ -35,6 +35,9 @@ logs/
 # === Share aggregate result summaries, not raw per-query JSONL outputs ===
 results/**/*.jsonl
 
+# Stale 4-model latency snapshot; paper latency comes from results/exp1_main
+results/exp4_pareto/pareto_data.json
+
 # === LLM-as-judge evaluation (excluded pending regulatory approval) ===
 codes/09_llm_evaluation.py
 results/llm_evaluation/

@@ -49,6 +49,9 @@ EcoStatKG/
 │   ├── 13_graph_baselines.py          # Stage 12: LightRAG + MS GraphRAG baselines
 │   ├── 14_threshold_experiment.py     # Stage 13: Similarity threshold filtering
 │   ├── 15_graph_heldout.py            # Stage 14: Graph baselines on held-out index
+│   ├── t4_tolerance_sensitivity.py    # NEM tolerance sensitivity (0.5/1/2/5%)
+│   ├── t5_pooled_kgcos_vs_graphrag.py # Pooled KG Cosine vs Graph RAG significance
+│   ├── t7_threshold_significance.py   # Confidence-gating significance (--domain env)
 │   │
 │   ├── data/
 │   │   ├── triples/
@@ -76,13 +79,14 @@ EcoStatKG/
 │
 ├── results/                                   # Experiment result summaries
 │   ├── exp1_full_index/exp1_summary.json      # Full-index results
+│   ├── exp1_full_index/significance_tests.json # Per-model paired significance tests
 │   ├── exp1_main/exp1_summary.json            # Held-out results
 │   ├── exp3_reranker/                         # Reranker ablation
-│   ├── exp4_pareto/pareto_data.json           # Latency–accuracy Pareto data
 │   ├── exp5_errors/                           # Error taxonomy (3 models)
 │   ├── exp6_format/                           # Output format comparison
 │   ├── exp7_temperature/                      # Temperature sensitivity
 │   ├── exp8_wikidata/                         # Wikidata baseline comparison
+│   ├── exp9_threshold/                        # Held-out similarity-threshold sweep
 │   └── ablation/                              # Granularity × top-k (3 × 5 × 3 seeds)
 │
 └── docs/
@@ -129,13 +133,10 @@ python 03_structural_extraction.py
 # Stage 3: Normalize and deduplicate entities
 python 04_entity_normalization.py
 
-# Stage 4: Embed triples and build ChromaDB index
+# Stage 4: Embed triples and build the triple and text ChromaDB indices
 python 05_embedding_indexing.py
 
-# Stage 5: Build the triple and text indices
-python 05_embedding_indexing.py
-
-# Stage 6: Run the six-method main comparison for one model
+# Stage 5: Run the six-method main comparison for one model
 python run_experiments.py --exp 1 --mode both --model mistral-small-24b
 ```
 
@@ -173,6 +174,26 @@ python 15_graph_heldout.py query-all --method ms_graphrag
 ```
 
 The held-out threshold sweep is run with `python 14_threshold_experiment.py`. Results are written below `results/`; evaluation summaries can be regenerated with `python 07_evaluation.py --evaluate PATH_TO_RESULTS.jsonl`.
+
+### Statistical Analyses
+
+These scripts re-score the per-query outputs written by the runs above (`results/**/*.jsonl`); they make no API calls. Raw per-query outputs are not committed, so run the evaluations first.
+
+```bash
+# NEM tolerance sensitivity (0.5%, 1%, 2%, 5%)
+python t4_tolerance_sensitivity.py
+
+# Pooled paired bootstrap + McNemar: KG Cosine vs Graph RAG (full-index and held-out)
+python t5_pooled_kgcos_vs_graphrag.py
+
+# Per-model paired significance tests against a reference method
+python 10_significance.py --results-dir ../results/exp1_full_index
+
+# Confidence-gating significance at t=0.20: recovery, gated KG Cosine vs gated Graph RAG, parity with zero-shot
+python t7_threshold_significance.py --domain env
+```
+
+On Windows, set `PYTHONUTF8=1` before running these scripts so result files are read as UTF-8.
 
 ### Using Pre-built Resources
 

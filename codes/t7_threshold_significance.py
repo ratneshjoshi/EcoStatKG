@@ -10,17 +10,35 @@ Three tests at t=0.20:
   (a) RECOVERY   : hpti gated (t=0.20) vs no-gate (tnone)  -> should be significant
   (b) ALGORITHM  : hpti (t=0.20) vs graph_rag (t=0.20)     -> should be non-sig
   (c) PARITY     : hpti (t=0.20) vs zero_shot              -> should be non-sig
+
+Use --domain env for the environmental held-out sweep (six paper models).
 """
-import json, re, math, random
+import argparse, json, re, math, random
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-BENCH = ROOT / "codes" / "data_clinical" / "ecostats" / "ecostats_benchmark.json"
-THR = ROOT / "results_clinical" / "exp9_threshold"
-MAIN = ROOT / "results_clinical" / "exp1_main"
-MODELS = ["qwen-27b", "glm-5"]  # glm-5 endpoint = deepseek-v4-flash after June alias switch
+DOMAINS = {
+    "clinical": dict(
+        bench=ROOT / "codes" / "data_clinical" / "ecostats" / "ecostats_benchmark.json",
+        results=ROOT / "results_clinical",
+        models=["qwen-27b", "glm-5"],  # glm-5 endpoint = deepseek-v4-flash after June alias switch
+    ),
+    "env": dict(
+        bench=ROOT / "codes" / "data" / "ecostats" / "ecostats_benchmark.json",
+        results=ROOT / "results",
+        models=["mistral-small-24b", "ministral-14b", "qwen-27b",
+                "deepseek-v4-flash", "glm-5", "gpt-oss-120b"],
+    ),
+}
+_args = argparse.ArgumentParser()
+_args.add_argument("--domain", choices=DOMAINS, default="clinical")
+_cfg = DOMAINS[_args.parse_args().domain]
+BENCH = _cfg["bench"]
+THR = _cfg["results"] / "exp9_threshold"
+MAIN = _cfg["results"] / "exp1_main"
+MODELS = _cfg["models"]
 
-gold = {i["question"]: i["gold_numbers"] for i in json.load(open(BENCH))}
+gold = {i["question"]: i["gold_numbers"] for i in json.load(open(BENCH, encoding="utf-8"))}
 
 def nums(t): return re.findall(r'-?\d+(?:,\d{3})*(?:\.\d+)?(?:\s*%)?', str(t))
 def norm(s):
@@ -38,7 +56,7 @@ def nem(pred, golds, tol=0.01):
     return 0
 def perq(path):
     o = {}
-    for l in open(path):
+    for l in open(path, encoding="utf-8"):
         if l.strip():
             r = json.loads(l); q = r.get("query", "")
             if q in gold and "error" not in r:
