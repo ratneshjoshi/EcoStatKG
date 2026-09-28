@@ -52,7 +52,6 @@ codes/check_progress.sh
 codes/run_graphrag_heldout_all.sh
 codes/run_lightrag_heldout_all.sh
 codes/run_remaining.sh
-codes/README.md
 
 # === Paper materials (kept out of Git) ===
 /ARR-paper/
